@@ -1,5 +1,37 @@
 # Kur'an'ın İlahi Kaynağı Argümanı
 
+## İçindekiler
+
+- [Kur'an'ın İlahi Kaynağı Argümanı](#kuranın-i̇lahi-kaynağı-argümanı)
+  - [İçindekiler](#i̇çindekiler)
+  - [Ana Argüman Formülasyonu](#ana-argüman-formülasyonu)
+  - [Argümanın Mantıksal Yapısı](#argümanın-mantıksal-yapısı)
+    - [Mantıksal Geçerlilik vs. Sağlamlık](#mantıksal-geçerlilik-vs-sağlamlık)
+    - [Argümanın İspat Yükü](#argümanın-i̇spat-yükü)
+  - [1. Öncül 1: Metodolojik Çerçeve ve Gerekçelendirme](#1-öncül-1-metodolojik-çerçeve-ve-gerekçelendirme)
+    - [1.1 İnsan-Üstü Bilgi Kriteri](#11-i̇nsan-üstü-bilgi-kriteri)
+    - [1.2 Değişmezlik Kriteri](#12-değişmezlik-kriteri)
+    - [1.3 Birleşik Koşul: Neden Her İkisi Birden Gerekli?](#13-birleşik-koşul-neden-her-i̇kisi-birden-gerekli)
+  - [2. Öncül 2a: Kur'an'ın Değişmezliği](#2-öncül-2a-kuranın-değişmezliği)
+    - [2.1 Birmingham Kur'an (568 - 645)](#21-birmingham-kuran-568---645)
+    - [2.2 Tübingen Kur'an (649 - 675)](#22-tübingen-kuran-649---675)
+    - [2.3 Topkapı Kur'an'ı (651 - 8. yüzyıl ortası)](#23-topkapı-kuranı-651---8-yüzyıl-ortası)
+  - [3. Öncül 2b: Kur'an'daki Çağının Ötesindeki Bilgiler](#3-öncül-2b-kurandaki-çağının-ötesindeki-bilgiler)
+    - [3.4 Kur'an'daki Matematiksel Düzen](#34-kurandaki-matematiksel-düzen)
+  - [4. Alternatif Açıklamaların İncelenmesi](#4-alternatif-açıklamaların-i̇ncelenmesi)
+    - [4.1 "Şanslı Tahminler" Hipotezi](#41-şanslı-tahminler-hipotezi)
+    - [4.2 "Kayıp Antik Kaynaklardan Alıntı" Hipotezi](#42-kayıp-antik-kaynaklardan-alıntı-hipotezi)
+    - [4.3 "Sonradan Yapılan Değişiklikler" Hipotezi](#43-sonradan-yapılan-değişiklikler-hipotezi)
+    - [4.4 "Metne Sonradan Anlam Yükleme" Hipotezi](#44-metne-sonradan-anlam-yükleme-hipotezi)
+      - [Antik Bilimin Bilinen Hataları](#antik-bilimin-bilinen-hataları)
+      - [7. Yüzyıl Bilimsel Konsensüsü](#7-yüzyıl-bilimsel-konsensüsü)
+      - [Tarihsel Bağlam: 7. Yüzyıl Arabistan'ında Bilgi Erişimi](#tarihsel-bağlam-7-yüzyıl-arabistanında-bilgi-erişimi)
+      - [Karşılaştırmalı Metin Analizi](#karşılaştırmalı-metin-analizi)
+      - [Akademik Konsensüs: Kayıp Metinler](#akademik-konsensüs-kayıp-metinler)
+    - [Kaynaklar](#kaynaklar)
+  - [Sonuç](#sonuç)
+  - [Kaynakça](#kaynakça)
+
 ## Ana Argüman Formülasyonu
 
 **Öncül 1:** Eğer Kur'an, yazıldığı dönemde üretilemeyecek bilgiler içeriyorsa VE değişmemişse → Tanrı tarafından gönderilmiştir
@@ -123,13 +155,78 @@ En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'
 **Topkapı Kur'an'ı sayfalarının görselleri:**
 https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up
 
-### 3.4 Kur'an'daki Matematiksel Düzen
+---
 
-Kur'an'ın yazıldığından beri değişmediğini göstermek için bir diğer yöntem, Kur'an'ın içinde matematiksel bir düzen olmasıdır. Eğer bu düzeni sağlamak zorsa, bu matematiksel düzenin korunarak ayetlerin değiştirilmesi de zorlaşır. 
+## 3. Öncül 2b: Kur'an'daki Çağının Ötesindeki Bilgiler
 
-Bir de üstüne, eskiden bilinmeyen matematiksel düzenler yazıldığı zamandan sonra bulunduysa, bu konu Kur'an'ın korunmuşluğunun da ötesine geçerek (yani ikinci öncülü desteklemenin ötesinde) artık Kur'an'ın Tanrı tarafından geldiğinin de göstergesi olur (üçüncü öncülü de destekler). 
+Bu öncül, argümanın ikinci ayağını oluşturur. Daha önce belirtildiği gibi, metnin ne kadar eskiye dayandığından ziyade, içerdiği bilgilerin zamansal imkansızlığı argümanın asıl gücünü belirler.
 
-**Not:** Bu konuyu bir insanın argüman olarak sunabilmesi veya eleştirebilmesi için, iddia edilen matematiksel düzenlerin detaylarını incelemesi gerekmektedir. Bu nedenle, bu bölümde spesifik matematiksel örüntülere yer verilecektir.
+Burada gösterilmesi gereken, Kur'an'da yer alan bilgilerin, metni yazıldığı dönemde - hatta çok sonrasında bile - insan bilgisinin erişemeyeceği türden olduğudur. Bu bilgiler öyle nitelikte olmalı ki, 200-300 yıl öncesine kadar bile keşfedilememiş olsun.
+
+### 3.1 Bilimsel İçerik
+
+#### Değerlendirme Kriterleri
+
+Bir bilginin "çağının ötesinde" olduğunu söyleyebilmek için aşağıdaki kriterlerin sağlanması gerekir:
+
+**Tarihsel İmkansızlık:**
+- İlgili bilgi, **metnin yazıldığı dönemde bilinmiyor** olmalı
+- **Uzun bir süre boyunca** (yüzyıllar) keşfedilememiş olmalı
+- Modern bilimle **keşfedilme tarihi dokumentli** ve **yakın tarihli** olmalı
+- Dönemin **yaygın teorileriyle çelişiyor** olmalı
+
+**Spesifiklik:**
+- Belirsiz, yoruma açık ifadeler değil, **test edilebilir spesifik bilgiler** olmalı
+- "Genel doğrular" veya "şanslı tahminler" kategorisine girmeyen **net ifadeler** olmalı
+- Farklı yorumlanabilir genel ifadeler değil, **tek anlam taşıyan bilgiler** olmalı
+
+**Sistematik Doğruluk:**
+- Sadece birkaç doğru değil, **sistematik olarak doğru bilgiler** içermeli
+- Dönemin **yaygın yanlışlarından kaçınmış** olmalı
+- Modern bilimle **çelişmeyen bir tutarlılık** göstermeli
+
+**Bağımsızlık:**
+- Mevcut kaynaklardan **alıntı olamayacak** bilgiler olmalı
+- O dönemde **erişilebilir kaynaklarda bulunmayan** bilgiler olmalı
+- Diğer **çağdaş metinlerde geçmeyen** bilgiler olmalı
+
+#### Metodolojik Yaklaşım
+
+Her örnek için şu analiz yapılacaktır:
+
+1. **Dönemin durumu:** Metni yazıldığı dönemde bu konuda ne biliniyordu?
+2. **Kur'an'ın ifadesi:** Ayet ne söylüyor? (Türkçe ve Arapça)
+3. **Modern keşif:** Bu bilgi ne zaman ve nasıl keşfedildi?
+4. **Alternatif açıklamaların reddi:** Tesadüf, alıntı veya belirsiz yorum olabilir mi?
+5. **Sonuç:** Neden bu bilgi çağının ötesindedir?
+
+**Önemli Notlar:**
+- Her iddia titizlikle incelenmeli. Abartı veya zayıf deliller argümanı zayıflatır.
+- Modern bilimsel terimlerle Kur'an ayetlerini zorla eşleştirme yapmaktan kaçınılmalı.
+- Sadece açık ve net örtüşmeler kabul edilmeli.
+
+[Bu bölümde spesifik örnekler sunulacaktır]
+
+---
+
+### 3.2 Matematiksel Düzen
+
+#### Metodolojik Yaklaşım
+
+Her matematiksel örüntü için şu analiz yapılacaktır:
+
+1. **Düzenin tanımı:** Hangi matematiksel örüntü tespit edilmiştir?
+2. **Keşif tarihi:** Bu düzen ne zaman ve kim tarafından fark edilmiştir?
+3. **İstatistiksel analiz:** Bu düzenin tesadüfi olma olasılığı nedir?
+4. **Korunmuşluk delili:** Bu düzen metnin değişmediğini nasıl gösterir?
+5. **İlahi kaynak delili:** Neden bu düzen insan yapısı olamaz?
+
+**Önemli Notlar:**
+- Matematiksel düzen hem metnin korunmuşluğunu (2a öncülü) hem de ilahi kaynağını (2b öncülü) destekleyen çifte işlev görür.
+- Bu konuyu değerlendirebilmek için spesifik matematiksel örüntülerin detaylarının incelenmesi gerekmektedir.
+- Birkaç örnek tesadüf olabilir, ancak sistematik düzen paterni tesadüfle açıklanamaz.
+
+[Bu bölümde spesifik matematiksel örnekler sunulacaktır]
 
 ## 4. Alternatif Açıklamaların İncelenmesi
 
@@ -334,53 +431,9 @@ Moller, Violet (2019). *The Map of Knowledge: How Classical Ideas Were Lost and 
 
 **Not:** Tüm web kaynakları 2025 yılı itibariyle erişilebilir durumdadır. Akademik makaleler için DOI numaraları verilmiştir.
 
-## 1. Öncül: Kur'an'ın İnsan Üstü Bir Kaynaktan Geldiğini Anlamanın Yolu
-
-Eğer Kur'an, 1400 yıl önce yazılamayacak bilgilere sahip ise ve bu kitap o zamandan beri değişmemişse, bu durum Kur'an'ın Tanrı tarafından gönderilmiş olduğunu gösterebilir. O dönemde farklı kitaplar ve metinler mevcut olabilir, ancak bu metinler zamanın bilgi birikimine dayandığından yanlış bilgilere de sahip olabiliyordu. Buna karşın, Kur'an'da yalnızca doğru bilgilere yer verilmesi ve o dönemin yanlış bilgilerini içermemesi, onun insan kaynaklı olmadığını düşündürebilir. Eğer bir kitap, yalnızca doğru bilgileri içeriyorsa ve bu bilgiler o zaman insan aklının ötesinde ise, bu da Kur'an'ın Tanrıdan geldiğini destekleyen bir argüman olarak kullanılabilir.
-
 ---
 
-## 2. Öncül: Kur'an'ın 1400 Yıl Önce Yazılmış Olması
-
-Öncelikle birinci öncülü sağlamamız için bu maddenin kesinlikle doğru olması gerekmektedir mi acaba? 1400 yıl önce yazılmış olduğunu gösterebilirsek sonucun doğru olduğuna ulaşmamızda önemli bir yol kat etmiş oluruz. Ancak 1400 yıl öncesinden beri değişmediğine dair delilleri göstermeden önce 1400 yıldır değil de 1200 yıldır önce veya 600 yıldır değişmediğini gösterebilirsek yine bu kitabın Tanrıdan geldiğini söyleyebiliriz. Çünkü üçüncü öncül için deliller gösterirken o bilgilerin bazılarının 1400 yılı bırakın 200 yıl öncesine kadar bile bilinemeyeceğini de göstereceğiz.
-
-### 2.1 Eski Kur'an Nüshaları
-
-Kur'an'ın yazıldığından beri değişmediğini göstermenin ilk ve herkesin aklına gelen yolu yazıldığı tarihe yakın bir Kur'an nüshasının bu zamanki Kur'an nüshaları ile aynı metne sahip olduğunu göstermektir. 3 tane örnek göstereceğim ama isteyen kişiler diğer Kur'an nüshalarına da internetten kendileri erişebilirler.
-
-#### 2.1.1 Birmingham Kur'an (568 - 645)
-
-Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1379 yıldır korunmuş sayfa örnekleri vardır.
-
-**Birmingham Kur'an sayfalarının görselleri:**
-https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/
-
-**Birmingham Kur'an ve mevcut Kur'an karşılaştırması:**
-https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS
-
-#### 2.1.2 Tübingen Kur'an (649 - 675)
-
-Almanya'daki Tübingen Üniversitesi'ndeki Kuran parçası MS 649 - MS 675 arasındaki bir döneme tarihlenmiştir. Bu tarih, el yazmasının en azından 1349 yıllık olduğu anlamına gelir. El yazmasının parçaları Zürih'teki bir laboratuvarda modern C14-radyokarbon kullanılarak analiz edildi ve %95,4 istatistiksel olasılıkla tarihlendirildi. Cilt olarak, Kur'an'ın içeriğinin yaklaşık dörtte birini içermektedir. Bu el yazmasında, Kur'an'ın 17:35'ten 36:57'ye kadar olan metnini içeren 77 sayfa bulunmaktadır. Bu, Kur'an'ın toplam metninin yaklaşık %26,2'sini oluşturmaktadır.
-
-**Tübingen Kur'an sayfalarının görselleri:**
-https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165
-
-#### 2.1.3 Topkapı Kur'an'ı (651 - mid-8th century)
-
-Bu benim görüşüme göre en önemli Kur'an nüshasıdır. Çünkü Birmingham Kur'an'a göre daha genç olsa da neredeyse tamamı korunmuştur. Bana göre birinci öncülü desteklemek için bu Kur'an yeterlidir.
-
-En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'unu içermektedir. Yalnızca iki sayfası (23 ayet) eksik olan bu el yazması, Kur'an'ın tam metnine en yakın olanıdır.
-
-**Topkapı Kur'an'ı sayfalarının görselleri:**
-https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up
-
-### 2.2 Kur'an'daki Matematiksel Düzen
-
-Kur'an'ın yazıldığından beri değişmediğini göstermek için bir diğer yöntem Kur'an'ın içinde matematiksel olarak bir düzen olmasıdır. Eğer bu düzeni sağlamak zorsa bu matematiksel düzenin korunarak ayetlerin değiştirilmesi de zorlaşır. Bir de üstüne eskiden bilinmeyen matematiksel düzenler yazıldığı zamandan sonra bulunduysa bu konu Kur'an'ın korunmuşluğunun da ötesine geçerek (yani ikinci öncülü) artık Kur'an'ın Tanrı tarafından geldiğinin de göstergesi olur (üçüncü öncül). Bu konuyu bir insanın argüman olarak sunabilmesi veya bu konuyu eleştirebilmesi için bunların üzerinden bir defa kendi geçmesi gerekmektedir.
-
----
-
-## 3. Öncül: Kur'an'ın İnsan Tarafından Yazılamayacağının ve Çağının Ötesinde Olduğunun Delilleri
+## Sonuç
 
 [Bu bölüm henüz doldurulmamıştır]
 
