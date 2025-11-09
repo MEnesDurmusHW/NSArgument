@@ -92,11 +92,10 @@ Bunun nedeni basittir: Üçüncü öncül için sunacağımız deliller arasınd
 
 **Örnek mantık:** Eğer Kur'an'ın 600 yıldır değişmediğini kanıtlayabilirsek ve içinde 300 yıl önce keşfedilen bilgiler varsa, bu bilgiler 600 yıl önce orada olmalıydı - yani sonradan eklenemez.
 
-### 2.1 Eski Kur'an Nüshaları
+Kur'an'ın yazıldığından beri değişmediğini göstermenin en doğrudan yolu, yazıldığı tarihe yakın Kur'an nüshalarının günümüzdeki Kur'an metniyle aynı olduğunu göstermektir. Aşağıda üç örnek sunuyorum; isteyen okuyucular diğer nüshalara da internetten erişebilir.
 
-Kur'an'ın yazıldığından beri değişmediğini göstermenin ilk ve en doğrudan yolu, yazıldığı tarihe yakın bir Kur'an nüshasının günümüzdeki Kur'an nüshaları ile aynı metne sahip olduğunu göstermektir. Burada 3 örnek sunuyorum, ancak isteyen kişiler diğer Kur'an nüshalarına da internetten erişebilirler.
 
-#### 2.1.1 Birmingham Kur'an (568 - 645)
+### 2.1 Birmingham Kur'an (568 - 645)
 
 Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1379 yıldır korunmuş sayfa örnekleri vardır.
 
@@ -106,7 +105,7 @@ https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/
 **Birmingham Kur'an ve mevcut Kur'an karşılaştırması:**
 https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS
 
-#### 2.1.2 Tübingen Kur'an (649 - 675)
+### 2.2 Tübingen Kur'an (649 - 675)
 
 Almanya'daki Tübingen Üniversitesi'ndeki Kuran parçası MS 649 - MS 675 arasındaki bir döneme tarihlenmiştir. Bu tarih, el yazmasının en azından 1349 yıllık olduğu anlamına gelir. El yazmasının parçaları Zürih'teki bir laboratuvarda modern C14-radyokarbon kullanılarak analiz edildi ve %95,4 istatistiksel olasılıkla tarihlendirildi. 
 
@@ -115,7 +114,7 @@ Cilt olarak, Kur'an'ın içeriğinin yaklaşık dörtte birini içermektedir. Bu
 **Tübingen Kur'an sayfalarının görselleri:**
 https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165
 
-#### 2.1.3 Topkapı Kur'an'ı (651 - mid-8th century)
+### 2.3 Topkapı Kur'an'ı (651 - 8. yüzyıl ortası)
 
 Bu, benim görüşüme göre en önemli Kur'an nüshasıdır. Çünkü Birmingham Kur'an'a göre daha genç olsa da neredeyse tamamı korunmuştur. İkinci öncülü (2a) desteklemek için bu Kur'an tek başına yeterlidir.
 
@@ -124,7 +123,7 @@ En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'
 **Topkapı Kur'an'ı sayfalarının görselleri:**
 https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up
 
-### 2.2 Kur'an'daki Matematiksel Düzen
+### 3.4 Kur'an'daki Matematiksel Düzen
 
 Kur'an'ın yazıldığından beri değişmediğini göstermek için bir diğer yöntem, Kur'an'ın içinde matematiksel bir düzen olmasıdır. Eğer bu düzeni sağlamak zorsa, bu matematiksel düzenin korunarak ayetlerin değiştirilmesi de zorlaşır. 
 
