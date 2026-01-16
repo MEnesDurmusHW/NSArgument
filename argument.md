@@ -298,7 +298,7 @@ Mikroskobik detayların ve gelişim sıralamasının doğru verilmesi, dönemin 
 Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar kavramı yoktu. Akdeniz medeniyetleri sadece yüzey olaylarını gözlemleyebiliyordu.
 
 **Kur'an'ın İfadesi:**
-"Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu dalga üstüne dalga kaplıyor." (Nur 24:40)
+"Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu **dalga üstüne dalga** kaplıyor, üstünde de bulut var; karanlıklar üst üste. Elini çıkarsa neredeyse onu bile göremez." (Nur 24:40)
 
 **Modern Keşif:**
 - 1904: Norveçli okyanus bilimci V.W. Ekman iç dalgaları teorize etti
@@ -318,7 +318,7 @@ Derin denizlerde farklı su katmanları arasında oluşan iç dalgalar, ancak mo
 Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinliklerinin tamamen karanlık olduğu ve katmanlı yapısı bilinmiyordu.
 
 **Kur'an'ın İfadesi:**
-"Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir... üstünde de bulut var. Karanlıklar üst üste... Elini çıkarsa neredeyse onu bile göremez." (Nur 24:40)
+"Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu dalga üstüne dalga kaplıyor, üstünde de bulut var; **karanlıklar üst üste. Elini çıkarsa neredeyse onu bile göremez.**" (Nur 24:40)
 
 **Modern Keşif:**
 - 20\. yüzyıl denizaltı keşifleri:
@@ -393,9 +393,13 @@ Antik teoriler canlıların farklı elementlerden oluştuğunu savunuyordu:
 **Alternatif Açıklamaların Reddi:**
 - Gözlemle bilinir iddiası: İnsanlar susuz ölebilir ama "her canlı sudan" ifadesi mikroorganizmaları da kapsar
 - Tesadüf iddiası: Neden toprak değil de su? Dönemin yaratılış hikayeleri toprak/kil diyor
+- "Kur'an çamurdan da diyor" iddiası: Kur'an iki farklı gerçeği ayrı ayrı ifade ediyor:
+  - **Su** (tüm canlılar için): Biyolojik gerçek - hücrelerin %70-90'ı su, yaşam suda başladı
+  - **Toprak/Çamur** (insan için): Kimyasal gerçek - vücuttaki elementler (karbon, azot, fosfor, demir vb.) toprakta bulunur
+  - Bu iki ifade çelişki değil, tamamlayıcı: Su biyolojik bileşen, toprak kimyasal kaynak
 
 **Sonuç:**
-Yaşamın sudan/okyanustan başladığı modern bilimle uyumlu, dönemin mitolojilerine aykırı.
+Kur'an hem suyun biyolojik önemini hem de toprağın kimyasal kaynağını doğru tanımlıyor. "Her canlı sudan" ifadesi modern biyolojiyle, "insanı topraktan" ifadesi modern kimyayla uyumlu.
 
 #### 8. Örümcek Evi Benzetmesi
 
