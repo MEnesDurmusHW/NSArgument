@@ -8,6 +8,7 @@
   - [Argümanın Mantıksal Yapısı](#argümanın-mantıksal-yapısı)
     - [Mantıksal Geçerlilik vs. Sağlamlık](#mantıksal-geçerlilik-vs-sağlamlık)
     - [Argümanın İspat Yükü](#argümanın-i̇spat-yükü)
+    - [Argümanı Reddetmenin Yolları](#argümanı-reddetmenin-yolları)
   - [1. Öncül 1: Metodolojik Çerçeve ve Gerekçelendirme](#1-öncül-1-metodolojik-çerçeve-ve-gerekçelendirme)
     - [1.1 İnsan-Üstü Bilgi Kriteri](#11-i̇nsan-üstü-bilgi-kriteri)
     - [1.2 Değişmezlik Kriteri](#12-değişmezlik-kriteri)
@@ -79,7 +80,7 @@ Bu argüman **modus ponens** mantık formunu kullanır, ki bu mantıkta en temel
 - P doğrudur
 - O halde Q doğrudur
 
-**Bizim Argümanda:**
+**Bu Argümanda:**
 - Eğer (Kur'an dönemin ötesinde bilgi içerir VE değişmemiş) ise (Tanrı'dan gelir)
 - (Kur'an dönemin ötesinde bilgi içerir VE değişmemiş)
 - O halde (Kur'an Tanrı'dan gelir)
@@ -93,6 +94,18 @@ Bu argüman **modus ponens** mantık formunu kullanır, ki bu mantıkta en temel
 2. Tüm öncüllerin gerçekte doğru olması (? Bu kanıtlanması gereken)
 
 ### Argümanın İspat Yükü
+
+Bu argüman bir pozitif iddia ortaya koyduğundan, ispat yükü argümanı sunan taraftadır. Yani Kur'an'ın ilahi kaynağını iddia eden taraf, öncüllerin doğruluğunu göstermekle yükümlüdür:
+
+**Öncül 1 için:** Bu öncül bir koşullu önermedir ve mantıksal olarak savunulması gerekir. "Neden bu iki koşul ilahi kaynağı gösterir?" sorusuna cevap verilmelidir. Bu, Bölüm 1'de (Metodolojik Çerçeve) detaylıca yapılmaktadır.
+
+**Öncül 2a için:** Kur'an'ın değişmediği tarihsel ve arkeolojik delillerle kanıtlanmalıdır. Bu yük, Bölüm 2'de manuskript analizleriyle (Birmingham, Tübingen, Topkapı) karşılanmaktadır.
+
+**Öncül 2b için:** Kur'an'da dönemin ötesinde bilgiler olduğu spesifik örneklerle gösterilmelidir. Bu, argümanın en ağır ispat yükünü taşıyan kısmıdır ve Bölüm 3'te detaylıca ele alınmaktadır.
+
+**Not:** İspat yükü karşılandıktan sonra, argümanı reddetmek isteyen taraf da kendi karşı-iddialarını desteklemekle yükümlü hale gelir. Aşağıda bu durumun detayları verilmiştir.
+
+### Argümanı Reddetmenin Yolları
 
 Bu argümanın sonucunu reddetmek isteyen biri için üç seçenek vardır:
 
@@ -145,7 +158,7 @@ Her iki koşul birlikte sağlandığında - yani metin hem değişmemiş hem de 
 
 Birinci öncülü sağlayabilmek için bu öncülün kesinlikle doğru olması gerekir mi? Aslında tam olarak gerekli değildir. Kur'an'ın 1400 yıl önce yazıldığını gösterebilirsek sonuca ulaşmada önemli bir mesafe kat etmiş oluruz. Ancak dikkat çekici bir nokta vardır: 1400 yıl değil de örneğin 1200 yıl veya hatta sadece 600 yıl öncesine kadar değişmediğini gösterebilsek bile, bu kitabın ilahi kaynağını ispatlama noktasında yeterli olacaktır.
 
-Bunun nedeni basittir: Üçüncü öncül için sunacağımız deliller arasında, 1400 yılı bir yana, 200 yıl öncesine kadar bile insanlığın bilmesi mümkün olmayan bilgiler bulunmaktadır. Dolayısıyla metnin tam yaşından ziyade, içerdiği bilgilerin zamansal imkansızlığı argümanın gücünü belirleyen asıl faktördür.
+Bunun nedeni basittir: Üçüncü öncül için sunacağım deliller arasında, 1400 yılı bir yana, 200 yıl öncesine kadar bile insanlığın bilmesi mümkün olmayan bilgiler bulunmaktadır. Dolayısıyla metnin tam yaşından ziyade, içerdiği bilgilerin zamansal imkansızlığı argümanın gücünü belirleyen asıl faktördür.
 
 **Örnek mantık:** Eğer Kur'an'ın 600 yıldır değişmediğini kanıtlayabilirsek ve içinde 300 yıl önce keşfedilen bilgiler varsa, bu bilgiler 600 yıl önce orada olmalıydı - yani sonradan eklenemez.
 
@@ -265,8 +278,8 @@ Her ikisi de aşamalı gelişimi bilmiyordu.
 "Andolsun biz insanı çamurdan bir süzmeden yarattık. Sonra onu sağlam bir karar yerine nutfe (sperm) olarak koyduk. Sonra nutfeyi alaka (asılı/yapışan) haline getirdik. Alakayı da mudga (çiğnenmiş et parçası) şekline soktuk. Mudgayı kemiklere dönüştürdük, kemiklere de et giydirdik. Sonra onu başka bir yaratılışla inşa ettik." (Müminun 23:12-14)
 
 **Modern Keşif:**
-- 17. yüzyıl: Mikroskop ile embriyolojik aşamalar görülmeye başlandı
-- 19. yüzyıl: Von Baer embriyolojinin kurucusu oldu
+- 17\. yüzyıl: Mikroskop ile embriyolojik aşamalar görülmeye başlandı
+- 19\. yüzyıl: Von Baer embriyolojinin kurucusu oldu
 - Modern embriyoloji: Aşamalar tam olarak Kur'an'ın tarifiyle örtüşüyor:
   - Alaka: Embriyo rahim duvarına yapışır (implantasyon)
   - Mudga: 4. hafta, somitler belirginleşir (çiğnenmiş et görünümü)
@@ -289,7 +302,7 @@ Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar k
 
 **Modern Keşif:**
 - 1904: Norveçli okyanus bilimci V.W. Ekman iç dalgaları teorize etti
-- 20. yüzyıl ortası: Denizaltı teknolojisi ile iç dalgalar doğrudan gözlemlendi
+- 20\. yüzyıl ortası: Denizaltı teknolojisi ile iç dalgalar doğrudan gözlemlendi
 - İç dalgalar: Farklı yoğunluktaki su katmanları arasında oluşur
 
 **Alternatif Açıklamaların Reddi:**
@@ -308,7 +321,7 @@ Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinlikleri
 "Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir... üstünde de bulut var. Karanlıklar üst üste... Elini çıkarsa neredeyse onu bile göremez." (Nur 24:40)
 
 **Modern Keşif:**
-- 20. yüzyıl denizaltı keşifleri:
+- 20\. yüzyıl denizaltı keşifleri:
   - 200m: Fotik bölge sonu, ışık azalır (alacakaranlık bölgesi)
   - 1000m: Afotik bölge, tam karanlık başlar
 - Karanlık katmanları: Bulut gölgesi + yüzey suyu + orta su + derin su
@@ -373,7 +386,7 @@ Antik teoriler canlıların farklı elementlerden oluştuğunu savunuyordu:
 "Biz her canlı şeyi sudan yarattık." (Enbiya 21:30)
 
 **Modern Keşif:**
-- 19. yüzyıl: Hücre teorisi, canlıların %70-90'ının su olduğu keşfedildi
+- 19\. yüzyıl: Hücre teorisi, canlıların %70-90'ının su olduğu keşfedildi
 - 1950'ler: Miller-Urey deneyi, yaşamın ilkel okyanuslarda başladığı teorisi
 - Modern biyoloji: Su yaşam için vazgeçilmez, tüm biyokimyasal reaksiyonlar sulu ortamda
 
@@ -420,8 +433,8 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
 "Gökler ve yer O'nun emriyle durmaktadır. Sonra sizi yerden bir tek çağırışla çağırdığı zaman bir de bakarsınız ki çıkıveriyorsunuz." (Rum 30:25)
 
 **Modern Keşif:**
-- 19. yüzyıl: Termodinamik yasaları - evrenin ısı ölümü teorisi
-- 20. yüzyıl: Big Bang teorisi evrenin bir başlangıcı olduğunu gösterdi
+- 19\. yüzyıl: Termodinamik yasaları - evrenin ısı ölümü teorisi
+- 20\. yüzyıl: Big Bang teorisi evrenin bir başlangıcı olduğunu gösterdi
 - Modern kozmoloji: Evrenin kaçınılmaz sonu (Big Freeze, Big Crunch veya Big Rip)
 
 **Alternatif Açıklamaların Reddi:**
@@ -441,7 +454,7 @@ Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülü
 "Yeri döşedik ve orada sabit dağlar yarattık." (Enbiya 21:31)
 
 **Modern Keşif:**
-- 19. yüzyıl: George Airy izostazi teorisini geliştirdi
+- 19\. yüzyıl: George Airy izostazi teorisini geliştirdi
 - Modern jeoloji: Dağların kök yapısı, yüzeydeki kütlenin 5-10 katı derinliğe iner
 - Dağlar gerçekten kazık gibi mantoya saplanmıştır
 
@@ -483,8 +496,8 @@ Gökyüzü sadece görünen mavi kubbeyi. Atmosferin koruyucu işlevi, manyetik 
 "Göğü dönen (geri döndüren) olana yemin olsun." (Tarık 86:11)
 
 **Modern Keşif:**
-- 19. yüzyıl: Atmosferin yapısı anlaşıldı
-- 20. yüzyıl: Van Allen radyasyon kuşakları, ozon tabakası keşfedildi
+- 19\. yüzyıl: Atmosferin yapısı anlaşıldı
+- 20\. yüzyıl: Van Allen radyasyon kuşakları, ozon tabakası keşfedildi
 - Atmosfer: Meteorları yakar, zararlı ışınları filtreler, ısıyı tutar
 
 **Alternatif Açıklamaların Reddi:**
@@ -591,7 +604,7 @@ Bu ayet, Cehennem bekçilerinin sayısından bahsettikten sonra, **19 sayısın�
 - 3×2 sistematik yapının tamamında tutarlılık
 
 **"İnsan tarafından kasıtlı yapıldı" iddiası:**
-- 7. yüzyılda hesaplama araçları: Kağıt-kalem
+- 7\. yüzyılda hesaplama araçları: Kağıt-kalem
 - 58 basamaklı sayının 19'a bölünebilirliğini el ile test etmek günler alır
 - Bir harf değişikliği tüm 6 sonucu bozar → sonsuz deneme gerekir
 
@@ -615,7 +628,7 @@ Bu ayet, Cehennem bekçilerinin sayısından bahsettikten sonra, **19 sayısın�
 
 ##### Sonuç
 
-VII. yüzyılda, Kur'an'da "19" sayısını vurgulayıp, ardından kitabın ilk cümlesini (besmele) bu sayıyla 6 farklı ama sistematik şekilde uyumlu yapmak:
+7. yüzyılda, Kur'an'da "19" sayısını vurgulayıp, ardından kitabın ilk cümlesini (besmele) bu sayıyla 6 farklı ama sistematik şekilde uyumlu yapmak:
 
 - **Dönemin teknolojisiyle insan gücünü aşar** (bilgisayarsız 58 basamaklı sayıları test etmek)
 - **Önceden hedef belirtilmiştir** (tesadüf/cherry-picking argümanını geçersiz kılar)
