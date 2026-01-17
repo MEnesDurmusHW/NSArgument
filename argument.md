@@ -28,12 +28,13 @@
       - [5. Bal Arısının Dişil Takısı](#5-bal-arısının-dişil-takısı)
       - [6. Dağların Hareketi ve Levha Tektoniği](#6-dağların-hareketi-ve-levha-tektoniği)
       - [7. Her Canlının Sudan Yaratılması](#7-her-canlının-sudan-yaratılması)
-      - [8. Örümcek Evi Benzetmesi](#8-örümcek-evi-benzetmesi)
-      - [9. Evrenin Bir Sonu Olması](#9-evrenin-bir-sonu-olması)
-      - [10. Dağların Kök Yapısı](#10-dağların-kök-yapısı)
-      - [11. Yörüngeler ve Gök Cisimleri](#11-yörüngeler-ve-gök-cisimleri)
-      - [12. Koruyucu Gök (Atmosfer/Manyetosfer)](#12-koruyucu-gök-atmosfermanyetosfer)
-      - [13. Ayın Işık Kaynağı Olmaması](#13-ayın-işık-kaynağı-olmaması)
+      - [8. İnsanın Topraktan Yaratılması](#8-i̇nsanın-topraktan-yaratılması)
+      - [9. Örümcek Evi Benzetmesi](#9-örümcek-evi-benzetmesi)
+      - [10. Evrenin Bir Sonu Olması](#10-evrenin-bir-sonu-olması)
+      - [11. Dağların Kök Yapısı](#11-dağların-kök-yapısı)
+      - [12. Yörüngeler ve Gök Cisimleri](#12-yörüngeler-ve-gök-cisimleri)
+      - [13. Koruyucu Gök (Atmosfer/Manyetosfer)](#13-koruyucu-gök-atmosfermanyetosfer)
+      - [14. Ayın Işık Kaynağı Olmaması](#14-ayın-işık-kaynağı-olmaması)
     - [3.2 Matematiksel Düzen](#32-matematiksel-düzen)
       - [Metodolojik Yaklaşım](#metodolojik-yaklaşım-1)
       - [1. 19 Sayısı ve Besmele'nin Matematiksel Yapısı](#1-19-sayısı-ve-besmelenin-matematiksel-yapısı)
@@ -55,6 +56,9 @@
       - [Akademik Konsensüs: Kayıp Metinler](#akademik-konsensüs-kayıp-metinler)
     - [Kaynaklar](#kaynaklar)
   - [Sonuç](#sonuç-1)
+  - [Ekler](#ekler)
+    - [Ek A: Neml 88 Ayeti - Gramer ve Tefsir Analizi](#ek-a-neml-88-ayeti---gramer-ve-tefsir-analizi)
+    - [Ek B: Kur'an'da Dağların Sabitliği ve Hareketi: "Revâsî" ve "Cibâl" Kelime Analizi](#ek-b-kuran-da-dağların-sabitliği-ve-hareketi-revâsî-ve-cibâl-kelime-analizi)
   - [Kaynakça](#kaynakça)
   - [Dipnotlar](#dipnotlar)
 
@@ -376,10 +380,16 @@ Dağların levha hareketiyle yer değiştirmesi ancak 20. yüzyılda anlaşılm�
 #### 7. Her Canlının Sudan Yaratılması
 
 **7. Yüzyıl Durumu:**
-Antik teoriler canlıların farklı elementlerden oluştuğunu savunuyordu:
-- Aristoteles: Dört element teorisi (toprak, su, hava, ateş)
-- Spontaneous generation: Canlılar topraktan, çamurdan kendiliğinden oluşur
-- Yaratılış mitolojileri: İnsanlar kilden, taştan veya tanrıların kanından
+Antik dönemde canlıların kökeni için birçok farklı teori vardı:
+- **Thales (MÖ 624-546)**: Her şeyin kaynağı su
+- **Anaximenes (MÖ 585-525)**: Her şeyin kaynağı hava
+- **Heraclitus (MÖ 535-475)**: Her şeyin kaynağı ateş
+- **Empedocles (MÖ 490-430)**: Dört element teorisi (toprak, su, hava, ateş)
+- **Aristoteles (MÖ 384-322)**: Dört element + ether (beşinci element)
+- **Spontaneous generation**: Canlılar çamurdan kendiliğinden oluşur
+- **Yaratılış mitolojileri**: İnsanlar kilden, taştan veya tanrıların kanından
+
+7\. yüzyılda bu teorilerin hepsi hala yaygındı. Hangisinin doğru olduğu bilinmiyordu.
 
 **Kur'an'ın İfadesi:**
 "Allah her canlıyı sudan yarattı." (Nur 24:45)
@@ -392,16 +402,39 @@ Antik teoriler canlıların farklı elementlerden oluştuğunu savunuyordu:
 
 **Alternatif Açıklamaların Reddi:**
 - Gözlemle bilinir iddiası: İnsanlar susuz ölebilir ama "her canlı sudan" ifadesi mikroorganizmaları da kapsar
-- Tesadüf iddiası: Neden toprak değil de su? Dönemin yaratılış hikayeleri toprak/kil diyor
-- "Kur'an çamurdan da diyor" iddiası: Kur'an iki farklı gerçeği ayrı ayrı ifade ediyor:
-  - **Su** (tüm canlılar için): Biyolojik gerçek - hücrelerin %70-90'ı su, yaşam suda başladı
-  - **Toprak/Çamur** (insan için): Kimyasal gerçek - vücuttaki elementler (karbon, azot, fosfor, demir vb.) toprakta bulunur
-  - Bu iki ifade çelişki değil, tamamlayıcı: Su biyolojik bileşen, toprak kimyasal kaynak
+- Tesadüf iddiası: Eğer Kur'an bu bilgiyi antik kaynaklardan alıyorsa, onlarca teori arasından neden tam doğru olanı seçti? Dönemde hava, ateş, toprak, çamur, ether gibi alternatifler eşit derecede "makul" görünüyordu. Kur'an'ın sistematik olarak doğru olanı seçmesi tesadüfle açıklanamaz
 
 **Sonuç:**
-Kur'an hem suyun biyolojik önemini hem de toprağın kimyasal kaynağını doğru tanımlıyor. "Her canlı sudan" ifadesi modern biyolojiyle, "insanı topraktan" ifadesi modern kimyayla uyumlu.
+Kur'an, antik düşünürlerin spekülatif teorileri arasından modern bilimin doğruladığı tek seçeneği (su) belirledi.
 
-#### 8. Örümcek Evi Benzetmesi
+#### 8. İnsanın Topraktan Yaratılması
+
+**7. Yüzyıl Durumu:**
+Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, su, hava, ateş; Hint felsefesinde beş element), ancak bunlar felsefi spekulasyonlardı. İnsan vücudunun hangi kimyasal elementlerden oluştuğu bilinmiyordu. Yaratılış hikayeleri mitolojikti ve bilimsel temelden yoksundu.
+
+**Kur'an'ın İfadesi:**
+"O ki sizleri topraktan yarattı." (Enam 6:2)
+"Andolsun, biz insanı süzme bir çamurdan yarattık." (Mü'minun 23:12)
+"O, sizi topraktan yarattı." (Rum 30:20)
+
+**Modern Keşif:**
+- 19-20\. yüzyıl kimya: İnsan vücudunun element kompozisyonu çözüldü
+- Temel bulgular:
+  - İnsanda bulunan tüm elementler (oksijen, karbon, hidrojen, azot, kalsiyum, fosfor, kükürt, sodyum, potasyum, klor, magnezyum, demir, çinko vb.) yer kabuğunda/toprakta bulunuyor
+  - İnsanda olan ama toprakta olmayan hiçbir element yok
+  - Elementel kompozisyon tam uyumlu
+
+**Alternatif Açıklamaların Reddi:**
+- Tesadüf iddiası: Antik dönemde onlarca yaratılış teorisi vardı (taştan, kandan, hayvanlardan dönüşüm vb.). Kur'an'ın neden tam doğru olanı söylemesi tesadüf olamaz
+- "Su da diyor" eleştirisi: Kur'an iki farklı gerçeği ayırıyor - su biyolojik (hücreler), toprak kimyasal (elementler). İkisi de doğru, çelişki değil tamamlayıcı
+
+**Sonuç:**
+Kur'an'ın "insanı topraktan yarattık" ifadesi modern kimyanın bulgularıyla tam uyumlu. İnsan vücudu gerçekten topraktaki elementlerden oluşuyor ve hiçbir "ekstra" element içermiyor.
+
+**Ek Bilimsel Detay:**
+Modern analizler gösteriyor ki insanda bulunan tüm elementler yer kabuğunda/toprakta bulunuyor. İnsanda olan ama toprakta olmayan hiçbir element yok. Bu, Kur'an'ın "insanı topraktan yarattık" ifadesinin kimyasal doğruluğunu gösteriyor - insan vücudu gerçekten topraktaki elementlerden oluşuyor.
+
+#### 9. Örümcek Evi Benzetmesi
 
 **7. Yüzyıl Durumu:**
 Örümcek ağları güçlü ve dayanıklı olarak bilinirdi. Örümceklerin aile yapısı ve dişilerin erkekleri yemesi bilinmiyordu.
@@ -423,7 +456,7 @@ Kur'an hem suyun biyolojik önemini hem de toprağın kimyasal kaynağını doğ
 **Sonuç:**
 Örümceğin aile yapısının "en zayıf" olması ancak modern davranış bilimiyle anlaşıldı.
 
-#### 9. Evrenin Bir Sonu Olması
+#### 10. Evrenin Bir Sonu Olması
 
 **7. Yüzyıl Durumu:**
 Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak sonsuza kadar devam ederdi:
@@ -448,7 +481,7 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
 **Sonuç:**
 Evrenin bir sonu olacağı fikri, dönemin sonsuz evren anlayışına tamamen aykırıydı, modern bilim bunu doğruladı.
 
-#### 10. Dağların Kök Yapısı
+#### 11. Dağların Kök Yapısı
 
 **7. Yüzyıl Durumu:**
 Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülürdü. Dağların yeraltında kökleri olduğu bilinmiyordu.
@@ -469,7 +502,7 @@ Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülü
 **Sonuç:**
 Dağların kazık benzeri kök yapısı ancak modern jeolojiyle anlaşılmıştır.
 
-#### 11. Yörüngeler ve Gök Cisimleri
+#### 12. Yörüngeler ve Gök Cisimleri
 
 **7. Yüzyıl Durumu:**
 Ptolemy modeli: Gezegenler dairesel yörüngelerde, kristal kürelerde hareket eder. Güneş Dünya'nın etrafında döner.
@@ -490,7 +523,7 @@ Ptolemy modeli: Gezegenler dairesel yörüngelerde, kristal kürelerde hareket e
 **Sonuç:**
 Gök cisimlerinin uzayda "yüzme" tarifi ve Güneş'in de hareketli olması modern astronomiyle uyumlu.
 
-#### 12. Koruyucu Gök (Atmosfer/Manyetosfer)
+#### 13. Koruyucu Gök (Atmosfer/Manyetosfer)
 
 **7. Yüzyıl Durumu:**
 Gökyüzü sadece görünen mavi kubbeyi. Atmosferin koruyucu işlevi, manyetik alan, ozon tabakası bilinmiyordu.
@@ -511,7 +544,7 @@ Gökyüzü sadece görünen mavi kubbeyi. Atmosferin koruyucu işlevi, manyetik 
 **Sonuç:**
 Gökyüzünün çok katmanlı koruyucu yapısı modern bilimle anlaşıldı.
 
-#### 13. Ayın Işık Kaynağı Olmaması
+#### 14. Ayın Işık Kaynağı Olmaması
 
 **7. Yüzyıl Durumu:**
 Birçok antik kültürde Ay ve Güneş benzer ışık kaynakları olarak görülürdü. Ay tanrıçaları kendi ışıklarıyla parlardı.
@@ -788,6 +821,241 @@ Antik dünya kütüphaneleri ve kayıp metinler hakkında kapsamlı çalışmala
 ## Sonuç
 
 [Bu bölüm henüz doldurulmamıştır]
+
+---
+
+## Ekler
+
+### Ek A: Neml 88 Ayeti - Gramer ve Tefsir Analizi
+
+#### 1. Ayetin Metni
+
+> وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ
+
+"Dağları görürsün, onları sabit sanırsın; oysa onlar bulutların geçişi gibi geçer. Her şeyi sağlam yapan Allah'ın sanatıdır."
+
+---
+
+#### 2. İki Tefsir Görüşü
+
+**Klasik yorum:** Kıyamet sahnesi. Çünkü bir önceki ayet (87) Sur'a üfürülmesinden bahsediyor.
+
+**Modern yorum:** Dünyadaki durum. Dağların yer ile birlikte hareket ettiğine işaret (dünyanın dönüşü veya tektonik hareket).
+
+---
+
+#### 3. Gramer Yapısının İncelenmesi
+
+**"تَمُرُّ" fiili:**
+- Muzâri (geniş/şimdiki zaman) kipinde
+- Gelecek zaman ön ekleri (سَ veya سوف) yok
+- Tek başına hem şimdiki hem gelecek anlama gelebilir
+
+**Eğer sadece kıyametten bahsetseydi:**
+- Mazi (geçmiş zaman) kullanılabilirdi → "وَمَرَّتِ الجبال"
+- Bu durumda 87. ayetle doğrudan bağlanırdı
+- Kur'an'da kıyamet kesinliği için mazi sık kullanılır
+
+**Ama öyle yapılmamış:**
+- Muzâri tercih edilmiş
+- Ayet gramer olarak bağımsız bir cümle
+
+---
+
+#### 4. "Sanırsın ama..." Yapısı
+
+**"تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ"**
+
+Bu yapı Kur'an'da genellikle **genel hakikatler** için kullanılır:
+
+- "Onları uyanık sanırsın, oysa uyuyorlardı" (Kehf 18)
+- "Aralarında sevgi olduğunu sanırsın, oysa kalpleri dağınıktır" (Haşr 14)
+
+Belirli bir zaman dilimine değil, **süregelen bir duruma** işaret eder.
+
+---
+
+#### 5. "صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ"
+
+"Her şeyi sağlam yapan Allah'ın sanatı"
+
+Bu ifade:
+- Yaratılıştaki **düzen ve mükemmelliğe** işaret eder
+- Kıyametteki yıkım ve dağılma sahneleriyle değil, **devam eden kozmik düzenle** daha uyumlu
+
+---
+
+#### 6. Sonuç
+
+Ayetin **kendi gramer yapısı** incelendiğinde:
+
+| Özellik | Gözlem |
+|---------|--------|
+| Fiil kipi | Muzâri (سَ/سوف yok) |
+| Cümle yapısı | Bağımsız hakikat bildirimi |
+| "Sanırsın ama..." kalıbı | Genel/süregelen durumlar için |
+| "Sağlam yapan Allah'ın sanatı" | Düzen ve devamlılık vurgusu |
+
+**Kıyamet yorumu** tamamen **bağlam** (önceki ayetle ilişki) argümanına dayanıyor.
+
+**Ayetin kendi iç yapısı** ise "Dağları sabit sanırsın ama hareket ediyorlar" şeklinde **bağımsız bir hakikat bildirimi** olarak okunmaya daha uygun görünüyor.
+
+---
+
+Her iki yorum da savunulabilir, ama gramer yapısı tek başına kıyamet yorumunu zorunlu kılmıyor.
+
+---
+
+### Ek B: Kur'an'da Dağların Sabitliği ve Hareketi: "Revâsî" ve "Cibâl" Kelime Analizi
+
+#### 1. Giriş: Görünürdeki Çelişki
+
+Kur'an-ı Kerim'de dağlarla ilgili iki farklı türde ayet bulunmaktadır:
+
+**A) Sabitlik bildiren ayetler:**
+> "Sizi sarsmasın diye yeryüzüne sabit dağlar (revâsî) koyduk" (Nahl 15, Enbiya 31, Lokman 10 vb.)
+
+**B) Hareket bildiren ayet:**
+> "Dağları (el-cibâl) görürsün, onları sabit sanırsın; oysa onlar bulutların geçişi gibi geçer" (Neml 88)
+
+Bu iki grup ayet arasında bir çelişki var gibi görünmektedir. Ancak dikkatli bir dilbilimsel analiz, durumun böyle olmadığını ortaya koymaktadır.
+
+---
+
+#### 2. Kelime Analizi: "el-Cibâl" ve "Revâsî" Farkı
+
+##### 2.1. Sabitlik Ayetlerinde Kullanılan Kelime
+
+| Ayet | Kullanılan Kelime | Metin |
+|------|-------------------|-------|
+| Nahl 15 | رَوَاسِيَ | وَأَلْقَىٰ فِي الْأَرْضِ **رَوَاسِيَ** أَن تَمِيدَ بِكُمْ |
+| Enbiya 31 | رَوَاسِيَ | وَجَعَلْنَا فِي الْأَرْضِ **رَوَاسِيَ** أَن تَمِيدَ بِهِمْ |
+| Lokman 10 | رَوَاسِيَ | وَأَلْقَىٰ فِي الْأَرْضِ **رَوَاسِيَ** أَن تَمِيدَ بِكُمْ |
+| Fussilet 10 | رَوَاسِيَ | وَجَعَلَ فِيهَا **رَوَاسِيَ** مِن فَوْقِهَا |
+| Neml 61 | رَوَاسِيَ | وَجَعَلَ لَهَا **رَوَاسِيَ** |
+| Kaf 7 | رَوَاسِيَ | وَأَلْقَيْنَا فِيهَا **رَوَاسِيَ** |
+| Mürselat 27 | رَوَاسِيَ | وَجَعَلْنَا فِيهَا **رَوَاسِيَ** شَامِخَاتٍ |
+| Nebe 7 | أَوْتَادًا | وَ**الْجِبَالَ** أَوْتَادًا |
+| Naziat 32 | أَرْسَاهَا | وَ**الْجِبَالَ** أَرْسَاهَا |
+
+##### 2.2. Hareket Ayetinde Kullanılan Kelime
+
+| Ayet | Kullanılan Kelime | Metin |
+|------|-------------------|-------|
+| Neml 88 | الْجِبَالَ | وَتَرَى **الْجِبَالَ** تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ |
+
+##### 2.3. Farkın Önemi
+
+| Sabitlik Ayetleri | Hareket Ayeti |
+|-------------------|---------------|
+| **رَوَاسِيَ** (revâsî) | **الْجِبَالَ** (el-cibâl) |
+| Sıfat: "sabit kılan / demir atmış olanlar" | Genel isim: "dağlar" |
+| Sabitleme **işlevini** vurgular | Sadece **nesneyi** tanımlar |
+
+**Kritik nokta:** Kur'an "revâsî hareket ediyor" dememektedir. Kur'an "el-cibâl hareket ediyor" demektedir. Eğer "revâsî temürru" (sabit olanlar hareket ediyor) denseydi, bu bir çelişki olurdu. Ancak "el-cibâl temürru" (dağlar hareket ediyor) denmiş, "revâsî" kelimesi kullanılmamıştır.
+
+---
+
+#### 3. "Revâsî" Kelimesinin Etimolojik Analizi
+
+##### 3.1. Kök: ر-س-و (R-S-W)
+
+**رَسَا يَرْسُو (Resâ yersû)** fiilinin sözlük anlamları:
+
+| Kullanım | Anlam |
+|----------|-------|
+| رَسَا الشَّيْءُ | Şey sabit oldu/durdu |
+| رَسَتِ السَّفِينَةُ | Gemi durdu, demir attı |
+| رَسَا الجَبَلُ | Dağın kökü yerde sabit oldu |
+
+##### 3.2. Türevler
+
+| Kelime | Türü | Anlamı |
+|--------|------|--------|
+| رَسَا (resâ) | Fiil | Sabitlendi, durdu |
+| رَاسٍ / رَاسِيَة (râsî/râsiye) | İsm-i fâil | Demir atmış, sabit duran |
+| رَوَاسِي (revâsî) | Sıfat-ı müşebbehe | Sabitleyen/sabitlenmiş olanlar |
+| مِرْسَاة (mîrsât) | İsm-i âlet | Çapa, demir |
+
+##### 3.3. Gemi-Çapa Benzetmesi: Anahtar Kavram
+
+"Revâsî" kelimesi, geminin demir atması (irsâ) ile aynı kökten gelmektedir. Bu benzetme kritik bir anlam taşımaktadır:
+
+**Gemi demir attığında (râsiye olduğunda):**
+- Gemi **tamamen hareketsiz değildir** → dalgalarla sallanmaya devam eder
+- Ancak **sürüklenmez** → çapa onu tutar
+- Çapa gemiyi **mutlak anlamda durdurmaz**, sadece **kontrolsüz sürüklenmesini engeller**
+
+**Bu dağlara uygulandığında:**
+- Dağlar yer kabuğunu **mutlak anlamda durdurmaz**
+- Ancak deprem gibi sarsıntılarda **çapa görevi görür**
+- Yer kabuğunun **aşırı sallanmasını (meyd) engeller**
+
+---
+
+#### 4. İki Farklı Olgu: Hareket ve Sabitleme
+
+##### 4.1. Cibâl: Tektonik Hareket
+
+Neml 88'de "el-cibâl" (dağlar) kelimesiyle anlatılan, dağların yer kabuğu üzerindeki hareketidir:
+
+- Tektonik plakalar sürekli hareket halindedir
+- Dağlar bu plakalarla birlikte yer değiştirir
+- Bu hareket insan ömrüne göre algılanamayacak kadar yavaştır (yılda birkaç cm)
+- Ancak jeolojik zaman diliminde dağlar gerçekten "bulut gibi geçer"
+
+**Ayetin vurgusu:** "Sabit **sanırsın**" (تَحْسَبُهَا جَامِدَةً) ifadesi, burada hızdan çok **algı yanılmasına** dikkat çekmektedir. İnsan gözüyle bakıldığında dağlar sabit görünür, oysa gerçekte hareket halindedirler.
+
+##### 4.2. Revâsî: Depremde Sabitleme İşlevi
+
+"Revâsî" ayetlerinde ise tamamen farklı bir olgu anlatılmaktadır:
+
+- "أَن تَمِيدَ بِكُمْ" (sizi sarsmasın diye) ifadesi deprem/sarsıntıya işaret eder
+- Dağların derin kökleri (jeolojide "dağ kökleri" / mountain roots) yer kabuğunu sabitler
+- Bu, geminin çapası gibi **göreceli bir sabitleme**dir
+- Dağlar yer kabuğunun **aşırı sallanmasını** engeller, **hareketini** değil
+
+---
+
+#### 5. Sentez: Çelişki Var mı?
+
+| Özellik | Cibâl (Hareket) | Revâsî (Sabitleme) |
+|---------|-----------------|---------------------|
+| Kelime | الْجِبَالَ (genel isim) | رَوَاسِيَ (sıfat) |
+| Olgu | Tektonik hareket | Depremde sabitleme |
+| Anlam | Dağlar yer kabuğuyla birlikte hareket eder | Dağlar yer kabuğunun aşırı sallanmasını engeller |
+| Benzetme | - | Gemi çapası |
+
+**Gemi analojisi ile özet:**
+Bir gemi demir atmış (râsiye) olabilir ve aynı zamanda:
+- Dalgalarla **sallanır** (küçük hareketler olur)
+- Ama **sürüklenmez** (çapa tutar)
+
+Benzer şekilde dağlar:
+- Yer kabuğuyla birlikte **hareket eder** (tektonik)
+- Ama yer kabuğunun **aşırı sallanmasını engeller** (depremde çapa görevi)
+
+---
+
+#### 6. Sonuç
+
+Kur'an'da dağların hem hareket ettiğinin hem de sabitleme işlevi gördüğünün belirtilmesi bir çelişki değildir. Bunun nedenleri:
+
+1. **Farklı kelimeler kullanılmıştır:** Hareket için "el-cibâl" (genel isim), sabitleme için "revâsî" (işlev bildiren sıfat)
+
+2. **Farklı olgular anlatılmaktadır:** Cibâl tektonik hareketi, revâsî depremde sabitleme işlevini ifade eder
+
+3. **"Revâsî" etimolojisi bunu destekler:** Gemi çapası gibi, göreceli sabitleme anlamı taşır - mutlak hareketsizlik değil, kontrolsüz sürüklenmeyi engelleme
+
+4. **İki olgu birbiriyle çelişmez:** Bir nesne hem hareket edebilir hem de başka bir şeyi sabitleyebilir - tıpkı demir atmış geminin hem sallanması hem de sürüklenmemesi gibi
+
+---
+
+#### 7. Kaynaklar
+
+**Sözlük kaynakları:** Lisânü'l-Arab, Mu'cemü'l-Meânî
+
+**Jeoloji:** Isostasy (izostatik denge) teorisi, tektonik plaka hareketi
 
 ---
 
