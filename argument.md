@@ -27,12 +27,12 @@
       - [4. Denizlerin Karanlık Katmanları](#4-denizlerin-karanlık-katmanları)
       - [5. Bal Arısının Dişil Takısı](#5-bal-arısının-dişil-takısı)
       - [6. Dağların Hareketi ve Levha Tektoniği](#6-dağların-hareketi-ve-levha-tektoniği)
-      - [7. Her Canlının Sudan Yaratılması](#7-her-canlının-sudan-yaratılması)
-      - [8. İnsanın Topraktan Yaratılması](#8-i̇nsanın-topraktan-yaratılması)
-      - [9. Örümcek Evi Benzetmesi](#9-örümcek-evi-benzetmesi)
-      - [10. Evrenin Bir Sonu Olması](#10-evrenin-bir-sonu-olması)
-      - [11. Dağların Kök Yapısı](#11-dağların-kök-yapısı)
-      - [12. Yörüngeler ve Gök Cisimleri](#12-yörüngeler-ve-gök-cisimleri)
+      - [7. Dağların Kök Yapısı](#7-dağların-kök-yapısı)
+      - [8. Her Canlının Sudan Yaratılması](#8-her-canlının-sudan-yaratılması)
+      - [9. İnsanın Topraktan Yaratılması](#9-i̇nsanın-topraktan-yaratılması)
+      - [10. Örümcek Evi Benzetmesi](#10-örümcek-evi-benzetmesi)
+      - [11. Evrenin Bir Sonu Olması](#11-evrenin-bir-sonu-olması)
+      - [12. Güneş'in Hareketi](#12-güneşin-hareketi)
       - [13. Koruyucu Gök (Atmosfer/Manyetosfer)](#13-koruyucu-gök-atmosfermanyetosfer)
       - [14. Ayın Işık Kaynağı Olmaması](#14-ayın-işık-kaynağı-olmaması)
     - [3.2 Matematiksel Düzen](#32-matematiksel-düzen)
@@ -54,13 +54,12 @@
       - [Tarihsel Bağlam: 7. Yüzyıl Arabistan'ında Bilgi Erişimi](#tarihsel-bağlam-7-yüzyıl-arabistanında-bilgi-erişimi)
       - [Karşılaştırmalı Metin Analizi](#karşılaştırmalı-metin-analizi)
       - [Akademik Konsensüs: Kayıp Metinler](#akademik-konsensüs-kayıp-metinler)
-    - [Kaynaklar](#kaynaklar)
-  - [Sonuç](#sonuç-1)
-  - [Ekler](#ekler)
+  - [5. Sonuç](#5-sonuç)
+  - [6. Ekler](#6-ekler)
     - [Ek A: Neml 88 Ayeti - Gramer ve Tefsir Analizi](#ek-a-neml-88-ayeti---gramer-ve-tefsir-analizi)
     - [Ek B: Kur'an'da Dağların Sabitliği ve Hareketi: "Revâsî" ve "Cibâl" Kelime Analizi](#ek-b-kuran-da-dağların-sabitliği-ve-hareketi-revâsî-ve-cibâl-kelime-analizi)
-  - [Kaynakça](#kaynakça)
   - [Dipnotlar](#dipnotlar)
+  - [Kaynakça](#kaynakça)
 
 ## Ana Argüman Formülasyonu
 
@@ -171,31 +170,21 @@ Kur'an'ın yazıldığından beri değişmediğini göstermenin en doğrudan yol
 
 ### 2.1 Birmingham Kur'an (568 - 645)
 
-Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1379 yıldır korunmuş sayfa örnekleri vardır.
+Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1379 yıldır korunmuş sayfa örnekleri vardır.[^1]
 
-**Birmingham Kur'an sayfalarının görselleri:**
-https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/
-
-**Birmingham Kur'an ve mevcut Kur'an karşılaştırması:**
-https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS
+Birmingham Kur'an ve mevcut Kur'an arasında yapılan istatistiksel karşılaştırma, metinlerin özdeş olduğunu göstermektedir.[^2]
 
 ### 2.2 Tübingen Kur'an (649 - 675)
 
 Almanya'daki Tübingen Üniversitesi'ndeki Kuran parçası MS 649 - MS 675 arasındaki bir döneme tarihlenmiştir. Bu tarih, el yazmasının en azından 1349 yıllık olduğu anlamına gelir. El yazmasının parçaları Zürih'teki bir laboratuvarda modern C14-radyokarbon kullanılarak analiz edildi ve %95,4 istatistiksel olasılıkla tarihlendirildi. 
 
-Cilt olarak, Kur'an'ın içeriğinin yaklaşık dörtte birini içermektedir. Bu el yazmasında, Kur'an'ın 17:35'ten 36:57'ye kadar olan metnini içeren 77 sayfa bulunmaktadır. Bu, Kur'an'ın toplam metninin yaklaşık %26,2'sini oluşturmaktadır.
-
-**Tübingen Kur'an sayfalarının görselleri:**
-https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165
+Cilt olarak, Kur'an'ın içeriğinin yaklaşık dörtte birini içermektedir. Bu el yazmasında, Kur'an'ın 17:35'ten 36:57'ye kadar olan metnini içeren 77 sayfa bulunmaktadır. Bu, Kur'an'ın toplam metninin yaklaşık %26,2'sini oluşturmaktadır.[^3]
 
 ### 2.3 Topkapı Kur'an'ı (651 - 8. yüzyıl ortası)
 
 Bu, benim görüşüme göre en önemli Kur'an nüshasıdır. Çünkü Birmingham Kur'an'a göre daha genç olsa da neredeyse tamamı korunmuştur. İkinci öncülü (2a) desteklemek için bu Kur'an tek başına yeterlidir.
 
-En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'unu içermektedir. Yalnızca iki sayfası (23 ayet) eksik olan bu el yazması, Kur'an'ın tam metnine en yakın olanıdır.
-
-**Topkapı Kur'an'ı sayfalarının görselleri:**
-https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up
+En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'unu içermektedir. Yalnızca iki sayfası (23 ayet) eksik olan bu el yazması, Kur'an'ın tam metnine en yakın olanıdır.[^4]
 
 ---
 
@@ -377,7 +366,33 @@ Dağlar sabit, hareketsiz yapılar olarak bilinirdi. Antik kozmolojilerde dağla
 **Sonuç:**
 Dağların levha hareketiyle yer değiştirmesi ancak 20. yüzyılda anlaşılmıştır.
 
-#### 7. Her Canlının Sudan Yaratılması
+#### 7. Dağların Kök Yapısı
+
+**7. Yüzyıl Durumu:**
+Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülürdü. Dağların yeraltında kökleri olduğu bilinmiyordu.
+
+**Kur'an'ın İfadesi:**
+"Dağları (el-cibâl) da birer kazık (evtâd) yapmadık mı?" (Nebe 78:7)
+"Yeri döşedik ve orada sabit dağlar (revâsî) yarattık." (Enbiya 21:31)
+"Sizi sarsmasın diye yeryüzüne sabit dağlar (revâsî) koyduk." (Nahl 16:15)
+
+*Not: Kur'an dağların kök yapısını "kazık" (evtâd) benzetmesiyle, sabitleme işlevini ise "revâsî" (sabitleyici/demir atmış) kelimesiyle vurgular.*
+
+**Modern Keşif:**
+- 19\. yüzyıl: George Airy izostazi teorisini geliştirdi
+- Modern jeoloji: Dağların kök yapısı, yüzeydeki kütlenin 5-10 katı derinliğe iner
+- Dağlar gerçekten kazık gibi mantoya saplanmıştır
+
+**Alternatif Açıklamaların Reddi:**
+- Gözlemle bilinir iddiası: Dağların yeraltı yapısı görülemez
+- Metafor iddiası: "Kazık" benzetmesi teknik olarak doğru
+- Hareket çelişkisi iddiası: Başka ayetlerde (Neml 88) dağların hareket ettiği söyleniyor, bu "sabit" ifadesiyle çelişiyor
+  - Red: Kur'an sabitlik ayetlerinde "revâsî" (sabitleyici) kelimesini kullanıyor, bu bir işlevi tarif ediyor. Dağlar yer kabuğunu sabitlerken aynı zamanda yer kabuğuyla birlikte hareket edebilir (Detaylı analiz için bkz. Ek B)
+
+**Sonuç:**
+Dağların kazık benzeri kök yapısı ve sabitleme işlevi (revâsî) ancak modern jeolojiyle anlaşılmıştır.
+
+#### 8. Her Canlının Sudan Yaratılması
 
 **7. Yüzyıl Durumu:**
 Antik dönemde canlıların kökeni için birçok farklı teori vardı:
@@ -407,7 +422,7 @@ Antik dönemde canlıların kökeni için birçok farklı teori vardı:
 **Sonuç:**
 Kur'an, antik düşünürlerin spekülatif teorileri arasından modern bilimin doğruladığı tek seçeneği (su) belirledi.
 
-#### 8. İnsanın Topraktan Yaratılması
+#### 9. İnsanın Topraktan Yaratılması
 
 **7. Yüzyıl Durumu:**
 Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, su, hava, ateş; Hint felsefesinde beş element), ancak bunlar felsefi spekulasyonlardı. İnsan vücudunun hangi kimyasal elementlerden oluştuğu bilinmiyordu. Yaratılış hikayeleri mitolojikti ve bilimsel temelden yoksundu.
@@ -431,32 +446,30 @@ Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, 
 **Sonuç:**
 Kur'an'ın "insanı topraktan yarattık" ifadesi modern kimyanın bulgularıyla tam uyumlu. İnsan vücudu gerçekten topraktaki elementlerden oluşuyor ve hiçbir "ekstra" element içermiyor.
 
-**Ek Bilimsel Detay:**
-Modern analizler gösteriyor ki insanda bulunan tüm elementler yer kabuğunda/toprakta bulunuyor. İnsanda olan ama toprakta olmayan hiçbir element yok. Bu, Kur'an'ın "insanı topraktan yarattık" ifadesinin kimyasal doğruluğunu gösteriyor - insan vücudu gerçekten topraktaki elementlerden oluşuyor.
-
-#### 9. Örümcek Evi Benzetmesi
+#### 10. Örümcek Evi Benzetmesi
 
 **7. Yüzyıl Durumu:**
-Örümcek ağları güçlü ve dayanıklı olarak bilinirdi. Örümceklerin aile yapısı ve dişilerin erkekleri yemesi bilinmiyordu.
+Örümceklerin aile yapısı ve davranışları bilinmiyordu. Örümceklerin çiftleşme sonrası yamyamlık davranışı (sexual cannibalism) ve yavruların birbirini yemesi gözlemlenmemişti.
 
 **Kur'an'ın İfadesi:**
 "Allah'tan başka dostlar edinenlerin durumu, kendine ev edinen örümceğin durumu gibidir. Evlerin en zayıfı ise şüphesiz örümcek evidir." (Ankebut 29:41)
 
 **Modern Keşif:**
 - Modern arakhnoloji: Örümcek "evi" (aile yapısı) gerçekten en zayıf:
-  - Dişi örümcekler çiftleşme sonrası erkekleri yer
-  - Yavru örümcekler birbirlerini yer (kardeş yamyamlığı)
-  - Anne örümcek bazen yavrularını yer
-- Ağın fiziksel gücü değil, aile yapısının zayıflığı kastediliyor
+  - Dişi örümcekler çiftleşme sonrası erkekleri yer (sexual cannibalism)
+  - Yavru örümcekler birbirlerini yer (kardeş yamyamlığı/sibling cannibalism)
+  - Anne örümcek bazen yavrularını yer (matriphagy)
+- "Ev" (بَيْت - beyt) kelimesi Arapça'da hem fiziksel yapı hem de aile/yuva anlamına gelir
+- Ayetin bağlamı "evlerin en zayıfı" derken aile bağlarının zayıflığına işaret ediyor
 
 **Alternatif Açıklamaların Reddi:**
-- Ağın zayıflığı iddiası: Örümcek ağı çok güçlüdür, çelikten sağlam
-- Tesadüf iddiası: "Ev" kelimesi özellikle aile/yuva anlamında kullanılmış
+- Tesadüf iddiası: "Ev" kelimesinin özellikle kullanılması ve "en zayıf" vurgusu, fiziksel yapıdan çok aile yapısına işaret ediyor
+- Gözlemle bilinir iddiası: 7. yüzyılda örümceklerin yamyamlık davranışları gözlemlenemezdi, mikroskobik ayrıntılar gerektiriyordu
 
 **Sonuç:**
-Örümceğin aile yapısının "en zayıf" olması ancak modern davranış bilimiyle anlaşıldı.
+Örümceğin aile yapısının "en zayıf" olması (yamyamlık, kardeş yamyamlığı) ancak modern davranış bilimiyle anlaşıldı.
 
-#### 10. Evrenin Bir Sonu Olması
+#### 11. Evrenin Bir Sonu Olması
 
 **7. Yüzyıl Durumu:**
 Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak sonsuza kadar devam ederdi:
@@ -481,47 +494,40 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
 **Sonuç:**
 Evrenin bir sonu olacağı fikri, dönemin sonsuz evren anlayışına tamamen aykırıydı, modern bilim bunu doğruladı.
 
-#### 11. Dağların Kök Yapısı
+#### 12. Güneş'in Hareketi
 
 **7. Yüzyıl Durumu:**
-Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülürdü. Dağların yeraltında kökleri olduğu bilinmiyordu.
+Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güneş'in hareketli olduğu düşünülüyordu.
 
 **Kur'an'ın İfadesi:**
-"Dağları da birer kazık yapmadık mı?" (Nebe 78:7)
-"Yeri döşedik ve orada sabit dağlar yarattık." (Enbiya 21:31)
-
-**Modern Keşif:**
-- 19\. yüzyıl: George Airy izostazi teorisini geliştirdi
-- Modern jeoloji: Dağların kök yapısı, yüzeydeki kütlenin 5-10 katı derinliğe iner
-- Dağlar gerçekten kazık gibi mantoya saplanmıştır
-
-**Alternatif Açıklamaların Reddi:**
-- Gözlemle bilinir iddiası: Dağların yeraltı yapısı görülemez
-- Metafor iddiası: "Kazık" benzetmesi teknik olarak doğru
-
-**Sonuç:**
-Dağların kazık benzeri kök yapısı ancak modern jeolojiyle anlaşılmıştır.
-
-#### 12. Yörüngeler ve Gök Cisimleri
-
-**7. Yüzyıl Durumu:**
-Ptolemy modeli: Gezegenler dairesel yörüngelerde, kristal kürelerde hareket eder. Güneş Dünya'nın etrafında döner.
-
-**Kur'an'ın İfadesi:**
-"O, geceyi, gündüzü, güneşi ve ayı yaratandır. Her biri bir yörüngede yüzmektedir." (Enbiya 21:33)
 "Güneş de kendisi için takdir edilmiş bir yörüngede/istikamette akıp gitmektedir. İşte bu, güçlü ve her şeyi bilen Allah'ın takdiridir." (Yasin 36:38)
 
-**Modern Keşif:**
-- 1609: Kepler eliptik yörüngeleri keşfetti
-- Modern astronomi: Güneş de galaktik merkez etrafında yörüngede
-- "Yüzme" ifadesi uzay boşluğundaki hareketi tarif ediyor
+**Modern Keşif - Üç Aşamalı Süreç:**
+
+1. **1543: Kopernik Devrimi**
+   - Nicolaus Copernicus heliosentrik modeli önerdi
+   - **Güneş DURAĞAN ve merkezde** (heliostatic)
+   - Dünya ve gezegenler Güneş'in etrafında döner
+   - Bu noktada Kur'an'ın "Güneş akıp gidiyor" ifadesi yanlış görünüyordu
+
+2. **1918-1927: Galaktik Hareketin Keşfi**
+   - Harlow Shapley (1918): Güneş galaksinin merkezinde değil, 30,000 ışık yılı uzakta
+   - Jan Oort (1927): Güneş galaktik merkez etrafında yörüngede hareket ediyor
+   - Galaktik yörünge hızı: ~220 km/saniye
+   - Bir galaktik yıl: ~225-250 milyon yıl
+
+3. **Kritik Ara Dönem**
+   - 16\. yüzyıldan 20. yüzyıla kadar (400 yıl boyunca) bilim Güneş'in durağan olduğunu düşündü
+   - Bu dönemde Kur'an'ın ifadesi bilimle çelişiyor gibi görünüyordu
+   - 1927'de Güneş'in galaktik hareketi keşfedilince ayet doğru çıktı
 
 **Alternatif Açıklamaların Reddi:**
-- Ptolemy modeli iddiası: Kur'an kristal kürelerden bahsetmiyor
-- Güneşin hareketi: Hem günlük hem galaktik harekete işaret
+- Geocentric modeli kastediyor iddiası: Eğer öyle olsaydı, Kopernik sonrası hala "doğru" görünürdü. Oysa 400 yıl "yanlış" görünüp sonra doğru çıkması, basit geocentric anlatımdan fazlasına işaret ediyor
+- Tesadüf iddiası: Kopernik devrimi sonrası 4 asır boyunca "yanlış" görünen bir ifadenin sonradan doğru çıkması tesadüf değil, derin bir bilgiyi gösterir
+- Belirsiz ifade: "Akıp gitmek" hareketi açıkça ifade ediyor, durağanlık anlamına gelmez
 
 **Sonuç:**
-Gök cisimlerinin uzayda "yüzme" tarifi ve Güneş'in de hareketli olması modern astronomiyle uyumlu.
+Güneş'in hareketli olduğu ifadesi, heliosentrik modelin Güneş'i durağan kabul ettiği 400 yıllık dönemde yanlış görünmüş, ancak 20. yüzyılda galaktik hareketin keşfiyle doğrulanmıştır. Bu, basit geocentric bilginin ötesinde bir öngörüdür.
 
 #### 13. Koruyucu Gök (Atmosfer/Manyetosfer)
 
@@ -733,13 +739,13 @@ Bu sonuca varmadan önce, olası doğal açıklamaları inceleyip dışlamamız 
 Dönemin otorite kabul edilen bilim insanlarının sistematik hataları:
 
 **Aristoteles'in hataları:**
-- Spontaneous generation (cansız maddeden canlı oluşumu) teorisi [^1]
-- Kadınların erkeklerden daha az dişi olduğu iddiası [^2]
+- Spontaneous generation (cansız maddeden canlı oluşumu) teorisi [^5]
+- Kadınların erkeklerden daha az dişi olduğu iddiası [^6]
 
 **Galen'in hataları:**
-- Kanın karaciğerde üretilip tüketildiği (dolaşım sistemi yok) [^3]
-- Uterusun iki bölmeli olduğu [^4]
-- Beyin boşluklarında "ruhların" bulunduğu [^5]
+- Kanın karaciğerde üretilip tüketildiği (dolaşım sistemi yok) [^7]
+- Uterusun iki bölmeli olduğu [^8]
+- Beyin boşluklarında "ruhların" bulunduğu [^9]
 
 *Kritik nokta:* Eğer Kur'an bu kaynaklardan derleme yapsaydı, bu hataları da içermesi gerekirdi. Sadece doğru kısımları seçmek, hangisinin doğru olduğunu önceden bilmeyi gerektirir - ki bu zaten açıklanması gereken şeydir.
 
@@ -747,19 +753,19 @@ Dönemin otorite kabul edilen bilim insanlarının sistematik hataları:
 
 Dönemin yaygın ve neredeyse evrensel kabul gören yanlış teorileri:
 
-- **Geocentrism (Yer-merkezli evren):** Ptolemy modeli, tüm antik ve ortaçağ dünyasında kabul görüyordu [^7]
-- **Spontaneous generation:** Aristoteles'ten beri yaygın inanış, 17. yüzyıla kadar sürdü [^8]
-- **Four humors teorisi:** Tıbbın temeli olarak kabul ediliyordu [^9]
-- **Çeşitli embriyolojik yanılgılar:** Dönemin tıp otoriteleri tarafından öğretiliyor [^10]
+- **Geocentrism (Yer-merkezli evren):** Ptolemy modeli, tüm antik ve ortaçağ dünyasında kabul görüyordu [^11]
+- **Spontaneous generation:** Aristoteles'ten beri yaygın inanış, 17. yüzyıla kadar sürdü [^12]
+- **Four humors teorisi:** Tıbbın temeli olarak kabul ediliyordu [^13]
+- **Çeşitli embriyolojik yanılgılar:** Dönemin tıp otoriteleri tarafından öğretiliyor [^14]
 
 *Test sorusu:* Kur'an bu yaygın hataları içeriyor mu?
 
 #### Tarihsel Bağlam: 7. Yüzyıl Arabistan'ında Bilgi Erişimi
 
 **Kütüphane ve tercüme durumu:**
-- İslam öncesi Mekke ve Medine'de bilinen kütüphane veya bilimsel merkez yok [^11]
-- Bilimsel metinlerin sistematik Arapça çevirileri 8. yüzyılda Abbasi dönemiyle başladı [^12]
-- Tercüme hareketi: Huneyn ibn Ishaq gibi tercümanlar 9. yüzyılda Galen'i *olduğu gibi* çevirdi, yanlışlarıyla birlikte [^13]
+- İslam öncesi Mekke ve Medine'de bilinen kütüphane veya bilimsel merkez yok [^15]
+- Bilimsel metinlerin sistematik Arapça çevirileri 8. yüzyılda Abbasi dönemiyle başladı [^16]
+- Tercüme hareketi: Huneyn ibn Ishaq gibi tercümanlar 9. yüzyılda Galen'i *olduğu gibi* çevirdi, yanlışlarıyla birlikte [^17]
 
 **Mantıksal sonuç:** Eğer bu bilgiler 7. yüzyıl Arabistan'ında erişilebilir olsaydı:
 1. Dönemin şairleri ve bilginleri de bunları kullanabilirdi
@@ -771,9 +777,9 @@ Bunların hiçbiri olmadı.
 #### Karşılaştırmalı Metin Analizi
 
 **Mevcut İslam öncesi Arapça metinler:**
-- Muallakat (Asılı Kasideler) - dönemin en prestijli şiir koleksiyonu [^14]
-- Ayyam al-Arab (Arap savaş hikayeleri ve tarih anlatıları) [^15]
-- Câhiliye dönemi şiir divanları [^16]
+- Muallakat (Asılı Kasideler) - dönemin en prestijli şiir koleksiyonu [^18]
+- Ayyam al-Arab (Arap savaş hikayeleri ve tarih anlatıları) [^19]
+- Câhiliye dönemi şiir divanları [^20]
 
 **Analiz sonucu:** Bu metinlerde:
 - Kur'an'daki türden bilimsel/kozmolojik bilgiler yok
@@ -785,46 +791,21 @@ Bunların hiçbiri olmadı.
 #### Akademik Konsensüs: Kayıp Metinler
 
 Antik dünya kütüphaneleri ve kayıp metinler hakkında kapsamlı çalışmalar mevcut:
-- İskenderiye Kütüphanesi kataloğu kısmen bilinir [^17]
-- Bağdat Bilgelik Evi'nin tercüme listesi var [^18]
+- İskenderiye Kütüphanesi kataloğu kısmen bilinir [^21]
+- Bağdat Bilgelik Evi'nin tercüme listesi var [^22]
 - Kayıp metinlerin varlığı, diğer kaynaklarda yapılan atıflardan anlaşılır
 
 **Kur'an'daki bilgiler için:** Böyle atıflar veya katalog kayıtları mevcut değil. "Belki vardı ama kayboldular" kanıtlanamaz bir varsayımdır.
 
 ---
 
-### Kaynaklar
-
-
-**Galen'in Hataları Üzerine:**
-- Acierno, Louis J. (2016). "Discovery of the cardiovascular system: from Galen to William Harvey." *Journal of Cardiac Surgery*, 31(8):490-499. DOI: 10.1111/jocs.12815.
-- Boylan, Michael (2007). "Galen." *Internet Encyclopedia of Philosophy*. (https://iep.utm.edu/galen/)
-- "Galen," *Britannica* (https://www.britannica.com/biography/Galen)
-- "Galen," *Wikipedia* (https://en.wikipedia.org/wiki/Galen)
-
-**Bilimsel Devrimler:**
-- Acierno, Vincent (2019). "William Harvey and the Discovery of the Circulation of the Blood." *Circulation Research*, 124:1300-1302.
-- Boscá, José-Maria et al. (2014). "Andreas Vesalius 500 years - A Renaissance that revolutionized cardiovascular knowledge." *PMC*.
-- "The History of the Female Reproductive System," Stanford University History Course.
-
-**Diğer Kaynaklar:**
-- "History of Anatomical Dissection," Association of Gross Anatomists of America.
-- Moller, Violet (2019). *The Map of Knowledge: How Classical Ideas Were Lost and Found*. Pan Macmillan.
-- "Cardiovascular and pulmonary interactions: why Galen's misconceptions proved clinically useful for 1,300 years," *Advances in Physiology Education* (2020).
-
----
-
-**Not:** Tüm web kaynakları 2025 yılı itibariyle erişilebilir durumdadır. Akademik makaleler için DOI numaraları verilmiştir.
-
----
-
-## Sonuç
+## 5. Sonuç
 
 [Bu bölüm henüz doldurulmamıştır]
 
 ---
 
-## Ekler
+## 6. Ekler
 
 ### Ek A: Neml 88 Ayeti - Gramer ve Tefsir Analizi
 
@@ -1051,55 +1032,112 @@ Kur'an'da dağların hem hareket ettiğinin hem de sabitleme işlevi gördüğü
 
 ---
 
-#### 7. Kaynaklar
+## Dipnotlar
 
-**Sözlük kaynakları:** Lisânü'l-Arab, Mu'cemü'l-Meânî
+[^1]: Birmingham Kur'an sayfalarının görselleri: University of Birmingham, Cadbury Research Library (https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/)
 
-**Jeoloji:** Isostasy (izostatik denge) teorisi, tektonik plaka hareketi
+[^2]: Birmingham Kur'an ve mevcut Kur'an karşılaştırması: ResearchGate, "Statistical Analysis of the Birmingham Quran Folios" (https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS)
+
+[^3]: Tübingen Kur'an sayfalarının görselleri: Tübingen Üniversitesi Dijital Koleksiyonu (https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165)
+
+[^4]: Topkapı Kur'an'ı sayfalarının görselleri: Internet Archive (https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up)
+
+[^5]: Aristotle, *Generation of Animals* and *History of Animals*. Detailed analysis available at: Biology LibreTexts, "Spontaneous Generation" (https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation). Aristotle proposed that living creatures could arise from non-living matter through "pneuma" or vital heat.
+
+[^6]: Aristotle, *History of Animals*, Book II. Discussion of gender differences and anatomical claims.
+
+[^7]: Aristotle, *On the Parts of Animals*, Book III. Theory that the heart is the center of thought and sensation.
+
+[^8]: Galen, *On the Natural Faculties*, Book I. Theory that blood is produced in the liver and consumed by tissues, with no circulation. See: "The circulatory system, from Galen to Harvey," American Association for the Advancement of Science (https://www.aaas.org/circulatory-system-galen-harvey).
+
+[^9]: Galen, *On the Usefulness of the Parts of the Body*, Book XIV. Anatomical descriptions based on animal dissections.
+
+[^10]: Galen, *On the Doctrines of Hippocrates and Plato*, Book VII. Theory of "spirits" in brain ventricles.
+
+[^11]: Ptolemy, *Almagest* (MS 2. yüzyıl). Geocentric (yer-merkezli) evren modeli, Kopernik'e kadar (1543) kabul gördü.
+
+[^12]: "Spontaneous Generation," Wikipedia (https://en.wikipedia.org/wiki/Spontaneous_generation). The theory was widely accepted until Louis Pasteur's experiments in the 1860s definitively disproved it.
+
+[^13]: Galen'in dört sıvı (four humors) teorisi 18. yüzyıla kadar tıbbın temeli olarak öğretildi. Kaynak: Galen corpus ve Hippocratic tradition.
+
+[^14]: Embriyolojik hatalar için bkz: Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
+
+[^15]: Pre-Islamic Arabian intellectual history için: Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press. Mekke ve Medine'de organize kütüphaneler veya bilim merkezleri yok.
+
+[^16]: Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge. Sistematik tercüme hareketi 8-9. yüzyılda Abbasi hilafeti döneminde başladı.
+
+[^17]: Hunayn ibn Ishaq (809-873) ve tercüme hareketi için: Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
+
+[^18]: Muallakat (Asılı Kasideler) için: Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
+
+[^19]: Ayyam al-Arab için: Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
+
+[^20]: Cahiliye dönemi şiiri için: Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
+
+[^21]: İskenderiye Kütüphanesi için: MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
+
+[^22]: Bağdat Bilgelik Evi (Bayt al-Hikma) için: Gutas, Dimitri (1998), aynı kaynak [^16].
 
 ---
 
 ## Kaynakça
 
-- https://www.oldest.org/religion/qurans/
-- https://web.archive.org/web/20140105054714/http://www.ircica.org/al-mushaf-al-sharif-attributed-to-uthman-bin-affan/irc788.aspx
+### Antik Kaynaklar
+
+- Aristotle. *Generation of Animals*.
+- Aristotle. *History of Animals*, Book II.
+- Aristotle. *On the Parts of Animals*, Book III.
+- Galen. *On the Natural Faculties*, Book I.
+- Galen. *On the Usefulness of the Parts of the Body*, Book XIV.
+- Galen. *On the Doctrines of Hippocrates and Plato*, Book VII.
+- Ptolemy. *Almagest* (MS 2. yüzyıl).
+
+### Kur'an Manuskriptleri ve Koleksiyonları
+
+- Birmingham Üniversitesi, Cadbury Research Library. Birmingham Kur'an Folios (568-645 CE). Erişim: https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/
+- Internet Archive. Topkapı Kur'an'ı Dijital Koleksiyonu. Erişim: https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up
+- IRCICA (Research Centre for Islamic History, Art and Culture). Al-Mushaf al-Sharif attributed to Uthman bin Affan. Erişim: https://web.archive.org/web/20140105054714/http://www.ircica.org/al-mushaf-al-sharif-attributed-to-uthman-bin-affan/irc788.aspx
+- Oldest.org. "Oldest Qurans in the World." Erişim: https://www.oldest.org/religion/qurans/
+- Tübingen Üniversitesi. Tübingen Kur'an Manuskripti (649-675 CE). Erişim: https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165
+
+### Akademik Kaynaklar
+
+- Acierno, Louis J. (2016). "Discovery of the cardiovascular system: from Galen to William Harvey." *Journal of Cardiac Surgery*, 31(8):490-499. DOI: 10.1111/jocs.12815.
+- Acierno, Vincent (2019). "William Harvey and the Discovery of the Circulation of the Blood." *Circulation Research*, 124:1300-1302.
+- American Association for the Advancement of Science. "The circulatory system, from Galen to Harvey." Erişim: https://www.aaas.org/circulatory-system-galen-harvey
+- Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
+- Association of Gross Anatomists of America. "History of Anatomical Dissection."
+- Biology LibreTexts. "Spontaneous Generation." Erişim: https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation
+- Boscá, José-Maria et al. (2014). "Andreas Vesalius 500 years - A Renaissance that revolutionized cardiovascular knowledge." *PMC*.
+- Boylan, Michael (2007). "Galen." *Internet Encyclopedia of Philosophy*. Erişim: https://iep.utm.edu/galen/
+- Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge.
+- MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
+- Moller, Violet (2019). *The Map of Knowledge: How Classical Ideas Were Lost and Found*. Pan Macmillan.
+- Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
+- Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
+- Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press.
+- ResearchGate. "Statistical Analysis of the Birmingham Quran Folios and Comparison with the Sanaa Manuscripts." Erişim: https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS
+- Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
+- Stanford University. "The History of the Female Reproductive System." History Course Materials.
+- Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
+
+### Ansiklopedi ve Referans Kaynakları
+
+- "Cardiovascular and pulmonary interactions: why Galen's misconceptions proved clinically useful for 1,300 years." *Advances in Physiology Education* (2020).
+- "Galen." *Britannica*. Erişim: https://www.britannica.com/biography/Galen
+- "Galen." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Galen
+- "Spontaneous Generation." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Spontaneous_generation
+
+### Sözlük ve Dilbilim Kaynakları
+
+- *Lisânü'l-Arab*. Arap dilinin en kapsamlı klasik sözlüğü.
+- *Mu'cemü'l-Meânî*. Modern Arapça sözlük ve anlam rehberi.
+
+### Jeoloji ve Bilimsel Referanslar
+
+- Isostasy (İzostatik Denge) Teorisi.
+- Tektonik Plaka Hareketi - Modern jeoloji literatürü.
 
 ---
 
-## Dipnotlar
-
-[^1]: Aristotle, *Generation of Animals* and *History of Animals*. Detailed analysis available at: Biology LibreTexts, "Spontaneous Generation" (https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation). Aristotle proposed that living creatures could arise from non-living matter through "pneuma" or vital heat.
-
-[^2]: Aristotle, *History of Animals*, Book II. Discussion of gender differences and anatomical claims.
-
-[^3]: Aristotle, *On the Parts of Animals*, Book III. Theory that the heart is the center of thought and sensation.
-
-[^4]: Galen, *On the Natural Faculties*, Book I. Theory that blood is produced in the liver and consumed by tissues, with no circulation. See: "The circulatory system, from Galen to Harvey," American Association for the Advancement of Science (https://www.aaas.org/circulatory-system-galen-harvey).
-
-[^5]: Galen, *On the Usefulness of the Parts of the Body*, Book XIV. Anatomical descriptions based on animal dissections.
-
-[^6]: Galen, *On the Doctrines of Hippocrates and Plato*, Book VII. Theory of "spirits" in brain ventricles.
-
-[^7]: Ptolemy, *Almagest* (MS 2. yüzyıl). Geocentric (yer-merkezli) evren modeli, Kopernik'e kadar (1543) kabul gördü.
-
-[^8]: "Spontaneous Generation," Wikipedia (https://en.wikipedia.org/wiki/Spontaneous_generation). The theory was widely accepted until Louis Pasteur's experiments in the 1860s definitively disproved it.
-
-[^9]: Galen'in dört sıvı (four humors) teorisi 18. yüzyıla kadar tıbbın temeli olarak öğretildi. Kaynak: Galen corpus ve Hippocratic tradition.
-
-[^10]: Embriyolojik hatalar için bkz: Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
-
-[^11]: Pre-Islamic Arabian intellectual history için: Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press. Mekke ve Medine'de organize kütüphaneler veya bilim merkezleri yok.
-
-[^12]: Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge. Sistematik tercüme hareketi 8-9. yüzyılda Abbasi hilafeti döneminde başladı.
-
-[^13]: Hunayn ibn Ishaq (809-873) ve tercüme hareketi için: Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
-
-[^14]: Muallakat (Asılı Kasideler) için: Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
-
-[^15]: Ayyam al-Arab için: Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
-
-[^16]: Cahiliye dönemi şiiri için: Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
-
-[^17]: İskenderiye Kütüphanesi için: MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
-
-[^18]: Bağdat Bilgelik Evi (Bayt al-Hikma) için: Gutas, Dimitri (1998), aynı kaynak [^12].
+**Not:** Tüm web kaynakları 2026 yılı Ocak ayı itibariyle erişilebilir durumdadır. Akademik makaleler için DOI numaraları verilmiştir.
