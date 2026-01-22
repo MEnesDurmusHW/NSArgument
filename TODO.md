@@ -4,18 +4,13 @@
 
 | # | Görev | Önem | Efor |
 |---|-------|:----:|:----:|
-| 1 | [Aşırı İddialı İfadeler](#aşırı-iddialı-ifadeleri-yumuşat) | 3 | 2 |
-| 2 | [Matematiksel Kaynaklar](#matematiksel-düzen-bölümüne-kaynaklar-ekle) | 3 | 2 |
-| 3 | [Kayıp Kaynaklar Hipotezi](#kayıp-kaynaklar-hipotezinin-reddini-güçlendir-satır-781-793) | 4 | 3 |
-| 4 | [Dönemin Bilgisi](#dönemin-bilgisi-tanımını-güçlendir-satır-847-883) | 4 | 3 |
-| 5 | [Mülk 67:5 Analizi](#mülk-675---yıldızların-şeytan-taşlama-aracı) | 5 | 4 |
-| 6 | [Bakara 2:29 Analizi](#bakara-229---yedi-kat-gök) | 5 | 4 |
-| 7 | [Kehf 18:86 Analizi](#kehf-1886---güneşin-çamurlu-pınarda-batması) | 5 | 5 |
-| 8 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 4 |
-| 9 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-14-örnek) | 4 | 4 |
-| 10 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 5 |
-| 11 | [Güneş Hareketi](#️güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
-| 12 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
+| 1 | [Mülk 67:5 Analizi](#mülk-675---yıldızların-şeytan-taşlama-aracı) | 5 | 4 |
+| 2 | [Bakara 2:29 Analizi](#bakara-229---yedi-kat-gök) | 5 | 4 |
+| 3 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-14-örnek) | 5 | 5 |
+| 4 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
+| 5 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 5 |
+| 6 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
+| 7 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
 
 **Puanlama:** Önem (1-5 kritiklik), Efor (1-5 zorluk), Öncelik (tablodaki sıralama)
 
@@ -23,7 +18,7 @@
 
 ## Kritik Eksiklikler
 
-### [ ] Sonuç Bölümü (5. Sonuç)
+### Sonuç Bölümü (5. Sonuç)
 **Durum:** Bölüm tamamen boş (satır 886-888)
 **Neden önemli:** Bu bir argüman metni ve sonuç yok. Tüm argümanı özetleyen, iddiaları bir araya getiren ve okuyucuya net bir "neden ilahi kaynak" cevabı veren güçlü bir sonuç gerekli.
 **Yapılacaklar:**
@@ -36,7 +31,7 @@
 
 ## Bilimsel İçerik
 
-### [ ] Bilimsel örneklere kaynaklar ekle (14 örnek)
+### Bilimsel örneklere kaynaklar ekle (14 örnek)
 **Eksik kaynaklar:**
 - Evrenin genişlemesi: Hubble 1929 keşfi
 - Embriyolojik gelişim: von Baer modern embriyoloji
@@ -44,7 +39,7 @@
 - Güneş hareketi: Harlow Shapley 1918, Jan Oort 1927
 - Diğer örnekler için spesifik akademik makaleler
 
-### [ ] Zayıf örnekleri tekrar araştır
+### Zayıf örnekleri tekrar araştır
 **Örümcek Evi Benzetmesi (satır 514-536):**
 - **Problem:** Çok zayıf. "Ev" kelimesinin hem fiziksel yapı hem aile anlamına gelmesi üzerinden "örümcek ailesi zayıftır, bu 7. yüzyılda bilinemezdi" iddiası zorlama
 - **Neden sorun:** Edebi metafor olabilir, yamyamlık 7. yy'da bazılarının fark edebileceği bir şey olabilir
@@ -72,9 +67,7 @@
 
 ## Matematiksel Düzen
 
-### [ ] Matematiksel düzen bölümüne kaynaklar ekle
-
-### [ ] 19 Sayısı numerolojisi tartışmalarını ele al (satır 678-764)
+### 19 Sayısı numerolojisi tartışmalarını ele al (satır 678-764)
 **Problem:** Texas Sharpshooter Fallacy eleştirisi yeterince karşılanmamış
 **Neden önemli:** "Hedef önceden belirtilmiş" iddiası var ama yeterince açık değil, istatistiksel analiz eksik
 **Yapılacaklar:**
@@ -88,55 +81,14 @@
 
 **Neden önemli:** Akademik dürüstlüğün kanıtı. Boş bırakılması argümanın güvenilirliğini zedeliyor.
 
-### [ ] Kehf 18:86 - Güneşin çamurlu pınarda batması
+### Kehf 18:86 - Güneşin çamurlu pınarda batması
+**Durum:** ✓ Tamamlandı (fenomenolojik yorum: dilbilimsel analiz + iç-metinsel tutarlılık)
+
+### Mülk 67:5 - Yıldızların şeytan taşlama aracı
 **Yapılacak:** Detaylı analiz ekle
 
-### [ ] Mülk 67:5 - Yıldızların şeytan taşlama aracı
+### Bakara 2:29 - Yedi kat gök
 **Yapılacak:** Detaylı analiz ekle
-
-### [ ] Bakara 2:29 - Yedi kat gök
-**Yapılacak:** Detaylı analiz ekle
-
----
-
-## Argümantasyon Güçlendirmeleri
-
-### [ ] Kayıp Kaynaklar hipotezinin reddini güçlendir (satır 781-793)
-**Problem:** Asimetrik standart kullanılıyor
-- Kayıp kaynaklar → "kanıt yok, ret edilir"
-- İlahi kaynak → "başka açıklama yok, kabul edilir"
-
-**Neden sorun:** Her iki hipotez de aynı mantıksal standartta değerlendirilmeli
-**Yapılacak:** Bayesian reasoning kullan:
-- "Kayıp kaynaklar prior olasılığı düşük, ilahi kaynak prior'u da düşük"
-- "Ama deliller ilahi kaynağı destekliyor" karşılaştırması yap
-- İki hipotezi dengeli değerlendir
-
-### [ ] Dönemin Bilgisi tanımını güçlendir (satır 847-883)
-**Problem:** "7. yy Arabistan'da Yunan/Hint bilimsel metinlerine erişim yoktu" iddiası seçici
-**Neden sorun:**
-- "Sistematik çeviri yoktu" ≠ "bilgi yoktu"
-- Ticaret vardı (MS 414 Sri Lanka'da Arap tüccarlar)
-- Bizans sınır komşusuydu, Gassaniler Bizans himayesindeydi
-- Nesturiler 5-7. yy'da Beth Qatraye'deydi, Yunan metinleri Süryanice'ye çevriliyordu
-- Jundishapur Akademisi 6-7. yy'da aktifti
-
-**Yapılacak:**
-- Sözlü bilgi aktarımı vs sistematik çeviri ayrımını netleştir
-- Argümanı "Erişim olsa bile, neden sadece doğru bilgiler seçildi? Neden yaygın yanlışlar reddedildi?" sorusuna odaklandır
-- Bu daha güçlü bir argüman
-
----
-
-## Stil ve Ton Düzeltmeleri
-
-### [ ] Aşırı iddialı ifadeleri yumuşat
-**Değiştirilecek ifadeler:**
-- "açıkça aşmaktadır" (satır 834) → "yüksek olasılıkla aşmaktadır"
-- "imkansızdır" (satır 736) → "son derece düşük olasılıktır"
-- "kaçınılmaz olarak doğru olmak zorundadır" (satır 156) → "mantıksal olarak doğru olması gerekir"
-
-**Neden önemli:** Epistemik mütevazılık. Felsefede ve bilimde "kesinlik" nadirdir, ölçülü dil daha akademik.
 
 ---
 
@@ -144,7 +96,7 @@
 
 Bu eleştiriler kullanıcı tarafından yanıtlandı veya reddedildi, değişiklik gerekmez:
 
-### ⚠️ Güneş'in Hareketi (tartışmalı ama tutulacak - düşük öncelik)
+### Güneş'in Hareketi (tartışmalı ama tutulacak - düşük öncelik)
 **Eleştiri (satır 562-596):**
 - Geocentric dönemde "Güneş hareket eder" → Doğruydu (Güneş Dünya etrafında dönüyordu)
 - Heliocentric dönemde (1543-1927) → Yanlış göründü (Güneş durağan)
