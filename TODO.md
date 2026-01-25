@@ -4,13 +4,18 @@
 
 | # | Görev | Önem | Efor |
 |---|-------|:----:|:----:|
-| 1 | [Mülk 67:5 Analizi](#mülk-675---yıldızların-şeytan-taşlama-aracı) | 5 | 4 |
-| 2 | [Bakara 2:29 Analizi](#bakara-229---yedi-kat-gök) | 5 | 4 |
-| 3 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-14-örnek) | 5 | 5 |
-| 4 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
-| 5 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 5 |
-| 6 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
-| 7 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
+| 1 | [Bakara 2:29 Analizi](#bakara-229---yedi-kat-gök) | 5 | 4 |
+| 2 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-14-örnek) | 5 | 5 |
+| 3 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
+| 4 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 5 |
+| 5 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
+| 6 | [Epistemik Mütevazılık](#epistemik-mütevazılık-sonuç-bölümüne-eklenecek) | 4 | 3 |
+| 7 | [Peer-reviewed Kaynaklar](#peer-reviewed-kaynaklar-ekleme) | 3 | 5 |
+| 8 | [Linguistik Analiz](#linguistik-analiz-ve-alternatif-yorumlar) | 3 | 4 |
+| 9 | [Dağ Çelişkisi Ana Metinde](#dağların-hareketi-vs-sabitliği-ana-metinde-özetleme) | 2 | 2 |
+| 10 | [Executive Summary](#executive-summary-ekleme) | 2 | 3 |
+| 11 | [Bilimsel İçerik Kategorilendirme](#bilimsel-i̇çerik-bölümü-kategorilendirme-tartışmalı) | 3 | 4 |
+| 12 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
 
 **Puanlama:** Önem (1-5 kritiklik), Efor (1-5 zorluk), Öncelik (tablodaki sıralama)
 
@@ -27,6 +32,13 @@
 - Nihai mantıksal sonuç (modus ponens)
 - Argümanın sınırları ve epistemik mütevazılık
 
+### Epistemik Mütevazılık (Sonuç Bölümüne Eklenecek)
+**Neden önemli:** Akademik dürüstlük ve argümanın sınırlarını göstermek okuyucuya güven verir.
+**Yapılacaklar:**
+- "Bu argüman %100 kesinlik iddia etmiyor" - ihtimal bazlı akıl yürütme
+- "Başka dinlerin benzer argümanları var mı?" - karşılaştırmalı dinler perspektifi
+- "Argümanın en zayıf halkası nedir?" - self-critique
+
 ---
 
 ## Bilimsel İçerik
@@ -38,6 +50,18 @@
 - Derin deniz dalgaları: V.W. Ekman 1904
 - Güneş hareketi: Harlow Shapley 1918, Jan Oort 1927
 - Diğer örnekler için spesifik akademik makaleler
+
+### Peer-reviewed Kaynaklar Ekleme
+**Neden önemli:** Akademik güvenilirlik için her bilimsel iddiaya kaynak gerekli.
+**Yapılacaklar:**
+Her bilimsel örnek için şunları ekle:
+- **Peer-reviewed akademik makale** veya standart bilim tarihi kaynağı
+- **Tarihsel keşif tarihi** (kimin, ne zaman keşfettiği - kaynaklı)
+- **Dönemin yaygın görüşünün kaynağı** (Aristoteles, Galen, Ptolemy vb. - kaynaklı)
+**Örnek format:**
+> Evrenin genişlemesi:
+> - Modern keşif: Hubble, E. (1929). "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae". PNAS. 15(3): 168–173.
+> - Dönemin görüşü: Aristotle. *On the Heavens*. (Statik evren teorisi)
 
 ### Zayıf örnekleri tekrar araştır
 **Örümcek Evi Benzetmesi (satır 514-536):**
@@ -77,15 +101,64 @@
 
 ---
 
+## Kanıt Kalitesi İyileştirmeleri
+
+### Linguistik Analiz ve Alternatif Yorumlar
+**Neden önemli:** "Vague language hypothesis" eleştirisini karşılamak için - ayetlerin muğlak olup sonradan yorumlandığı iddiasını reddetmek gerekir.
+**Yapılacaklar:**
+Her kritik örnek için şunları ekle:
+- **Linguistik analiz:** Ayetin Arapça kelimelerinin **dönemindeki** anlamı neydi?
+- **Alternatif yorumlar:** Başka nasıl anlaşılabilirdi? Neden bu yorumlar zayıf?
+- **Klasik tefsir referansları:** 8-15. yüzyıl alimlerinin yorumları (Ek D formatında)
+
+**Hangi örneklerde gerekli:**
+- Evrenin genişlemesi (mûsi'ûn kelimesi - zaten Ek D'de var ✓)
+- Dağların hareketi (muzâri kipi tartışması - Ek A'da var ama güçlendirilmeli)
+- Embriyoloji (mudga, alaka kelimelerinin dönem anlamları)
+- Derin deniz dalgaları (mevç vs. dalga ayrımı)
+- Ay'ın ışık kaynağı (nur vs. sırâc - zaten Ek C'de var ✓)
+
+---
+
+## Yapısal İyileştirmeler
+
+### Dağların Hareketi vs Sabitliği (Ana Metinde Özetleme)
+**Neden önemli:** Görünürdeki çelişkiyi ana metinde de açıklamak okuyucuyu Ek B'ye yönlendirmeden önce tatmin eder.
+**Yapılacak:**
+"6. Dağların Hareketi ve Levha Tektoniği" bölümüne (satır 414-432) kısa bir not ekle:
+> **Not:** Bazı ayetlerde dağların "sabit" (revâsî) olduğu söylenir. Bu bir çelişki değildir çünkü "revâsî" dağların işlevini (yer kabuğunu sabitleme) tarif eder, ontolojik durumunu değil. Dağlar yer kabuğuyla birlikte hareket ederken aynı zamanda yer kabuğunu sabitleyebilir. Detaylı gramer analizi için bkz. Ek B.
+
+### Executive Summary Ekleme
+**Neden önemli:** Okuyucuya argümanın özünü hızlıca sunmak, uzun metne dalmadan önce genel çerçeveyi görmelerini sağlar.
+**Yapılacak:**
+İçindekiler tablosundan hemen sonra, "Ana Argüman Formülasyonu"ndan önce 1-2 sayfalık özet ekle:
+- Ana iddia (tek cümle)
+- Kanıtların özeti (3-5 madde)
+- En güçlü 3 örnek
+- Nihai sonuç
+
+### Bilimsel İçerik Bölümü Kategorilendirme (Tartışmalı)
+**Durum:** Düşünülecek, tartışılacak
+**Önerilen yapı:**
+- **3.1.1 Güçlü Örnekler:** Evrenin genişlemesi, bal arısı, deniz katmanları, vb.
+- **3.1.2 Orta Güçlü Örnekler:** Embriyoloji (Galen tartışması var), dağların kökü
+- **3.1.3 Tartışmalı Örnekler:** Güneş hareketi, örümcek evi (eğer tutulacaksa)
+
+**Artıları:**
+- Okuyucu hangi örneklerin daha güçlü olduğunu açıkça görür
+- Akademik dürüstlük - zayıf örnekleri gizlemiyor, etiketliyor
+
+**Eksileri:**
+- Bazı okuyucular "tartışmalı" kategorisini tamamen zayıf olarak algılayabilir
+- "Orta güçlü" ifadesi savunmacı görünebilir
+
+**Karar:** İleride tartışılacak
+
+---
+
 ## Problematik Ayetler
 
 **Neden önemli:** Akademik dürüstlüğün kanıtı. Boş bırakılması argümanın güvenilirliğini zedeliyor.
-
-### Kehf 18:86 - Güneşin çamurlu pınarda batması
-**Durum:** ✓ Tamamlandı (fenomenolojik yorum: dilbilimsel analiz + iç-metinsel tutarlılık)
-
-### Mülk 67:5 - Yıldızların şeytan taşlama aracı
-**Yapılacak:** Detaylı analiz ekle
 
 ### Bakara 2:29 - Yedi kat gök
 **Yapılacak:** Detaylı analiz ekle
