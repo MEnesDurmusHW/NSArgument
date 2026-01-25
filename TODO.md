@@ -4,18 +4,15 @@
 
 | # | Görev | Önem | Efor |
 |---|-------|:----:|:----:|
-| 1 | [Bakara 2:29 Analizi](#bakara-229---yedi-kat-gök) | 5 | 4 |
-| 2 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-14-örnek) | 5 | 5 |
-| 3 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
-| 4 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 5 |
-| 5 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
-| 6 | [Epistemik Mütevazılık](#epistemik-mütevazılık-sonuç-bölümüne-eklenecek) | 4 | 3 |
-| 7 | [Peer-reviewed Kaynaklar](#peer-reviewed-kaynaklar-ekleme) | 3 | 5 |
-| 8 | [Linguistik Analiz](#linguistik-analiz-ve-alternatif-yorumlar) | 3 | 4 |
-| 9 | [Dağ Çelişkisi Ana Metinde](#dağların-hareketi-vs-sabitliği-ana-metinde-özetleme) | 2 | 2 |
-| 10 | [Executive Summary](#executive-summary-ekleme) | 2 | 3 |
-| 11 | [Bilimsel İçerik Kategorilendirme](#bilimsel-i̇çerik-bölümü-kategorilendirme-tartışmalı) | 3 | 4 |
-| 12 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
+| 1 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-14-örnek) | 5 | 5 |
+| 2 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
+| 3 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 5 |
+| 4 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
+| 5 | [Epistemik Mütevazılık](#epistemik-mütevazılık-sonuç-bölümüne-eklenecek) | 4 | 3 |
+| 6 | [Peer-reviewed Kaynaklar](#peer-reviewed-kaynaklar-ekleme) | 3 | 5 |
+| 7 | [Linguistik Analiz](#linguistik-analiz-ve-alternatif-yorumlar) | 3 | 4 |
+| 8 | [Bilimsel İçerik Kategorilendirme](#bilimsel-i̇çerik-bölümü-kategorilendirme-tartışmalı) | 3 | 4 |
+| 9 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
 
 **Puanlama:** Önem (1-5 kritiklik), Efor (1-5 zorluk), Öncelik (tablodaki sıralama)
 
@@ -122,21 +119,6 @@ Her kritik örnek için şunları ekle:
 
 ## Yapısal İyileştirmeler
 
-### Dağların Hareketi vs Sabitliği (Ana Metinde Özetleme)
-**Neden önemli:** Görünürdeki çelişkiyi ana metinde de açıklamak okuyucuyu Ek B'ye yönlendirmeden önce tatmin eder.
-**Yapılacak:**
-"6. Dağların Hareketi ve Levha Tektoniği" bölümüne (satır 414-432) kısa bir not ekle:
-> **Not:** Bazı ayetlerde dağların "sabit" (revâsî) olduğu söylenir. Bu bir çelişki değildir çünkü "revâsî" dağların işlevini (yer kabuğunu sabitleme) tarif eder, ontolojik durumunu değil. Dağlar yer kabuğuyla birlikte hareket ederken aynı zamanda yer kabuğunu sabitleyebilir. Detaylı gramer analizi için bkz. Ek B.
-
-### Executive Summary Ekleme
-**Neden önemli:** Okuyucuya argümanın özünü hızlıca sunmak, uzun metne dalmadan önce genel çerçeveyi görmelerini sağlar.
-**Yapılacak:**
-İçindekiler tablosundan hemen sonra, "Ana Argüman Formülasyonu"ndan önce 1-2 sayfalık özet ekle:
-- Ana iddia (tek cümle)
-- Kanıtların özeti (3-5 madde)
-- En güçlü 3 örnek
-- Nihai sonuç
-
 ### Bilimsel İçerik Bölümü Kategorilendirme (Tartışmalı)
 **Durum:** Düşünülecek, tartışılacak
 **Önerilen yapı:**
@@ -160,8 +142,7 @@ Her kritik örnek için şunları ekle:
 
 **Neden önemli:** Akademik dürüstlüğün kanıtı. Boş bırakılması argümanın güvenilirliğini zedeliyor.
 
-### Bakara 2:29 - Yedi kat gök
-**Yapılacak:** Detaylı analiz ekle
+**Durum:** Tüm problematik ayetler tamamlandı ✓
 
 ---
 
@@ -179,4 +160,12 @@ Bu eleştiriler kullanıcı tarafından yanıtlandı veya reddedildi, değişikl
 **Kullanıcı yanıtı:** Katılamadım. 400 yıl "yanlış" görünmesi argümanı güçlendiriyor. En nihayetinde yanlış olduğu düşünülse bile doğru olanı söylemiş. Sonuç önemli.
 
 **Sonuç:** Kullanıcı örneği tutmak istiyor. Akademik olarak tartışmalı ama savunulabilir. TODO'da kalabilir, ileride yeniden değerlendirilir (düşük öncelik).
+
+---
+
+## Tamamlandı Ama Tekrar Gözden Geçirilecek
+
+### Mülk 67:5 - Yıldızların Şeytan Taşlama Aracı
+**Durum:** İlk analiz yapıldı, ama tam bitmedi
+**Yapılacak:** Tekrardan üstünden geçilecek, detaylandırılacak veya güçlendirilecek
 
