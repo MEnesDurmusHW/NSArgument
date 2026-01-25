@@ -53,14 +53,29 @@
       - [7. Yüzyıl Bilimsel Konsensüsü](#7-yüzyıl-bilimsel-konsensüsü)
       - [Tarihsel Bağlam: 7. Yüzyıl Arabistan'ında Bilgi Erişimi](#tarihsel-bağlam-7-yüzyıl-arabistanında-bilgi-erişimi)
       - [Karşılaştırmalı Metin Analizi](#karşılaştırmalı-metin-analizi)
-      - [Akademik Konsensüs: Kayıp Metinler](#akademik-konsensüs-kayıp-metinler)
+      - [Kayıp Kaynaklar Hipotezi](#kayıp-kaynaklar-hipotezi)
   - [5. Değerlendirilip Dahil Edilmeyen İddialar](#5-değerlendirilip-dahil-edilmeyen-i̇ddialar)
     - [1. Koruyucu Gök (Atmosfer/Manyetosfer)](#1-koruyucu-gök-atmosfermanyetosfer)
     - [2. Demirin Uzaydan Gelmesi](#2-demirin-uzaydan-gelmesi)
   - [6. Problematik Ayetler ve Tartışmalı Yorumlar](#6-problematik-ayetler-ve-tartışmalı-yorumlar)
     - [1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)](#1-güneşin-çamurlu-pınarda-batması-kehf-1886)
+      - [Ayet ve Problem](#ayet-ve-problem)
+      - [Fenomenolojik Yorum](#fenomenolojik-yorum)
+      - [1. Dilbilimsel Analiz: "وجد" Fiilinin Anlamı](#1-dilbilimsel-analiz-وجد-fiilinin-anlamı)
+      - [2. İç-Metinsel Tutarlılık: Kehf 18:90 ile Paralellik](#2-i̇ç-metinsel-tutarlılık-kehf-1890-ile-paralellik)
+      - [3. Tarihsel Yorumlar Hakkında Not](#3-tarihsel-yorumlar-hakkında-not)
+      - [Sonuç](#sonuç-1)
     - [2. Yıldızların Şeytan Taşlama Aracı (Mülk 67:5)](#2-yıldızların-şeytan-taşlama-aracı-mülk-675)
+      - [Eleştiri: Modern Astronomi ile Çelişki İddiası](#eleştiri-modern-astronomi-ile-çelişki-i̇ddiası)
+      - [Savunma Argümanları](#savunma-argümanları)
+        - [1. Dilbilimsel Yaklaşım: Arapça Terminolojinin Geniş Kapsamı ve Fenomenolojik Dil](#1-dilbilimsel-yaklaşım-arapça-terminolojinin-geniş-kapsamı-ve-fenomenolojik-dil)
+        - [2. Metafizik Gerçeklik: Şeytanların Âlemi Gaybî](#2-metafizik-gerçeklik-şeytanların-âlemi-gaybî)
+      - [Değerlendirme: Hangi Yorum Daha Tutarlı?](#değerlendirme-hangi-yorum-daha-tutarlı)
+      - [Sonuç](#sonuç-2)
     - [3. Yedi Kat Gök (Bakara 2:29)](#3-yedi-kat-gök-bakara-229)
+      - [Eleştiri: Antik Kozmolojinin Yansıması İddiası](#eleştiri-antik-kozmolojinin-yansıması-i̇ddiası)
+      - [Savunma: Dilbilimsel Esneklik ve Edebi Dil](#savunma-dilbilimsel-esneklik-ve-edebi-dil)
+      - [Sonuç](#sonuç-3)
   - [7. Ekler](#7-ekler)
     - [Ek A: Neml 88 Ayeti - Gramer ve Tefsir Analizi](#ek-a-neml-88-ayeti---gramer-ve-tefsir-analizi)
       - [1. Ayetin Metni](#1-ayetin-metni)
@@ -117,6 +132,24 @@
       - [6. Sonuç: "Geriye Dönük Yorum" İddiasının Reddi](#6-sonuç-geriye-dönük-yorum-i̇ddiasının-reddi)
   - [8. Sonuç](#8-sonuç)
   - [Dipnotlar](#dipnotlar)
+    - [1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)](#1-güneşin-çamurlu-pınarda-batması-kehf-1886-1)
+      - [Ayet ve Problem](#ayet-ve-problem-1)
+      - [Fenomenolojik Yorum](#fenomenolojik-yorum-1)
+      - [1. Dilbilimsel Analiz: "وجد" Fiilinin Anlamı](#1-dilbilimsel-analiz-وجد-fiilinin-anlamı-1)
+      - [2. İç-Metinsel Tutarlılık: Kehf 18:90 ile Paralellik](#2-i̇ç-metinsel-tutarlılık-kehf-1890-ile-paralellik-1)
+      - [3. Tarihsel Yorumlar Hakkında Not](#3-tarihsel-yorumlar-hakkında-not-1)
+      - [Sonuç](#sonuç-4)
+    - [2. Yıldızların Şeytan Taşlama Aracı (Mülk 67:5)](#2-yıldızların-şeytan-taşlama-aracı-mülk-675-1)
+      - [Eleştiri: Modern Astronomi ile Çelişki İddiası](#eleştiri-modern-astronomi-ile-çelişki-i̇ddiası-1)
+      - [Savunma Argümanları](#savunma-argümanları-1)
+        - [1. Dilbilimsel Yaklaşım: Arapça Terminolojinin Geniş Kapsamı ve Fenomenolojik Dil](#1-dilbilimsel-yaklaşım-arapça-terminolojinin-geniş-kapsamı-ve-fenomenolojik-dil-1)
+        - [2. Metafizik Gerçeklik: Şeytanların Âlemi Gaybî](#2-metafizik-gerçeklik-şeytanların-âlemi-gaybî-1)
+      - [Değerlendirme: Hangi Yorum Daha Tutarlı?](#değerlendirme-hangi-yorum-daha-tutarlı-1)
+      - [Sonuç](#sonuç-5)
+    - [3. Yedi Kat Gök (Bakara 2:29)](#3-yedi-kat-gök-bakara-229-1)
+      - [Eleştiri: Antik Kozmolojinin Yansıması İddiası](#eleştiri-antik-kozmolojinin-yansıması-i̇ddiası-1)
+      - [Savunma: Dilbilimsel Esneklik ve Edebi Dil](#savunma-dilbilimsel-esneklik-ve-edebi-dil-1)
+      - [Sonuç](#sonuç-6)
   - [Kaynakça](#kaynakça)
     - [Antik Kaynaklar](#antik-kaynaklar)
     - [Kur'an Manuskriptleri ve Koleksiyonları](#kuran-manuskriptleri-ve-koleksiyonları)
@@ -163,7 +196,7 @@
 
 **Öncül 2b:** Kur'an, yazıldığı dönemde üretilemeyecek bilgiler içerir
 
-**Sonuç:** ∴ Kur'an Tanrı tarafından gönderilmiştir
+**Sonuç:** ∴ Kur'an, Tanrı tarafından gönderilmiştir
 
 **Not:** Bu argüman, Kur'an'ın kendini vahiy olarak tanımladığı kabulünden hareket eder. Aksi durumda sonuç "bu metin doğaüstü kaynaklıdır" şeklinde olurdu.
 
@@ -1934,8 +1967,6 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 ---
 
-## Dipnotlar
-
 Bu bölümde Kur'an'da bilimsel bakış açısıyla zorlayıcı görünen ayetleri inceliyoruz. Akademik dürüstlük gereği, argümanımızın güçlü yönlerini sunduğumuz gibi, zorlayıcı görünen ayetleri de açıkça ele almak önemlidir. Bu bölüm, hem klasik tefsir yorumlarını hem de modern yorumlama denemelerini objektif bir şekilde sunmayı amaçlar.
 
 ### 1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)
@@ -2172,6 +2203,58 @@ Mülk 67:5 ve paralel ayetler, Kur'an eleştirilerinde sıklıkla kullanılan zo
 
 [^jewish_heavens]: "Heaven in Judaism," Wikipedia. The idea of seven heavens is not found in the Hebrew Bible and first occurs in the early centuries C.E. in the rabbinic literature (Talmudic Tractate Chagigah 12 b).
 
+
+---
+
+## Dipnotlar
+
+[^1]: Birmingham Kur'an sayfalarının görselleri: University of Birmingham, Cadbury Research Library (https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/)
+
+[^2]: Birmingham Kur'an ve mevcut Kur'an karşılaştırması: ResearchGate, "Statistical Analysis of the Birmingham Quran Folios" (https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS)
+
+[^3]: Tübingen Kur'an sayfalarının görselleri: Tübingen Üniversitesi Dijital Koleksiyonu (https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165)
+
+[^4]: Topkapı Kur'an'ı sayfalarının görselleri: Internet Archive (https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up)
+
+[^5]: Aristotle, *Generation of Animals* and *History of Animals*. Detailed analysis available at: Biology LibreTexts, "Spontaneous Generation" (https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation). Aristotle proposed that living creatures could arise from non-living matter through "pneuma" or vital heat.
+
+[^6]: Aristotle, *History of Animals*, Book II. Discussion of gender differences and anatomical claims.
+
+[^7]: Aristotle, *On the Parts of Animals*, Book III. Theory that the heart is the center of thought and sensation.
+
+[^8]: Galen, *On the Natural Faculties*, Book I. Theory that blood is produced in the liver and consumed by tissues, with no circulation. See: "The circulatory system, from Galen to Harvey," American Association for the Advancement of Science (https://www.aaas.org/circulatory-system-galen-harvey).
+
+[^9]: Galen, *On the Usefulness of the Parts of the Body*, Book XIV. Anatomical descriptions based on animal dissections.
+
+[^10]: Galen, *On the Doctrines of Hippocrates and Plato*, Book VII. Theory of "spirits" in brain ventricles.
+
+[^11]: Ptolemy, *Almagest* (MS 2. yüzyıl). Geocentric (yer-merkezli) evren modeli, Kopernik'e kadar (1543) kabul gördü.
+
+[^12]: "Spontaneous Generation," Wikipedia (https://en.wikipedia.org/wiki/Spontaneous_generation). The theory was widely accepted until Louis Pasteur's experiments in the 1860s definitively disproved it.
+
+[^13]: Galen'in dört sıvı (four humors) teorisi 18. yüzyıla kadar tıbbın temeli olarak öğretildi. Kaynak: Galen corpus ve Hippocratic tradition.
+
+[^14]: Embriyolojik hatalar için bkz: Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
+
+[^15]: Pre-Islamic Arabian intellectual history için: Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press. Mekke ve Medine'de organize kütüphaneler veya bilim merkezleri yok.
+
+[^16]: Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge. Sistematik tercüme hareketi 8-9. yüzyılda Abbasi hilafeti döneminde başladı.
+
+[^17]: Hunayn ibn Ishaq (809-873) ve tercüme hareketi için: Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
+
+[^18]: Muallakat (Asılı Kasideler) için: Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
+
+[^19]: Ayyam al-Arab için: Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
+
+[^20]: Cahiliye dönemi şiiri için: Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
+
+[^21]: İskenderiye Kütüphanesi için: MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
+
+[^22]: Bağdat Bilgelik Evi (Bayt al-Hikma) için: Gutas, Dimitri (1998), aynı kaynak [^16].
+
+[^23]: Ebced (Abjad) sayı sistemi için: Ifrah, Georges (2000). *The Universal History of Numbers: From Prehistory to the Invention of the Computer*. John Wiley & Sons. 7. yüzyıl Arabistan'ında standart rakam sistemiydi.
+
+[^24]: Arkeolojik deliller için: "Abjad numerals," Wikipedia (https://en.wikipedia.org/wiki/Abjad_numerals). Müzelerdeki usturlaplarda Arap harfleri rakam olarak kullanılmış.
 
 ---
 
