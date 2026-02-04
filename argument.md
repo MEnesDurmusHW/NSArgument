@@ -131,7 +131,6 @@
       - [5. İki Ana Yorum Geleneği](#5-i̇ki-ana-yorum-geleneği)
       - [6. Sonuç: "Geriye Dönük Yorum" İddiasının Reddi](#6-sonuç-geriye-dönük-yorum-i̇ddiasının-reddi)
   - [8. Sonuç](#8-sonuç)
-  - [Dipnotlar](#dipnotlar)
     - [1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)](#1-güneşin-çamurlu-pınarda-batması-kehf-1886-1)
       - [Ayet ve Problem](#ayet-ve-problem-1)
       - [Fenomenolojik Yorum](#fenomenolojik-yorum-1)
@@ -150,6 +149,7 @@
       - [Eleştiri: Antik Kozmolojinin Yansıması İddiası](#eleştiri-antik-kozmolojinin-yansıması-i̇ddiası-1)
       - [Savunma: Dilbilimsel Esneklik ve Edebi Dil](#savunma-dilbilimsel-esneklik-ve-edebi-dil-1)
       - [Sonuç](#sonuç-6)
+  - [Dipnotlar](#dipnotlar)
   - [Kaynakça](#kaynakça)
     - [Antik Kaynaklar](#antik-kaynaklar)
     - [Kur'an Manuskriptleri ve Koleksiyonları](#kuran-manuskriptleri-ve-koleksiyonları)
@@ -296,12 +296,11 @@ Bunun nedeni basittir: Üçüncü öncül için sunacağım deliller arasında, 
 
 **Örnek mantık:** Eğer Kur'an'ın 600 yıldır değişmediğini kanıtlayabilirsek ve içinde 300 yıl önce keşfedilen bilgiler varsa, bu bilgiler 600 yıl önce orada olmalıydı - yani sonradan eklenemez.
 
-Kur'an'ın yazıldığından beri değişmediğini göstermenin en doğrudan yolu, yazıldığı tarihe yakın Kur'an nüshalarının günümüzdeki Kur'an metniyle aynı olduğunu göstermektir. Aşağıda üç örnek sunuyorum; isteyen okuyucular diğer nüshalara da internetten erişebilir.
-
+Kur'an'ın yazıldığından beri değişmediğini göstermenin en doğrudan yolu, yazıldığı tarihe yakın Kur'an nüshalarının günümüzdeki Kur'an metniyle aynı olduğunu göstermektir. Aşağıda üç örnek sunuyorum; isteyen okuyucular diğer nüshalara internetten erişebilir.
 
 ### 2.1 Birmingham Kur'an (568 - 645)
 
-Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1379 yıldır korunmuş sayfa örnekleri vardır.[^1]
+Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1381 yıldır korunmuş sayfa örnekleri vardır.[^1]
 
 Birmingham Kur'an ve mevcut Kur'an arasında yapılan istatistiksel karşılaştırma, metinlerin özdeş olduğunu göstermektedir.[^2]
 
@@ -323,7 +322,7 @@ En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'
 
 Bu öncül, argümanın ikinci ayağını oluşturur. Daha önce belirtildiği gibi, metnin ne kadar eskiye dayandığından ziyade, içerdiği bilgilerin zamansal imkansızlığı argümanın asıl gücünü belirler.
 
-Burada gösterilmesi gereken, Kur'an'da yer alan bilgilerin, metni yazıldığı dönemde - hatta çok sonrasında bile - insan bilgisinin erişemeyeceği türden olduğudur. Bu bilgiler öyle nitelikte olmalı ki, 200-300 yıl öncesine kadar bile keşfedilememiş olsun.
+Burada vurgulanması gereken, Kur'an'da yer alan bilgilerin, metnin yazıldığı dönemde - hatta çok sonrasında bile - insan bilgisinin erişemeyeceği türden olmasıdır. Bu bilgiler öyle nitelikte olmalı ki, 200-300 yıl öncesine kadar bile keşfedilememiş olsun.
 
 ### 3.1 Bilimsel İçerik
 
@@ -358,7 +357,7 @@ Bir bilginin "çağının ötesinde" olduğunu söyleyebilmek için aşağıdaki
 
 Her örnek için şu analiz yapılacaktır:
 
-1. **Dönemin durumu:** Metni yazıldığı dönemde bu konuda ne biliniyordu?
+1. **Dönemin durumu:** Metnin yazıldığı dönemde bu konuda ne biliniyordu?
 2. **Kur'an'ın ifadesi:** Ayet ne söylüyor? (Türkçe ve Arapça)
 3. **Modern keşif:** Bu bilgi ne zaman ve nasıl keşfedildi?
 4. **Alternatif açıklamaların reddi:** Tesadüf, alıntı veya belirsiz yorum olabilir mi?
@@ -431,7 +430,7 @@ Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar k
 
 **Alternatif Açıklamaların Reddi:**
 - Yüzey dalgaları kasıt iddiası: Ayet "derin deniz" ve "dalga üstüne dalga" vurgusu yapıyor
-- Tahmin iddiası: İç dalga konsepti modern okyanoğrafiye özgü
+- Tahmin iddiası: İç dalga konsepti modern okyanus bilimine özgü
 
 **Sonuç:**
 Derin denizlerde farklı su katmanları arasında oluşan iç dalgalar, ancak modern okyanoğrafi ile keşfedilmiştir.
@@ -472,7 +471,7 @@ Arapça'da "ittehizî" (evler edin) ve "kulî" (ye) fiilleri dişil formda.
 
 **Alternatif Açıklamaların Reddi:**
 - Tesadüf iddiası: Arapça'da çoğul eril form hem erkek hem dişiyi kapsayacağından "güvenli" seçim olurdu. Ancak Kur'an özellikle ve ısrarla sadece dişil form kullanmış
-- Gözlemle bilinir iddiası: 18. yüzyıla kadar tüm bilginler yanılıyordu, Aristoteles bile "kral arı" diyordu
+- Gözlemlenebilir iddiası: 18. yüzyıla kadar tüm bilginler yanılıyordu, Aristoteles bile "kral arı" diyordu
 
 **Sonuç:**
 İşçi arıların dişi olduğu mikroskop olmadan bilinemezdi, Kur'an doğru dil bilgisini kullanıyor.
@@ -588,7 +587,7 @@ Kur'an'ın "insanı topraktan yarattık" ifadesi modern kimyanın bulgularıyla 
 "Allah'tan başka dostlar edinenlerin durumu, kendine ev edinen örümceğin durumu gibidir. Evlerin en zayıfı ise şüphesiz örümcek evidir." (Ankebut 29:41)
 
 **Modern Keşif:**
-- Modern arakhnoloji: Örümcek "evi" (aile yapısı) gerçekten en zayıf:
+- Modern örümcek bilimi: Örümcek "evi" (aile yapısı) gerçekten en zayıf:
   - Dişi örümcekler çiftleşme sonrası erkekleri yer (sexual cannibalism)
   - Yavru örümcekler birbirlerini yer (kardeş yamyamlığı/sibling cannibalism)
   - Anne örümcek bazen yavrularını yer (matriphagy)
