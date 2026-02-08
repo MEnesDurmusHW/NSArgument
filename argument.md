@@ -23,17 +23,16 @@
       - [Değerlendirme Kriterleri](#değerlendirme-kriterleri)
       - [Metodolojik Yaklaşım](#metodolojik-yaklaşım)
       - [1. Evrenin Genişlemesi](#1-evrenin-genişlemesi)
-      - [2. Embriyolojik Gelişim Aşamaları](#2-embriyolojik-gelişim-aşamaları)
-      - [3. Derin Deniz Dalgaları (İç Dalgalar)](#3-derin-deniz-dalgaları-i̇ç-dalgalar)
-      - [4. Denizlerin Karanlık Katmanları](#4-denizlerin-karanlık-katmanları)
-      - [5. Bal Arısının Dişil Takısı](#5-bal-arısının-dişil-takısı)
-      - [6. Dağların Hareketi ve Levha Tektoniği](#6-dağların-hareketi-ve-levha-tektoniği)
-      - [7. Dağların Kök Yapısı](#7-dağların-kök-yapısı)
-      - [8. Her Canlının Sudan Yaratılması](#8-her-canlının-sudan-yaratılması)
-      - [9. İnsanın Topraktan Yaratılması](#9-i̇nsanın-topraktan-yaratılması)
-      - [10. Evrenin Bir Sonu Olması](#10-evrenin-bir-sonu-olması)
-      - [11. Güneş'in Hareketi](#11-güneşin-hareketi)
-      - [12. Ayın Işık Kaynağı Olmaması](#12-ayın-işık-kaynağı-olmaması)
+      - [2. Derin Deniz Dalgaları (İç Dalgalar)](#2-derin-deniz-dalgaları-i̇ç-dalgalar)
+      - [3. Denizlerin Karanlık Katmanları](#3-denizlerin-karanlık-katmanları)
+      - [4. Bal Arısının Dişil Takısı](#4-bal-arısının-dişil-takısı)
+      - [5. Dağların Hareketi ve Levha Tektoniği](#5-dağların-hareketi-ve-levha-tektoniği)
+      - [6. Dağların Kök Yapısı](#6-dağların-kök-yapısı)
+      - [7. Her Canlının Sudan Yaratılması](#7-her-canlının-sudan-yaratılması)
+      - [8. İnsanın Topraktan Yaratılması](#8-i̇nsanın-topraktan-yaratılması)
+      - [9. Evrenin Bir Sonu Olması](#9-evrenin-bir-sonu-olması)
+      - [10. Güneş'in Hareketi](#10-güneşin-hareketi)
+      - [11. Ayın Işık Kaynağı Olmaması](#11-ayın-işık-kaynağı-olmaması)
     - [3.2 Matematiksel Düzen](#32-matematiksel-düzen)
       - [Metodolojik Yaklaşım](#metodolojik-yaklaşım-1)
       - [1. 19 Sayısı ve Besmele'nin Matematiksel Yapısı](#1-19-sayısı-ve-besmelenin-matematiksel-yapısı)
@@ -168,7 +167,7 @@
 
 1. **Metinsel Değişmezlik:** Birmingham (568-645), Tübingen (649-675) ve Topkapı (651-8. yy) manuskriptlerinin karşılaştırmalı analizi, Kur'an metninin en az 1400 yıldır değişmeden korunduğunu göstermektedir.
 
-2. **Bilimsel İçerik:** Kur'an, modern bilimle ancak 20. yüzyılda keşfedilen bilgileri içermektedir: evrenin genişlemesi (Hubble 1929), embriyolojik gelişim aşamaları, denizlerin karanlık katmanları, dağların tektonik hareketi, bal arısının dişil sıfatları, ve diğerleri.
+2. **Bilimsel İçerik:** Kur'an, modern bilimle ancak 20. yüzyılda keşfedilen bilgileri içermektedir: evrenin genişlemesi (Hubble 1929), denizlerin karanlık katmanları, derin deniz iç dalgaları, dağların tektonik hareketi, bal arısının dişil sıfatları, ve diğerleri.
 
 3. **Matematiksel Düzen:** Metnin matematiksel yapısında, özellikle 19 sayısı etrafında örgütlenmiş sistematik tutarlılık bulunmaktadır. Bu düzen Müddessir 74:30'da önceden belirtilmiş ve ardından besmele ve diğer metinsel unsurlarda tespit edilmiştir.
 
@@ -300,21 +299,21 @@ Kur'an'ın yazıldığından beri değişmediğini göstermenin en doğrudan yol
 
 ### 2.1 Birmingham Kur'an (568 - 645)
 
-Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1381 yıldır korunmuş sayfa örnekleri vardır.[^1]
+Bilinen en eski Kur'an el yazmaları Birmingham Üniversitesi'nde bulunmaktadır. 4 sayfa içerip 18, 19 ve 20. sureleri içermektedir. Karbon testi sonucu 568 - 645 yıllarına dayanmaktadır. Bu da demektir ki en azından 1381 yıldır korunmuş sayfa örnekleri vardır.[^birmingham_images]
 
-Birmingham Kur'an ve mevcut Kur'an arasında yapılan istatistiksel karşılaştırma, metinlerin özdeş olduğunu göstermektedir.[^2]
+Birmingham Kur'an ve mevcut Kur'an arasında yapılan istatistiksel karşılaştırma, metinlerin özdeş olduğunu göstermektedir.[^birmingham_comparison]
 
 ### 2.2 Tübingen Kur'an (649 - 675)
 
 Almanya'daki Tübingen Üniversitesi'ndeki Kuran parçası MS 649 - MS 675 arasındaki bir döneme tarihlenmiştir. Bu tarih, el yazmasının en azından 1349 yıllık olduğu anlamına gelir. El yazmasının parçaları Zürih'teki bir laboratuvarda modern C14-radyokarbon kullanılarak analiz edildi ve %95,4 istatistiksel olasılıkla tarihlendirildi. 
 
-Cilt olarak, Kur'an'ın içeriğinin yaklaşık dörtte birini içermektedir. Bu el yazmasında, Kur'an'ın 17:35'ten 36:57'ye kadar olan metnini içeren 77 sayfa bulunmaktadır. Bu, Kur'an'ın toplam metninin yaklaşık %26,2'sini oluşturmaktadır.[^3]
+Cilt olarak, Kur'an'ın içeriğinin yaklaşık dörtte birini içermektedir. Bu el yazmasında, Kur'an'ın 17:35'ten 36:57'ye kadar olan metnini içeren 77 sayfa bulunmaktadır. Bu, Kur'an'ın toplam metninin yaklaşık %26,2'sini oluşturmaktadır.[^tubingen_images]
 
 ### 2.3 Topkapı Kur'an'ı (651 - 8. yüzyıl ortası)
 
 Bu, benim görüşüme göre en önemli Kur'an nüshasıdır. Çünkü Birmingham Kur'an'a göre daha genç olsa da neredeyse tamamı korunmuştur. İkinci öncülü (2a) desteklemek için bu Kur'an tek başına yeterlidir.
 
-En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'unu içermektedir. Yalnızca iki sayfası (23 ayet) eksik olan bu el yazması, Kur'an'ın tam metnine en yakın olanıdır.[^4]
+En azından 1275 yıllık olan bu Kur'an günümüzdeki Kur'an içeriğinin %99'unu içermektedir. Yalnızca iki sayfası (23 ayet) eksik olan bu el yazması, Kur'an'ın tam metnine en yakın olanıdır.[^topkapi_images]
 
 ---
 
@@ -389,33 +388,7 @@ Arapça: وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَ
 **Sonuç:**
 7. yüzyılda evrenin genişlediğini söylemek, dönemin tüm bilimsel anlayışına aykırıdır ve ancak 20. yüzyılda doğrulanmıştır.
 
-#### 2. Embriyolojik Gelişim Aşamaları
-
-**7. Yüzyıl Durumu:**
-Aristoteles ve Galen'in teorileri hakimdi:
-- Aristoteles: Erkek sperm tam form verir, kadın sadece madde sağlar
-- Galen: Kadın spermi de var, ikisi karışır ve birden şekillenir
-Her ikisi de aşamalı gelişimi bilmiyordu.
-
-**Kur'an'ın İfadesi:**
-"Andolsun biz insanı çamurdan bir süzmeden yarattık. Sonra onu sağlam bir karar yerine nutfe (sperm) olarak koyduk. Sonra nutfeyi alaka (asılı/yapışan) haline getirdik. Alakayı da mudga (çiğnenmiş et parçası) şekline soktuk. Mudgayı kemiklere dönüştürdük, kemiklere de et giydirdik. Sonra onu başka bir yaratılışla inşa ettik." (Müminun 23:12-14)
-
-**Modern Keşif:**
-- 17\. yüzyıl: Mikroskop ile embriyolojik aşamalar görülmeye başlandı
-- 19\. yüzyıl: Von Baer embriyolojinin kurucusu oldu
-- Modern embriyoloji: Aşamalar tam olarak Kur'an'ın tarifiyle örtüşüyor:
-  - Alaka: Embriyo rahim duvarına yapışır (implantasyon)
-  - Mudga: 4. hafta, somitler belirginleşir (çiğnenmiş et görünümü)
-  - Kemik-kas sıralaması: Önce kıkırdak iskelet, sonra kas dokusu
-
-**Alternatif Açıklamaların Reddi:**
-- Galen'den alıntı iddiası: Galen aşamaları bilmiyordu ve farklı teorisi vardı
-- Gözlemle bilinir iddiası: Mikroskop olmadan bu detaylar görülemez
-
-**Sonuç:**
-Mikroskobik detayların ve gelişim sıralamasının doğru verilmesi, dönemin imkanlarıyla açıklanamaz.
-
-#### 3. Derin Deniz Dalgaları (İç Dalgalar)
+#### 2. Derin Deniz Dalgaları (İç Dalgalar)
 
 **7. Yüzyıl Durumu:**
 Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar kavramı yoktu. Akdeniz medeniyetleri sadece yüzey olaylarını gözlemleyebiliyordu.
@@ -435,7 +408,7 @@ Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar k
 **Sonuç:**
 Derin denizlerde farklı su katmanları arasında oluşan iç dalgalar, ancak modern okyanoğrafi ile keşfedilmiştir.
 
-#### 4. Denizlerin Karanlık Katmanları
+#### 3. Denizlerin Karanlık Katmanları
 
 **7. Yüzyıl Durumu:**
 Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinliklerinin tamamen karanlık olduğu ve katmanlı yapısı bilinmiyordu.
@@ -456,7 +429,7 @@ Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinlikleri
 **Sonuç:**
 Denizlerin katmanlı karanlık yapısı ancak modern denizaltı teknolojisiyle keşfedilmiştir.
 
-#### 5. Bal Arısının Dişil Takısı
+#### 4. Bal Arısının Dişil Takısı
 
 **7. Yüzyıl Durumu:**
 Tüm antik kaynaklarda arı kolonilerinin lideri "kral arı" olarak anılır. Aristoteles dahil hiç kimse işçi arıların dişi olduğunu bilmiyordu.
@@ -476,7 +449,7 @@ Arapça'da "ittehizî" (evler edin) ve "kulî" (ye) fiilleri dişil formda.
 **Sonuç:**
 İşçi arıların dişi olduğu mikroskop olmadan bilinemezdi, Kur'an doğru dil bilgisini kullanıyor.
 
-#### 6. Dağların Hareketi ve Levha Tektoniği
+#### 5. Dağların Hareketi ve Levha Tektoniği
 
 **7. Yüzyıl Durumu:**
 Dağlar sabit, hareketsiz yapılar olarak bilinirdi. Antik kozmolojilerde dağlar yerin sabit direkleri kabul edilirdi.
@@ -498,7 +471,7 @@ Dağlar sabit, hareketsiz yapılar olarak bilinirdi. Antik kozmolojilerde dağla
 **Sonuç:**
 Dağların levha hareketiyle yer değiştirmesi ancak 20. yüzyılda anlaşılmıştır.
 
-#### 7. Dağların Kök Yapısı
+#### 6. Dağların Kök Yapısı
 
 **7. Yüzyıl Durumu:**
 Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülürdü. Dağların yeraltında kökleri olduğu bilinmiyordu.
@@ -524,7 +497,7 @@ Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülü
 **Sonuç:**
 Dağların kazık benzeri kök yapısı ve sabitleme işlevi (revâsî) ancak modern jeolojiyle anlaşılmıştır.
 
-#### 8. Her Canlının Sudan Yaratılması
+#### 7. Her Canlının Sudan Yaratılması
 
 **7. Yüzyıl Durumu:**
 Antik dönemde canlıların kökeni için birçok farklı teori vardı:
@@ -554,7 +527,7 @@ Antik dönemde canlıların kökeni için birçok farklı teori vardı:
 **Sonuç:**
 Kur'an, antik düşünürlerin spekülatif teorileri arasından modern bilimin doğruladığı tek seçeneği (su) belirledi.
 
-#### 9. İnsanın Topraktan Yaratılması
+#### 8. İnsanın Topraktan Yaratılması
 
 **7. Yüzyıl Durumu:**
 Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, su, hava, ateş; Hint felsefesinde beş element), ancak bunlar felsefi spekulasyonlardı. İnsan vücudunun hangi kimyasal elementlerden oluştuğu bilinmiyordu. Yaratılış hikayeleri mitolojikti ve bilimsel temelden yoksundu.
@@ -578,7 +551,7 @@ Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, 
 **Sonuç:**
 Kur'an'ın "insanı topraktan yarattık" ifadesi modern kimyanın bulgularıyla tam uyumlu. İnsan vücudu gerçekten topraktaki elementlerden oluşuyor ve hiçbir "ekstra" element içermiyor.
 
-#### 10. Evrenin Bir Sonu Olması
+#### 9. Evrenin Bir Sonu Olması
 
 **7. Yüzyıl Durumu:**
 Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak sonsuza kadar devam ederdi:
@@ -603,7 +576,7 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
 **Sonuç:**
 Evrenin bir sonu olacağı fikri, dönemin sonsuz evren anlayışına tamamen aykırıydı, modern bilim bunu doğruladı.
 
-#### 11. Güneş'in Hareketi
+#### 10. Güneş'in Hareketi
 
 **7. Yüzyıl Durumu:**
 Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güneş'in hareketli olduğu düşünülüyordu.
@@ -638,7 +611,7 @@ Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güne�
 **Sonuç:**
 Güneş'in hareketli olduğu ifadesi, heliosentrik modelin Güneş'i durağan kabul ettiği 400 yıllık dönemde yanlış görünmüş, ancak 20. yüzyılda galaktik hareketin keşfiyle doğrulanmıştır. Bu, basit geocentric bilginin ötesinde bir öngörüdür.
 
-#### 12. Ayın Işık Kaynağı Olmaması
+#### 11. Ayın Işık Kaynağı Olmaması
 
 **7. Yüzyıl Durumu:**
 
@@ -780,8 +753,8 @@ Bu ayet, Cehennem bekçilerinin sayısından bahsettikten sonra, **19 sayısın�
 - Bir harf değişikliği tüm 6 sonucu bozar → sonsuz deneme gerekir
 
 **"Ebced keyfi bir sistem" iddiası:**
-- Ebced, 7. yüzyıl Arap toplumunda **standart rakam sistemiydi** [^23]
-- Arkeolojik deliller: Müzelerdeki usturlaplarda Arap harfleri rakam olarak kullanılmış [^24]
+- Ebced, 7. yüzyıl Arap toplumunda **standart rakam sistemiydi** [^abjad_ifrah]
+- Arkeolojik deliller: Müzelerdeki usturlaplarda Arap harfleri rakam olarak kullanılmış [^abjad_wiki]
 - Kur'an'da harfler kullanılmışken (Elif-Lam-Mim, vb.) sayısal değerleri kullanmamak tutarsız olurdu
 
 ##### Sistematik Tutarlılık
@@ -917,13 +890,13 @@ Her iki hipotezin de başlangıç olasılığı düşüktür. Ancak gözlemlenen
 Dönemin otorite kabul edilen bilim insanlarının sistematik hataları:
 
 **Aristoteles'in hataları:**
-- Spontaneous generation (cansız maddeden canlı oluşumu) teorisi [^5]
-- Kadınların erkeklerden daha az dişi olduğu iddiası [^6]
+- Spontaneous generation (cansız maddeden canlı oluşumu) teorisi [^aristotle_spontaneous]
+- Kadınların erkeklerden daha az dişi olduğu iddiası [^aristotle_gender]
 
 **Galen'in hataları:**
-- Kanın karaciğerde üretilip tüketildiği (dolaşım sistemi yok) [^7]
-- Uterusun iki bölmeli olduğu [^8]
-- Beyin boşluklarında "ruhların" bulunduğu [^9]
+- Kanın karaciğerde üretilip tüketildiği (dolaşım sistemi yok) [^aristotle_heart]
+- Uterusun iki bölmeli olduğu [^galen_blood]
+- Beyin boşluklarında "ruhların" bulunduğu [^galen_anatomy]
 
 *Kritik nokta:* Eğer Kur'an bu kaynaklardan derleme yapsaydı, bu hataları da içermesi gerekirdi. Sadece doğru kısımları seçmek, hangisinin doğru olduğunu önceden bilmeyi gerektirir - ki bu zaten açıklanması gereken şeydir.
 
@@ -931,19 +904,19 @@ Dönemin otorite kabul edilen bilim insanlarının sistematik hataları:
 
 Dönemin yaygın ve neredeyse evrensel kabul gören yanlış teorileri:
 
-- **Geocentrism (Yer-merkezli evren):** Ptolemy modeli, tüm antik ve ortaçağ dünyasında kabul görüyordu [^11]
-- **Spontaneous generation:** Aristoteles'ten beri yaygın inanış, 17. yüzyıla kadar sürdü [^12]
-- **Four humors teorisi:** Tıbbın temeli olarak kabul ediliyordu [^13]
-- **Çeşitli embriyolojik yanılgılar:** Dönemin tıp otoriteleri tarafından öğretiliyor [^14]
+- **Geocentrism (Yer-merkezli evren):** Ptolemy modeli, tüm antik ve ortaçağ dünyasında kabul görüyordu [^ptolemy_geocentric]
+- **Spontaneous generation:** Aristoteles'ten beri yaygın inanış, 17. yüzyıla kadar sürdü [^spontaneous_wiki]
+- **Four humors teorisi:** Tıbbın temeli olarak kabul ediliyordu [^galen_humors]
+- **Çeşitli embriyolojik yanılgılar:** Dönemin tıp otoriteleri tarafından öğretiliyor [^needham_embryology]
 
 *Test sorusu:* Kur'an bu yaygın hataları içeriyor mu?
 
 #### Tarihsel Bağlam: 7. Yüzyıl Arabistan'ında Bilgi Erişimi
 
 **Sistematik bilimsel çeviri durumu:**
-- İslam öncesi Mekke ve Medine'de bilinen kütüphane veya bilimsel merkez yok [^15]
-- Bilimsel metinlerin sistematik Arapça çevirileri 8. yüzyılda Abbasi dönemiyle başladı [^16]
-- Tercüme hareketi: Huneyn ibn Ishaq gibi tercümanlar 9. yüzyılda Galen'i *olduğu gibi* çevirdi, yanlışlarıyla birlikte [^17]
+- İslam öncesi Mekke ve Medine'de bilinen kütüphane veya bilimsel merkez yok [^peters_preislamic]
+- Bilimsel metinlerin sistematik Arapça çevirileri 8. yüzyılda Abbasi dönemiyle başladı [^gutas_translation]
+- Tercüme hareketi: Huneyn ibn Ishaq gibi tercümanlar 9. yüzyılda Galen'i *olduğu gibi* çevirdi, yanlışlarıyla birlikte [^saliba_hunayn]
 
 **Sözlü bilgi aktarımı ve sınırlı erişim olasılığı:**
 
@@ -975,7 +948,7 @@ Diyelim ki 7. yüzyıl Arabistan'ında, sözlü aktarım yoluyla Yunan/Hint bili
 3. **Kritik soru:** Nasıl oldu da Kur'an:
    - Yaygın ve prestijli **yanlış** teorileri reddetti? (Geocentrism, spontaneous generation)
    - Otorite kabul edilen bilginlerin **hatalarını** almadı? (Galen'in uterus, kan dolaşımı hataları)
-   - Sadece **doğru** bilgileri seçti? (Embriyolojik gelişim, evrenin genişlemesi, deniz katmanları)
+   - Sadece **doğru** bilgileri seçti? (Evrenin genişlemesi, deniz katmanları, bal arısının cinsiyeti)
 
 **Mantıksal sonuç:**
 
@@ -984,9 +957,9 @@ Sınırlı bilgi erişimi olsa bile, bu **seçimin doğruluğunu** açıklamaz. 
 #### Karşılaştırmalı Metin Analizi
 
 **Mevcut İslam öncesi Arapça metinler:**
-- Muallakat (Asılı Kasideler) - dönemin en prestijli şiir koleksiyonu [^18]
-- Ayyam al-Arab (Arap savaş hikayeleri ve tarih anlatıları) [^19]
-- Câhiliye dönemi şiir divanları [^20]
+- Muallakat (Asılı Kasideler) - dönemin en prestijli şiir koleksiyonu [^muallakat]
+- Ayyam al-Arab (Arap savaş hikayeleri ve tarih anlatıları) [^ayyam_arab]
+- Câhiliye dönemi şiir divanları [^jahiliye_poetry]
 
 **Analiz sonucu:** Bu metinlerde:
 - Kur'an'daki türden bilimsel/kozmolojik bilgiler yok
@@ -1010,7 +983,7 @@ Her iki durumda da, Kur'an'ın **sadece doğru olanları seçmesi** açıklanama
 "Kur'an'daki bilgileri içeren kaynaklar vardı ama kayboldu" iddiası da seçim kalitesi problemini çözmez:
 
 **Tarihsel deliller:**
-- İskenderiye Kütüphanesi, Bağdat Bilgelik Evi gibi merkezlerin katalogları kısmen bilinir [^21][^22]
+- İskenderiye Kütüphanesi, Bağdat Bilgelik Evi gibi merkezlerin katalogları kısmen bilinir [^alexandria_library][^baghdad_wisdom]
 - Kayıp metinlerin varlığı, diğer kaynaklarda yapılan atıflardan anlaşılır
 - Kur'an'daki türden bir bilgi derlemesine antik kaynaklarda atıf yok
 
@@ -1068,6 +1041,20 @@ Bu bölümde, yaygın olarak bilinen bazı "bilimsel mucize" iddialarını neden
 - **Yorumsal zorlama:** "Beyt" kelimesinin hem fiziksel yapı hem de aile anlamına gelebilmesi, ayetin özellikle aile yapısını kastettiğini kanıtlamaz. Bağlam fiziksel yapıyı işaret ediyor.
 
 - **Yamyamlık davranışı tüm türlerde yok:** Sexual cannibalism ve kardeş yamyamlığı bazı örümcek türlerinde görülür, tümünde değil. Genelleme yapmak bilimsel olarak sorunlu.
+
+### 4. Embriyolojik Gelişim Aşamaları (Kemik-Kas Sıralaması)
+
+**İddia:** Kur'an'ın "Mudgayı kemiklere dönüştürdük, kemiklere de et giydirdik" (Müminun 23:14) ifadesi, modern embriyolojinin keşfettiği "önce kemik, sonra kas" sıralamasını yansıtır.
+
+**Dahil edilmeme nedenleri:**
+
+- **Paralel gelişim:** Modern embriyoloji, kemik ve kas dokusunun aynı kaynaktan (mezoderm) köken aldığını ve büyük ölçüde **paralel** geliştiğini gösteriyor.[^unsw_embryology] Sclerotom (kemik öncüsü) ve dermomyotom (kas öncüsü) neredeyse eş zamanlı ayrışır (sadece ~14 saat fark).[^kenhub_musculoskeletal]
+
+- **Ossifikasyon zamanlaması:** Gerçek kemikleşme (ossifikasyon) **12. haftada** başlar - kas dokusunun gelişiminden **çok sonra**.[^ncbi_embryology] "Kemik önce" iddiası, kıkırdak modeli ile gerçek kemik arasındaki farkı göz ardı ediyor.
+
+- **Galen benzerliği:** Galen'in 4 aşamalı embriyoloji modeli (M.S. 2. yy) Kur'an'ın aşamalarıyla yapısal benzerlik gösteriyor. Bu, dönemin tıbbi bilgisinden etkilenme olasılığını gündeme getiriyor.
+
+- **Literal yorum tartışmalı:** "Kemiklere et giydirdik" ifadesi fenomenolojik dil olarak yorumlanabilir, ancak bu durumda bilimsel mucize iddiası da zayıflar.
 
 
 ---
@@ -2187,64 +2174,69 @@ Mülk 67:5 ve paralel ayetler, Kur'an eleştirilerinde sıklıkla kullanılan zo
 **Değerlendirme:** Dilbilimsel esneklik argümanı makuldür ve ayetin bilimsel kozmoloji sunmadığı, edebi betimleme yaptığı gerçeği dikkate alındığında, **problematik olmaktan çıkar**.
 
 
+---
+
+## Dipnotlar
+
 [^ptolemy_translation]: "Astronomy in the medieval Islamic world," Wikipedia. Ptolemy's Almagest was translated at least five times into Arabic during the 8th and 9th centuries CE, well after the rise of Islam.
 
 [^mesopotamia_heavens]: "Seven heavens," Wikipedia; "Ancient Near Eastern cosmology," Wikipedia. Ancient Near Eastern cosmology more often described three heavens instead of seven. The tradition of seven heavens was popular during the later part of the first millennium B.C.E. and the first millennium C.E.
 
 [^jewish_heavens]: "Heaven in Judaism," Wikipedia. The idea of seven heavens is not found in the Hebrew Bible and first occurs in the early centuries C.E. in the rabbinic literature (Talmudic Tractate Chagigah 12 b).
 
+[^unsw_embryology]: "Musculoskeletal System Development," UNSW Embryology (https://embryology.med.unsw.edu.au/embryology/index.php/Musculoskeletal_System_Development). Bone and muscle develop from the same mesodermal source, with sclerotome and dermomyotome differentiating nearly simultaneously.
 
----
+[^kenhub_musculoskeletal]: "Development of the Musculoskeletal System," Kenhub (https://www.kenhub.com/en/library/anatomy/development-of-musculoskeletal-system). Sclerotome disperses ~6 hours after somite formation, dermomyotome ~20 hours after.
 
-## Dipnotlar
+[^ncbi_embryology]: "Embryology, Weeks 6-8," NCBI StatPearls (https://www.ncbi.nlm.nih.gov/books/NBK563181/). Endochondral ossification begins around week 12, well after muscle tissue development.
 
-[^1]: Birmingham Kur'an sayfalarının görselleri: University of Birmingham, Cadbury Research Library (https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/)
+[^birmingham_images]: Birmingham Kur'an sayfalarının görselleri: University of Birmingham, Cadbury Research Library (https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/)
 
-[^2]: Birmingham Kur'an ve mevcut Kur'an karşılaştırması: ResearchGate, "Statistical Analysis of the Birmingham Quran Folios" (https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS)
+[^birmingham_comparison]: Birmingham Kur'an ve mevcut Kur'an karşılaştırması: ResearchGate, "Statistical Analysis of the Birmingham Quran Folios" (https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS)
 
-[^3]: Tübingen Kur'an sayfalarının görselleri: Tübingen Üniversitesi Dijital Koleksiyonu (https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165)
+[^tubingen_images]: Tübingen Kur'an sayfalarının görselleri: Tübingen Üniversitesi Dijital Koleksiyonu (https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165)
 
-[^4]: Topkapı Kur'an'ı sayfalarının görselleri: Internet Archive (https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up)
+[^topkapi_images]: Topkapı Kur'an'ı sayfalarının görselleri: Internet Archive (https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up)
 
-[^5]: Aristotle, *Generation of Animals* and *History of Animals*. Detailed analysis available at: Biology LibreTexts, "Spontaneous Generation" (https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation). Aristotle proposed that living creatures could arise from non-living matter through "pneuma" or vital heat.
+[^aristotle_spontaneous]: Aristotle, *Generation of Animals* and *History of Animals*. Detailed analysis available at: Biology LibreTexts, "Spontaneous Generation" (https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation). Aristotle proposed that living creatures could arise from non-living matter through "pneuma" or vital heat.
 
-[^6]: Aristotle, *History of Animals*, Book II. Discussion of gender differences and anatomical claims.
+[^aristotle_gender]: Aristotle, *History of Animals*, Book II. Discussion of gender differences and anatomical claims.
 
-[^7]: Aristotle, *On the Parts of Animals*, Book III. Theory that the heart is the center of thought and sensation.
+[^aristotle_heart]: Aristotle, *On the Parts of Animals*, Book III. Theory that the heart is the center of thought and sensation.
 
-[^8]: Galen, *On the Natural Faculties*, Book I. Theory that blood is produced in the liver and consumed by tissues, with no circulation. See: "The circulatory system, from Galen to Harvey," American Association for the Advancement of Science (https://www.aaas.org/circulatory-system-galen-harvey).
+[^galen_blood]: Galen, *On the Natural Faculties*, Book I. Theory that blood is produced in the liver and consumed by tissues, with no circulation. See: "The circulatory system, from Galen to Harvey," American Association for the Advancement of Science (https://www.aaas.org/circulatory-system-galen-harvey).
 
-[^9]: Galen, *On the Usefulness of the Parts of the Body*, Book XIV. Anatomical descriptions based on animal dissections.
+[^galen_anatomy]: Galen, *On the Usefulness of the Parts of the Body*, Book XIV. Anatomical descriptions based on animal dissections.
 
-[^10]: Galen, *On the Doctrines of Hippocrates and Plato*, Book VII. Theory of "spirits" in brain ventricles.
+[^galen_brain]: Galen, *On the Doctrines of Hippocrates and Plato*, Book VII. Theory of "spirits" in brain ventricles.
 
-[^11]: Ptolemy, *Almagest* (MS 2. yüzyıl). Geocentric (yer-merkezli) evren modeli, Kopernik'e kadar (1543) kabul gördü.
+[^ptolemy_geocentric]: Ptolemy, *Almagest* (MS 2. yüzyıl). Geocentric (yer-merkezli) evren modeli, Kopernik'e kadar (1543) kabul gördü.
 
-[^12]: "Spontaneous Generation," Wikipedia (https://en.wikipedia.org/wiki/Spontaneous_generation). The theory was widely accepted until Louis Pasteur's experiments in the 1860s definitively disproved it.
+[^spontaneous_wiki]: "Spontaneous Generation," Wikipedia (https://en.wikipedia.org/wiki/Spontaneous_generation). The theory was widely accepted until Louis Pasteur's experiments in the 1860s definitively disproved it.
 
-[^13]: Galen'in dört sıvı (four humors) teorisi 18. yüzyıla kadar tıbbın temeli olarak öğretildi. Kaynak: Galen corpus ve Hippocratic tradition.
+[^galen_humors]: Galen'in dört sıvı (four humors) teorisi 18. yüzyıla kadar tıbbın temeli olarak öğretildi. Kaynak: Galen corpus ve Hippocratic tradition.
 
-[^14]: Embriyolojik hatalar için bkz: Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
+[^needham_embryology]: Embriyolojik hatalar için bkz: Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
 
-[^15]: Pre-Islamic Arabian intellectual history için: Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press. Mekke ve Medine'de organize kütüphaneler veya bilim merkezleri yok.
+[^peters_preislamic]: Pre-Islamic Arabian intellectual history için: Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press. Mekke ve Medine'de organize kütüphaneler veya bilim merkezleri yok.
 
-[^16]: Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge. Sistematik tercüme hareketi 8-9. yüzyılda Abbasi hilafeti döneminde başladı.
+[^gutas_translation]: Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge. Sistematik tercüme hareketi 8-9. yüzyılda Abbasi hilafeti döneminde başladı.
 
-[^17]: Hunayn ibn Ishaq (809-873) ve tercüme hareketi için: Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
+[^saliba_hunayn]: Hunayn ibn Ishaq (809-873) ve tercüme hareketi için: Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
 
-[^18]: Muallakat (Asılı Kasideler) için: Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
+[^muallakat]: Muallakat (Asılı Kasideler) için: Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
 
-[^19]: Ayyam al-Arab için: Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
+[^ayyam_arab]: Ayyam al-Arab için: Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
 
-[^20]: Cahiliye dönemi şiiri için: Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
+[^jahiliye_poetry]: Cahiliye dönemi şiiri için: Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
 
-[^21]: İskenderiye Kütüphanesi için: MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
+[^alexandria_library]: İskenderiye Kütüphanesi için: MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
 
-[^22]: Bağdat Bilgelik Evi (Bayt al-Hikma) için: Gutas, Dimitri (1998), aynı kaynak [^16].
+[^baghdad_wisdom]: Bağdat Bilgelik Evi (Bayt al-Hikma) için: Gutas, Dimitri (1998), aynı kaynak [^gutas_translation].
 
-[^23]: Ebced (Abjad) sayı sistemi için: Ifrah, Georges (2000). *The Universal History of Numbers: From Prehistory to the Invention of the Computer*. John Wiley & Sons. 7. yüzyıl Arabistan'ında standart rakam sistemiydi.
+[^abjad_ifrah]: Ebced (Abjad) sayı sistemi için: Ifrah, Georges (2000). *The Universal History of Numbers: From Prehistory to the Invention of the Computer*. John Wiley & Sons. 7. yüzyıl Arabistan'ında standart rakam sistemiydi.
 
-[^24]: Arkeolojik deliller için: "Abjad numerals," Wikipedia (https://en.wikipedia.org/wiki/Abjad_numerals). Müzelerdeki usturlaplarda Arap harfleri rakam olarak kullanılmış.
+[^abjad_wiki]: Arkeolojik deliller için: "Abjad numerals," Wikipedia (https://en.wikipedia.org/wiki/Abjad_numerals). Müzelerdeki usturlaplarda Arap harfleri rakam olarak kullanılmış.
 
 ---
 

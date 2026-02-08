@@ -4,7 +4,7 @@
 
 | # | Görev | Önem | Efor |
 |---|-------|:----:|:----:|
-| 1 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-14-örnek) | 5 | 5 |
+| 1 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-11-örnek) | 5 | 5 |
 | 2 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
 | 3 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 5 |
 | 4 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
@@ -40,10 +40,9 @@
 
 ## Bilimsel İçerik
 
-### Bilimsel örneklere kaynaklar ekle (14 örnek)
+### Bilimsel örneklere kaynaklar ekle (11 örnek)
 **Eksik kaynaklar:**
 - Evrenin genişlemesi: Hubble 1929 keşfi
-- Embriyolojik gelişim: von Baer modern embriyoloji
 - Derin deniz dalgaları: V.W. Ekman 1904
 - Güneş hareketi: Harlow Shapley 1918, Jan Oort 1927
 - Diğer örnekler için spesifik akademik makaleler
@@ -66,11 +65,6 @@ Her bilimsel örnek için şunları ekle:
 - **Problem:** Ek A'daki gramer analizi detaylı ama yeterince ikna edici değil
 - **Neden sorun:** Kıyamet yorumu hâlâ güçlü (önceki ayet Sur'a üfürülmesinden bahsediyor), muzâri kipi = şimdiki zaman argümanı zayıf (muzâri gelecek için de kullanılabilir)
 - **Yapılacak:** Bu örneği "tartışmalı" kategorisine al veya kıyamet yorumunu daha güçlü şekilde reddet
-
-**Embriyoloji (satır 327-352):**
-- **Problem:** Galen'in teorisi ile Kur'an'ın ifadesi arasında detaylı karşılaştırma yok
-- **Neden sorun:** "Kemik önce, kas sonra" sıralaması tartışmalı - modern embriyolojide kıkırdak (sonra kemik) ve kas dokusu neredeyse eşzamanlı gelişir (4. haftada ikisi de başlar)
-- **Yapılacak:** Daha detaylı Galen karşılaştırması ve modern embriyoloji kaynaklarıyla destekleme
 
 **Güneş'in Hareketi (satır 562-596):**
 - **Not:** Kullanıcı bu örneği savunuyor: "En nihayetinde yanlış olduğu düşünülse bile doğru olanı söylemiş, sonuç önemli"
@@ -107,7 +101,6 @@ Her kritik örnek için şunları ekle:
 **Hangi örneklerde gerekli:**
 - Evrenin genişlemesi (mûsi'ûn kelimesi - zaten Ek D'de var ✓)
 - Dağların hareketi (muzâri kipi tartışması - Ek A'da var ama güçlendirilmeli)
-- Embriyoloji (mudga, alaka kelimelerinin dönem anlamları)
 - Derin deniz dalgaları (mevç vs. dalga ayrımı)
 - Ay'ın ışık kaynağı (nur vs. sırâc - zaten Ek C'de var ✓)
 
@@ -119,7 +112,7 @@ Her kritik örnek için şunları ekle:
 **Durum:** Düşünülecek, tartışılacak
 **Önerilen yapı:**
 - **3.1.1 Güçlü Örnekler:** Evrenin genişlemesi, bal arısı, deniz katmanları, vb.
-- **3.1.2 Orta Güçlü Örnekler:** Embriyoloji (Galen tartışması var), dağların kökü
+- **3.1.2 Orta Güçlü Örnekler:** Dağların kökü, insanın topraktan yaratılması
 - **3.1.3 Tartışmalı Örnekler:** Güneş hareketi
 
 **Artıları:**
