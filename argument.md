@@ -56,6 +56,7 @@
     - [1. Koruyucu Gök (Atmosfer/Manyetosfer)](#1-koruyucu-gök-atmosfermanyetosfer)
     - [2. Demirin Uzaydan Gelmesi](#2-demirin-uzaydan-gelmesi)
     - [3. Örümcek Evi Benzetmesi](#3-örümcek-evi-benzetmesi)
+    - [4. Embriyolojik Gelişim Aşamaları (Kemik-Kas Sıralaması)](#4-embriyolojik-gelişim-aşamaları-kemik-kas-sıralaması)
   - [6. Problematik Ayetler ve Tartışmalı Yorumlar](#6-problematik-ayetler-ve-tartışmalı-yorumlar)
     - [1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)](#1-güneşin-çamurlu-pınarda-batması-kehf-1886)
       - [Ayet ve Problem](#ayet-ve-problem)
@@ -83,6 +84,8 @@
       - [4. "Sanırsın ama..." Yapısı](#4-sanırsın-ama-yapısı)
       - [5. "صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ"](#5-صُنْعَ-اللَّهِ-الَّذِي-أَتْقَنَ-كُلَّ-شَيْءٍ)
       - [6. Sonuç](#6-sonuç)
+      - [7. Mazi-Muzari Asimetrisi: Kritik Gramer Argümanı](#7-mazi-muzari-asimetrisi-kritik-gramer-argümanı)
+      - [8. Yorumların Değerlendirilmesi: Tüm Senaryolar](#8-yorumların-değerlendirilmesi-tüm-senaryolar)
     - [Ek B: Kur'an'da Dağların Sabitliği ve Hareketi: "Revâsî" ve "Cibâl" Kelime Analizi](#ek-b-kuranda-dağların-sabitliği-ve-hareketi-revâsî-ve-cibâl-kelime-analizi)
       - [1. Giriş: Görünürdeki Çelişki](#1-giriş-görünürdeki-çelişki)
       - [2. Kelime Analizi: "el-Cibâl" ve "Revâsî" Farkı](#2-kelime-analizi-el-cibâl-ve-revâsî-farkı)
@@ -197,7 +200,7 @@
 
 **Sonuç:** ∴ Kur'an, Tanrı tarafından gönderilmiştir
 
-**Not:** Bu argüman, Kur'an'ın kendini vahiy olarak tanımladığı kabulünden hareket eder. Aksi durumda sonuç "bu metin doğaüstü kaynaklıdır" şeklinde olurdu.
+**Not:** Bu argüman, Kur'an'ın kendini vahiy olarak tanımladığı kabulünden hareket eder. Aksi durumda sonuç "bu metin doğaüstü kaynaklıdır" şeklinde olurdu. Doğaüstü kaynağın neden spesifik olarak Tanrı olduğu sorusu, metnin kendi iddiasıyla (vahiy) cevaplanır; alternatif doğaüstü açıklamalar (uzaylı, zaman yolcusu vb.) hem Occam'ın usturası gereği hem de metnin kendi çerçevesiyle dışlanır.
 
 ---
 
@@ -286,6 +289,8 @@ Her iki koşul birlikte sağlandığında - yani metin hem değişmemiş hem de 
 3. Bu bilgiler sonradan eklenemez (1'den dolayı)
 4. Bu bilgiler tesadüf olamaz (istatistiksel olarak)
 5. O halde bu bilgiler 7. yüzyılda doğaüstü bir kaynaktan gelmiş olmalı
+
+**Not:** "Neden sadece ilahi kaynak?" sorusu haklı bir itiraz olabilir. Bu öncül tek başına sadece "doğaüstü kaynak" sonucuna ulaştırır; alternatif doğal açıklamaların (şanslı tahminler, kayıp kaynaklar, sonradan değişiklik, sonradan anlam yükleme) neden yetersiz olduğu Bölüm 4'te detaylıca ele alınmaktadır.
 
 ## 2. Öncül 2a: Kur'an'ın Değişmezliği
 
@@ -1376,6 +1381,61 @@ Her iki yorum da savunulabilir, ama gramer yapısı tek başına kıyamet yorumu
 
 ---
 
+#### 7. Mazi-Muzari Asimetrisi: Kritik Gramer Argümanı
+
+Kur'an'da kesin gelecek olayları anlatırken kullanılan zaman kipleri önemli bir ipucu verir.
+
+**Arapça'da zaman kiplerinin gerçek anlamı:**
+
+| Kip | Yaygın Çeviri | Gerçek Anlam |
+|-----|---------------|--------------|
+| **Mazi (ماضي)** | Geçmiş zaman | **Kesinleşmiş** olay |
+| **Muzari (مضارع)** | Şimdiki/gelecek | **Devam eden/süregelen** olay |
+
+Kur'an, kıyamet gibi **kesin gelecek olayları** anlatırken sıklıkla **mazi** kullanır - sanki çoktan olmuş gibi. Bu, olayın kesinliğini vurgular.
+
+**87-88. ayetlerin karşılaştırması:**
+
+| Ayet | Olay | Fiil | Kip |
+|------|------|------|-----|
+| 87 | Sur'a üfürülmesi | نُفِخَ (nüfiha) | **Mazi** |
+| 88 | Dağların hareketi | تَمُرُّ (temürru) | **Muzari** |
+
+**Kritik soru:** Eğer 88. ayet de 87 gibi kesin bir kıyamet olayı anlatıyorsa, neden aynı şekilde mazi kullanılmadı?
+
+Bu **asimetri**, 88. ayetin farklı bir zaman dilimine veya çok katmanlı bir anlama işaret ettiğini düşündürür.
+
+---
+
+#### 8. Yorumların Değerlendirilmesi: Tüm Senaryolar
+
+| Senaryo | Yorum | Şimdiki Zamanı İçeriyor mu? | Değerlendirme |
+|---------|-------|:---------------------------:|---------------|
+| 1 | Sadece şimdiki durum (tektonik hareket) | ✓ | Mucize ✓ |
+| 2 | Çok katmanlı (kıyamet + şimdi) | ✓ | Mucize ✓ |
+| 3 | Sadece kıyamet | ✗ | Aşağıdaki sorunlar var |
+
+**Senaryo 3'ün problemleri:**
+
+1. **Mazi-muzari asimetrisi:** 87. ayet mazi kullanırken 88. ayetin muzari kullanması açıklanamaz.
+
+2. **"Allah'ın sanatı" ifadesi:** Kıyamet sahnelerinde genellikle yıkım ve dağılma vurgulanır, "mükemmel sanat" değil.
+
+3. **"Sanırsın ama..." yapısı:** Bu kalıp Kur'an'da **algı yanılmasını** düzeltmek için kullanılır - süregelen bir gerçeği ifade eder.
+
+**Çok katmanlı anlam perspektifi:**
+
+Kur'an ilahi kaynaklı olduğu için ayetlerin birden fazla geçerli anlamı olabilir. Bu durumda:
+
+- **7. yüzyıl okuyucusu:** Kıyamette dağların bulut gibi geçeceğini anladı (anlaşılır tasvir)
+- **Modern okuyucu:** Dağların şu an da hareket ettiğini görüyor (bilimsel gerçek)
+
+Her iki anlam da geçerli olabilir ve birbirini dışlamaz.
+
+**Sonuç:** Senaryo 1 veya 2 kabul edildiğinde ayet bilimsel bir mucize içerir. Senaryo 3 ise gramer yapısıyla tam uyumlu değildir.
+
+---
+
 ### Ek B: Kur'an'da Dağların Sabitliği ve Hareketi: "Revâsî" ve "Cibâl" Kelime Analizi
 
 #### 1. Giriş: Görünürdeki Çelişki
@@ -1867,7 +1927,7 @@ Modern bilimin evrenin genişlediğini keşfetmesinden **yüzyıllar önce**, İ
 > "Sema ki onu kudret, kuvvet ile bina ettik. Gerçekten biz genişlik vereniz."
 
 **İbn Kayyim el-Cevziyye (ö. 1350):**
-> "Göğü kendi ellerimizle biz kurduk ve biz (onu) elbette genişleticıyız."
+> "Göğü kendi ellerimizle biz kurduk ve biz (onu) elbette genişleticiyiz."
 
 ##### 3.3 Geç Dönem Tefsirleri (15-18. Yüzyıl)
 
