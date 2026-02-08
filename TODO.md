@@ -61,10 +61,6 @@ Her bilimsel örnek için şunları ekle:
 > - Dönemin görüşü: Aristotle. *On the Heavens*. (Statik evren teorisi)
 
 ### Zayıf örnekleri tekrar araştır
-**Örümcek Evi Benzetmesi (satır 514-536):**
-- **Problem:** Çok zayıf. "Ev" kelimesinin hem fiziksel yapı hem aile anlamına gelmesi üzerinden "örümcek ailesi zayıftır, bu 7. yüzyılda bilinemezdi" iddiası zorlama
-- **Neden sorun:** Edebi metafor olabilir, yamyamlık 7. yy'da bazılarının fark edebileceği bir şey olabilir
-- **Yapılacak:** Bu örneği çıkar veya "zayıf ama ilginç" kategorisine al
 
 **Dağların Hareketi - Neml 88 (satır 414-432):**
 - **Problem:** Ek A'daki gramer analizi detaylı ama yeterince ikna edici değil
@@ -124,7 +120,7 @@ Her kritik örnek için şunları ekle:
 **Önerilen yapı:**
 - **3.1.1 Güçlü Örnekler:** Evrenin genişlemesi, bal arısı, deniz katmanları, vb.
 - **3.1.2 Orta Güçlü Örnekler:** Embriyoloji (Galen tartışması var), dağların kökü
-- **3.1.3 Tartışmalı Örnekler:** Güneş hareketi, örümcek evi (eğer tutulacaksa)
+- **3.1.3 Tartışmalı Örnekler:** Güneş hareketi
 
 **Artıları:**
 - Okuyucu hangi örneklerin daha güçlü olduğunu açıkça görür

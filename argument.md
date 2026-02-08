@@ -31,10 +31,9 @@
       - [7. Dağların Kök Yapısı](#7-dağların-kök-yapısı)
       - [8. Her Canlının Sudan Yaratılması](#8-her-canlının-sudan-yaratılması)
       - [9. İnsanın Topraktan Yaratılması](#9-i̇nsanın-topraktan-yaratılması)
-      - [10. Örümcek Evi Benzetmesi](#10-örümcek-evi-benzetmesi)
-      - [11. Evrenin Bir Sonu Olması](#11-evrenin-bir-sonu-olması)
-      - [12. Güneş'in Hareketi](#12-güneşin-hareketi)
-      - [13. Ayın Işık Kaynağı Olmaması](#13-ayın-işık-kaynağı-olmaması)
+      - [10. Evrenin Bir Sonu Olması](#10-evrenin-bir-sonu-olması)
+      - [11. Güneş'in Hareketi](#11-güneşin-hareketi)
+      - [12. Ayın Işık Kaynağı Olmaması](#12-ayın-işık-kaynağı-olmaması)
     - [3.2 Matematiksel Düzen](#32-matematiksel-düzen)
       - [Metodolojik Yaklaşım](#metodolojik-yaklaşım-1)
       - [1. 19 Sayısı ve Besmele'nin Matematiksel Yapısı](#1-19-sayısı-ve-besmelenin-matematiksel-yapısı)
@@ -57,6 +56,7 @@
   - [5. Değerlendirilip Dahil Edilmeyen İddialar](#5-değerlendirilip-dahil-edilmeyen-i̇ddialar)
     - [1. Koruyucu Gök (Atmosfer/Manyetosfer)](#1-koruyucu-gök-atmosfermanyetosfer)
     - [2. Demirin Uzaydan Gelmesi](#2-demirin-uzaydan-gelmesi)
+    - [3. Örümcek Evi Benzetmesi](#3-örümcek-evi-benzetmesi)
   - [6. Problematik Ayetler ve Tartışmalı Yorumlar](#6-problematik-ayetler-ve-tartışmalı-yorumlar)
     - [1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)](#1-güneşin-çamurlu-pınarda-batması-kehf-1886)
       - [Ayet ve Problem](#ayet-ve-problem)
@@ -578,30 +578,7 @@ Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, 
 **Sonuç:**
 Kur'an'ın "insanı topraktan yarattık" ifadesi modern kimyanın bulgularıyla tam uyumlu. İnsan vücudu gerçekten topraktaki elementlerden oluşuyor ve hiçbir "ekstra" element içermiyor.
 
-#### 10. Örümcek Evi Benzetmesi
-
-**7. Yüzyıl Durumu:**
-Örümceklerin aile yapısı ve davranışları bilinmiyordu. Örümceklerin çiftleşme sonrası yamyamlık davranışı (sexual cannibalism) ve yavruların birbirini yemesi gözlemlenmemişti.
-
-**Kur'an'ın İfadesi:**
-"Allah'tan başka dostlar edinenlerin durumu, kendine ev edinen örümceğin durumu gibidir. Evlerin en zayıfı ise şüphesiz örümcek evidir." (Ankebut 29:41)
-
-**Modern Keşif:**
-- Modern örümcek bilimi: Örümcek "evi" (aile yapısı) gerçekten en zayıf:
-  - Dişi örümcekler çiftleşme sonrası erkekleri yer (sexual cannibalism)
-  - Yavru örümcekler birbirlerini yer (kardeş yamyamlığı/sibling cannibalism)
-  - Anne örümcek bazen yavrularını yer (matriphagy)
-- "Ev" (بَيْت - beyt) kelimesi Arapça'da hem fiziksel yapı hem de aile/yuva anlamına gelir
-- Ayetin bağlamı "evlerin en zayıfı" derken aile bağlarının zayıflığına işaret ediyor
-
-**Alternatif Açıklamaların Reddi:**
-- Tesadüf iddiası: "Ev" kelimesinin özellikle kullanılması ve "en zayıf" vurgusu, fiziksel yapıdan çok aile yapısına işaret ediyor
-- Gözlemle bilinir iddiası: 7. yüzyılda örümceklerin yamyamlık davranışları gözlemlenemezdi, mikroskobik ayrıntılar gerektiriyordu
-
-**Sonuç:**
-Örümceğin aile yapısının "en zayıf" olması (yamyamlık, kardeş yamyamlığı) ancak modern davranış bilimiyle anlaşıldı.
-
-#### 11. Evrenin Bir Sonu Olması
+#### 10. Evrenin Bir Sonu Olması
 
 **7. Yüzyıl Durumu:**
 Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak sonsuza kadar devam ederdi:
@@ -626,7 +603,7 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
 **Sonuç:**
 Evrenin bir sonu olacağı fikri, dönemin sonsuz evren anlayışına tamamen aykırıydı, modern bilim bunu doğruladı.
 
-#### 12. Güneş'in Hareketi
+#### 11. Güneş'in Hareketi
 
 **7. Yüzyıl Durumu:**
 Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güneş'in hareketli olduğu düşünülüyordu.
@@ -661,7 +638,7 @@ Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güne�
 **Sonuç:**
 Güneş'in hareketli olduğu ifadesi, heliosentrik modelin Güneş'i durağan kabul ettiği 400 yıllık dönemde yanlış görünmüş, ancak 20. yüzyılda galaktik hareketin keşfiyle doğrulanmıştır. Bu, basit geocentric bilginin ötesinde bir öngörüdür.
 
-#### 13. Ayın Işık Kaynağı Olmaması
+#### 12. Ayın Işık Kaynağı Olmaması
 
 **7. Yüzyıl Durumu:**
 
@@ -1077,6 +1054,20 @@ Bu bölümde, yaygın olarak bilinen bazı "bilimsel mucize" iddialarını neden
   - Bu kullanım "anzalnā"nın genel olarak "bahşetmek, nimet vermek" anlamında metaforik bir ifade olduğunu gösteriyor.
 
 - **Klasik tefsir literal değil:** Maarif ul-Quran tefsiri açıkça şöyle diyor: "The verb 'sent down' in relation to the iron stands for 'created' because it was not sent down from the heaven." Klasik müfessirler bunu fiziksel olarak gökyüzünden inmek değil, "yaratmak" ve "bahşetmek" anlamında yorumlamışlardır.
+
+### 3. Örümcek Evi Benzetmesi
+
+**İddia:** "Evlerin en zayıfı örümcek evidir" (Ankebut 29:41) ifadesi, örümceklerin aile yapısının zayıflığına (yamyamlık davranışları) işaret ediyor.
+
+**Dahil edilmeme nedenleri:**
+
+- **Ayetin asıl bağlamı farklı:** Ayet, Allah'tan başka sığınaklar edinenlerin durumunu eleştirmektedir. "Ev" kelimesinin aile yapısı anlamında kullanıldığı iddiası, ayetin doğal akışından çıkmaz. Klasik tefsirler bunu fiziksel yapının zayıflığı (ağın kolayca yırtılması) olarak yorumlamıştır.
+
+- **Gözlemle bilinebilir:** Örümcek ağının fiziksel olarak zayıf ve kolayca yırtılabilir olduğu, 7. yüzyılda herkes tarafından gözlemlenebilirdi. Bu, dönemin ötesinde bir bilgi değildir.
+
+- **Yorumsal zorlama:** "Beyt" kelimesinin hem fiziksel yapı hem de aile anlamına gelebilmesi, ayetin özellikle aile yapısını kastettiğini kanıtlamaz. Bağlam fiziksel yapıyı işaret ediyor.
+
+- **Yamyamlık davranışı tüm türlerde yok:** Sexual cannibalism ve kardeş yamyamlığı bazı örümcek türlerinde görülür, tümünde değil. Genelleme yapmak bilimsel olarak sorunlu.
 
 
 ---
