@@ -386,8 +386,8 @@ Arapça: وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَ
 "lemûsi'ûn" kelimesi sürekli genişletme anlamında aktif ortaç formundadır.
 
 **Modern Keşif:**
-- 1929: Edwin Hubble, galaksilerin bizden uzaklaştığını ve evrenin genişlediğini keşfetti
-- 1998: Evrenin genişlemesinin hızlandığı keşfedildi (Nobel Fizik Ödülü 2011)
+- 1929: Edwin Hubble, galaksilerin bizden uzaklaştığını ve evrenin genişlediğini keşfetti [^hubble_1929]
+- 1998: Evrenin genişlemesinin hızlandığı keşfedildi (Nobel Fizik Ödülü 2011) [^riess_1998] [^perlmutter_1999]
 
 **Alternatif Açıklamaların Reddi:**
 - "Geniş yaratmak" anlamı iddiası: Arapça'da aktif ortaç formu süreklilik bildirir
@@ -405,7 +405,7 @@ Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar k
 "Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu **dalga üstüne dalga** kaplıyor, üstünde de bulut var; karanlıklar üst üste. Elini çıkarsa neredeyse onu bile göremez." (Nur 24:40)
 
 **Modern Keşif:**
-- 1904: Norveçli okyanus bilimci V.W. Ekman iç dalgaları teorize etti
+- 1904: Norveçli okyanus bilimci V.W. Ekman iç dalgaları teorize etti [^ekman_1904]
 - 20\. yüzyıl ortası: Denizaltı teknolojisi ile iç dalgalar doğrudan gözlemlendi
 - İç dalgalar: Farklı yoğunluktaki su katmanları arasında oluşur
 
@@ -427,7 +427,7 @@ Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinlikleri
 **Modern Keşif:**
 - 20\. yüzyıl denizaltı keşifleri:
   - 200m: Fotik bölge sonu, ışık azalır (alacakaranlık bölgesi)
-  - 1000m: Afotik bölge, tam karanlık başlar
+  - 1000m: Afotik bölge, tam karanlık başlar [^garrison_oceanography]
 - Karanlık katmanları: Bulut gölgesi + yüzey suyu + orta su + derin su
 
 **Alternatif Açıklamaların Reddi:**
@@ -447,8 +447,8 @@ Tüm antik kaynaklarda arı kolonilerinin lideri "kral arı" olarak anılır. Ar
 Arapça'da "ittehizî" (evler edin) ve "kulî" (ye) fiilleri dişil formda.
 
 **Modern Keşif:**
-- 1609: Charles Butler mikroskopla "kral"ın aslında kraliçe olduğunu keşfetti
-- 1771: Anton Janša işçi arıların dişi olduğunu kanıtladı
+- 1586: İspanyol entomolog Luis Mendez de Torres arı kolonisinin liderinin dişi olduğunu ilk kez tespit etti; 1609'da Charles Butler bunu İngilizce'de popülerleştirdi [^butler_1609]
+- 1771: Anton Janša kraliçe arının havada erkek arılar tarafından döllendiğini kanıtladı [^jansa_1771]
 
 **Alternatif Açıklamaların Reddi:**
 - Tesadüf iddiası: Arapça'da çoğul eril form hem erkek hem dişiyi kapsayacağından "güvenli" seçim olurdu. Ancak Kur'an özellikle ve ısrarla sadece dişil form kullanmış
@@ -466,8 +466,8 @@ Dağlar sabit, hareketsiz yapılar olarak bilinirdi. Antik kozmolojilerde dağla
 "Sen dağları görürsün de, onları yerinde durur sanırsın. Oysa onlar bulutların yürümesi gibi yürümektedirler." (Neml 27:88)
 
 **Modern Keşif:**
-- 1912: Alfred Wegener kıtasal sürüklenme teorisini önerdi
-- 1960'lar: Levha tektoniği teorisi kabul edildi
+- 1912: Alfred Wegener kıtasal sürüklenme teorisini önerdi [^wegener_1912]
+- 1960'lar: Levha tektoniği teorisi kabul edildi [^plate_tectonics_lepichon]
 - Dağlar levhalarla birlikte yılda cm'ler mertebesinde hareket eder
 
 **Alternatif Açıklamaların Reddi:**
@@ -492,8 +492,8 @@ Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülü
 *Not: Kur'an dağların kök yapısını "kazık" (evtâd) benzetmesiyle, sabitleme işlevini ise "revâsî" (sabitleyici/demir atmış) kelimesiyle vurgular.*
 
 **Modern Keşif:**
-- 19\. yüzyıl: George Airy izostazi teorisini geliştirdi
-- Modern jeoloji: Dağların kök yapısı, yüzeydeki kütlenin 5-10 katı derinliğe iner
+- 19\. yüzyıl: George Airy izostazi teorisini geliştirdi [^airy_isostasy]
+- Modern jeoloji: Dağların kök yapısı, yüzeydeki kütlenin 5-10 katı derinliğe iner [^mountain_root_depth]
 - Dağlar gerçekten kazık gibi mantoya saplanmıştır
 
 **Alternatif Açıklamaların Reddi:**
@@ -524,8 +524,8 @@ Antik dönemde canlıların kökeni için birçok farklı teori vardı:
 "Biz her canlı şeyi sudan yarattık." (Enbiya 21:30)
 
 **Modern Keşif:**
-- 19\. yüzyıl: Hücre teorisi, canlıların %70-90'ının su olduğu keşfedildi
-- 1950'ler: Miller-Urey deneyi, yaşamın ilkel okyanuslarda başladığı teorisi
+- 19\. yüzyıl: Hücre teorisi, canlıların %70-90'ının su olduğu keşfedildi [^water_life_biology]
+- 1953: Miller-Urey deneyi, yaşamın ilkel okyanuslarda başladığı teorisi [^miller_urey]
 - Modern biyoloji: Su yaşam için vazgeçilmez, tüm biyokimyasal reaksiyonlar sulu ortamda
 
 **Alternatif Açıklamaların Reddi:**
@@ -565,7 +565,7 @@ Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, 
 "O, sizi topraktan yarattı." (Rum 30:20)
 
 **Modern Keşif:**
-- 19-20\. yüzyıl kimya: İnsan vücudunun element kompozisyonu çözüldü
+- 19-20\. yüzyıl kimya: İnsan vücudunun element kompozisyonu çözüldü [^human_soil_composition]
 - Temel bulgular:
   - İnsanda bulunan tüm elementler (oksijen, karbon, hidrojen, azot, kalsiyum, fosfor, kükürt, sodyum, potasyum, klor, magnezyum, demir, çinko vb.) yer kabuğunda/toprakta bulunuyor
   - İnsanda olan ama toprakta olmayan hiçbir element yok
@@ -592,9 +592,9 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
 "Gökler ve yer O'nun emriyle durmaktadır. Sonra sizi yerden bir tek çağırışla çağırdığı zaman bir de bakarsınız ki çıkıveriyorsunuz." (Rum 30:25)
 
 **Modern Keşif:**
-- 19\. yüzyıl: Termodinamik yasaları - evrenin ısı ölümü teorisi
-- 20\. yüzyıl: Big Bang teorisi evrenin bir başlangıcı olduğunu gösterdi
-- Modern kozmoloji: Evrenin kaçınılmaz sonu (Big Freeze, Big Crunch veya Big Rip)
+- 19\. yüzyıl: Termodinamik yasaları - evrenin ısı ölümü teorisi [^kelvin_dissipation]
+- 20\. yüzyıl: Big Bang teorisi evrenin bir başlangıcı olduğunu gösterdi [^lemaitre_1931] [^hubble_1929]
+- Modern kozmoloji: Evrenin kaçınılmaz sonu (Big Freeze, Big Crunch veya Big Rip) [^adams_dying_universe]
 
 **Alternatif Açıklamaların Reddi:**
 
@@ -631,9 +631,9 @@ Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güne�
    - Bu noktada Kur'an'ın "Güneş akıp gidiyor" ifadesi yanlış görünüyordu
 
 2. **1918-1927: Galaktik Hareketin Keşfi**
-   - Harlow Shapley (1918): Güneş galaksinin merkezinde değil, 30,000 ışık yılı uzakta
-   - Jan Oort (1927): Güneş galaktik merkez etrafında yörüngede hareket ediyor
-   - Galaktik yörünge hızı: ~220 km/saniye
+   - Harlow Shapley (1918): Güneş galaksinin merkezinde değil, 30,000 ışık yılı uzakta [^shapley_1918]
+   - Jan Oort (1927): Güneş galaktik merkez etrafında yörüngede hareket ediyor [^oort_1927]
+   - Galaktik yörünge hızı: ~220 km/saniye [^kerr_galactic]
    - Bir galaktik yıl: ~225-250 milyon yıl
 
 3. **Kritik Ara Dönem**
@@ -686,7 +686,7 @@ Kur'an, Güneş ve Ay için sistematik olarak farklı terimler kullanır:
 **Modern Keşif:**
 
 - **11. yy:** İbn al-Haytham (modern optiğin babası): "Ay'ın ışığı Güneş'ten ödünç alınmıştır"
-- **Modern astronomi:** Ay'ın albedosu 0.12-0.14 (sadece %12-14 yansıtıcılık, hiçbir iç ışık kaynağı yok)
+- **Modern astronomi:** Ay'ın albedosu 0.12-0.14 (sadece %12-14 yansıtıcılık, hiçbir iç ışık kaynağı yok) [^nasa_moon_albedo]
 
 **Alternatif Açıklamaların Değerlendirilmesi:**
 
@@ -2117,6 +2117,46 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 [^siwan_hikma]: Thales'e ilk Arapça referans, 10. yüzyıl doksografik eseri *Siwan al-Hikma*'da bulunmaktadır - Kur'an'dan 300+ yıl sonra. Bkz: Gutas, Dimitri (1998). *Greek Thought, Arabic Culture*. Routledge.
 
+[^hubble_1929]: Hubble, E. P. (1929). "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae." *Proceedings of the National Academy of Sciences* 15(3): 168-173. DOI: 10.1073/pnas.15.3.168. Galaksilerin uzaklaşma hızının mesafeyle orantılı olduğunu gösteren ilk gözlemsel kanıt; evrenin genişlediğinin keşfi.
+
+[^riess_1998]: Riess, A. G. et al. (1998). "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *The Astronomical Journal* 116(3): 1009-1038. DOI: 10.1086/300499. Tip Ia süpernovalarının gözlemiyle evrenin genişleme hızının arttığını gösteren ilk çalışma (High-z Supernova Search Team). 2011 Nobel Fizik Ödülü.
+
+[^perlmutter_1999]: Perlmutter, S. et al. (1999). "Measurements of Omega and Lambda from 42 High-Redshift Supernovae." *The Astrophysical Journal* 517(2): 565-586. DOI: 10.1086/307221. Supernova Cosmology Project ekibinin evrenin ivmelenerek genişlemesini bağımsız olarak doğrulayan makalesi. 2011 Nobel Fizik Ödülü.
+
+[^ekman_1904]: Ekman, V. W. (1904). "On Dead Water." In: Nansen, F. (Ed.), *The Norwegian North Polar Expedition 1893-1896: Scientific Results*, Vol. V, No. XV. Christiania: Longmans, Green and Co. Fridtjof Nansen'in Fram gemisiyle kutup seferinde gözlemlediği "ölü su" (dead water) fenomenini açıklayan çalışma; farklı yoğunluktaki su katmanları arasında oluşan iç dalgaların ilk teorik ve deneysel analizi.
+
+[^garrison_oceanography]: Garrison, T. S. & Ellis, R. (2018). *Essentials of Oceanography*, 8th Edition. Boston: Cengage Learning. ISBN: 978-1-337-09864-9. Standart okyanoğrafi referansı: fotik bölge (ışık nüfuz eden üst 200m), mezopelajik bölge (200-1000m, alacakaranlık), afotik bölge (1000m altında, tam karanlık).
+
+[^butler_1609]: Butler, Charles (1609). *The Feminine Monarchie: or, a Treatise Concerning Bees, and the Due Ordering of Them*. Oxford: Joseph Barnes. İngilizce'deki ilk kapsamlı arıcılık kitabı; arı koloni liderinin "kral" değil "kraliçe" olduğunu savunan ilk İngilizce eser. Bu gözlemi ilk yapan kişi İspanyol entomolog Luis Mendez de Torres'tir (1586). Anatomik kanıt ise Jan Swammerdam'ın mikroskopik diseksiyonlarıyla sağlanmıştır (1660'lar, ölümünden sonra 1737-38'de yayınlandı).
+
+[^jansa_1771]: Janša, Anton (1771). *Abhandlung vom Schwärmen der Bienen* [Arıların Oğul Vermesi Üzerine İnceleme]. Wien (Viyana): Joseph Kurzböck. Kraliçe arının havada erkek arılar (drone) tarafından döllendiği keşfini içeren çalışma. İkinci eseri *Vollständige Lehre von der Bienenzucht* (1775, ölümünden sonra yayınlandı) modern arıcılığın temel metinlerinden biridir.
+
+[^wegener_1912]: Wegener, A. (1912). "Die Entstehung der Kontinente." *Geologische Rundschau* 3(4): 276-292. DOI: 10.1007/BF02202896. Ayrıca bkz. *Petermanns Geographische Mitteilungen* 58(1): 185-195, 253-256, 305-309. Wegener'in kıta kayması hipotezini ilk kez sunduğu orijinal makale.
+
+[^plate_tectonics_lepichon]: Le Pichon, X. (1968). "Sea-Floor Spreading and Continental Drift." *Journal of Geophysical Research* 73(12): 3661-3697. DOI: 10.1029/JB073i012p03661. Altı ana levhanın göreceli hareketlerini sayısal olarak modelleyen ve levha tektoniğini küresel ölçekte doğrulayan makale. Ayrıca bkz. McKenzie, D.P. & Parker, R.L. (1967). *Nature* 216: 1276-1280; Morgan, W.J. (1968). *J. Geophys. Res.* 73(6): 1959-1982.
+
+[^airy_isostasy]: Airy, G.B. (1855). "On the Computation of the Effect of the Attraction of Mountain-Masses, as Disturbing the Apparent Astronomical Latitude of Stations in Geodetic Surveys." *Philosophical Transactions of the Royal Society of London* 145: 101-104. DOI: 10.1098/rstl.1855.0003. Dağların yerkabuğunun derinliklerine uzanan "kök" yapılarına sahip olduğunu öne süren izostazi teorisinin orijinal makalesi.
+
+[^mountain_root_depth]: Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere.* Cambridge University Press, 458 s. ISBN: 978-0-521-00600-2. Airy izostazi modeline göre dağ köklerinin yüzey yüksekliğinin yaklaşık 5-7 katı derinliğe ulaştığını açıklayan temel referans. Himalayalar altında kabuk kalınlığı ~70 km, yüzey yüksekliği ~8.8 km (yaklaşık 7:1 oranı).
+
+[^miller_urey]: Miller, S.L. (1953). "A Production of Amino Acids Under Possible Primitive Earth Conditions." *Science* 117(3046): 528-529. DOI: 10.1126/science.117.3046.528. İlkel Dünya atmosferini simüle eden deneyde amino asitlerin sulu çözeltide kendiliğinden oluştuğunu gösteren çığır açıcı çalışma.
+
+[^human_soil_composition]: Emsley, J. (2011). *Nature's Building Blocks: An A-Z Guide to the Elements* (Yeni baskı). Oxford University Press, 710 s. ISBN: 978-0-19-960563-7. İnsan vücudundaki ~30 elementin (O, C, H, N, Ca, P, K, S, Na, Cl, Mg vb.) tamamının yerkabuğunda doğal olarak bulunan elementlerden oluştuğunu gösteren kapsamlı element ansiklopedisi.
+
+[^kelvin_dissipation]: Thomson, W. [Lord Kelvin] (1852). "On a Universal Tendency in Nature to the Dissipation of Mechanical Energy." *Proceedings of the Royal Society of Edinburgh* 3: 139-142; ayrıca *Philosophical Magazine* 4: 304-306. Enerjinin kaçınılmaz dağılımını formüle ederek evrenin ısı ölümü kavramının temelini atan makale.
+
+[^lemaitre_1931]: Lemaître, G. (1931). "The Beginning of the World from the Point of View of Quantum Theory." *Nature* 127(3210): 706. DOI: 10.1038/127706b0. Evrenin tek bir "ilkel atom"dan (primeval atom) başladığını öne süren kısa mektup; Big Bang teorisinin ilk açık formülasyonu. Ayrıca bkz. Lemaître, G. (1927). "Un Univers homogène de masse constante et de rayon croissant." *Annales de la Société Scientifique de Bruxelles* A47: 49-59.
+
+[^adams_dying_universe]: Adams, F.C. & Laughlin, G. (1997). "A Dying Universe: The Long-Term Fate and Evolution of Astrophysical Objects." *Reviews of Modern Physics* 69(2): 337-372. DOI: 10.1103/RevModPhys.69.337. Evrenin uzun vadeli geleceğini (Big Freeze senaryosu dahil) sistematik olarak inceleyen kapsamlı derleme makale.
+
+[^shapley_1918]: Shapley, H. (1918). "Studies based on the colors and magnitudes in stellar clusters. VII. The distances, distribution in space, and dimensions of 69 globular clusters." *The Astrophysical Journal* 48: 154-181. DOI: 10.1086/142423. Güneş'in galaksinin merkezinde olmadığını ve merkezden yaklaşık 30.000 ışık yılı uzaklıkta bulunduğunu gösteren çalışma.
+
+[^oort_1927]: Oort, J.H. (1927). "Observational evidence confirming Lindblad's hypothesis of a rotation of the galactic system." *Bulletin of the Astronomical Institutes of the Netherlands* 3(120): 275-282. Bibcode: 1927BAN.....3..275O. Güneş'in galaksi merkezinin etrafında yörüngede döndüğünü gözlemsel olarak kanıtlayan makale.
+
+[^kerr_galactic]: Kerr, F.J. & Lynden-Bell, D. (1986). "Review of galactic constants." *Monthly Notices of the Royal Astronomical Society* 221(4): 1023-1038. DOI: 10.1093/mnras/221.4.1023. IAU tarafından kabul edilen galaktik sabitler: Güneş'in galaksi merkezine uzaklığı R₀ = 8.5 kpc, yörünge hızı Θ₀ ≈ 220 km/s. Bir "galaktik yıl" ≈ 225-250 milyon yıl.
+
+[^nasa_moon_albedo]: Williams, D.R. "Moon Fact Sheet." NASA Goddard Space Flight Center, NSSDCA (https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html). Ay'ın geometrik albedosu 0.12; Bond albedosu 0.11. Ay üzerine düşen güneş ışığının yalnızca %12'sini yansıtır, kendi ışık kaynağı yoktur.
+
 ---
 
 ## Kaynakça
@@ -2164,6 +2204,29 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 - Stanford University. "The History of the Female Reproductive System." History Course Materials.
 - Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
 
+### Bilimsel Keşif Tarihi Kaynakları
+
+- Adams, F.C. & Laughlin, G. (1997). "A Dying Universe: The Long-Term Fate and Evolution of Astrophysical Objects." *Reviews of Modern Physics* 69(2): 337-372. DOI: 10.1103/RevModPhys.69.337.
+- Airy, G.B. (1855). "On the Computation of the Effect of the Attraction of Mountain-Masses." *Philosophical Transactions of the Royal Society of London* 145: 101-104. DOI: 10.1098/rstl.1855.0003.
+- Butler, Charles (1609). *The Feminine Monarchie: or, a Treatise Concerning Bees, and the Due Ordering of Them*. Oxford: Joseph Barnes.
+- Ekman, V. W. (1904). "On Dead Water." In: Nansen, F. (Ed.), *The Norwegian North Polar Expedition 1893-1896: Scientific Results*, Vol. V, No. XV. Christiania: Longmans, Green and Co.
+- Emsley, J. (2011). *Nature's Building Blocks: An A-Z Guide to the Elements* (Yeni baskı). Oxford University Press. ISBN: 978-0-19-960563-7.
+- Garrison, T. S. & Ellis, R. (2018). *Essentials of Oceanography*, 8th Edition. Boston: Cengage Learning. ISBN: 978-1-337-09864-9.
+- Hubble, E. P. (1929). "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae." *Proceedings of the National Academy of Sciences* 15(3): 168-173. DOI: 10.1073/pnas.15.3.168.
+- Janša, Anton (1771). *Abhandlung vom Schwärmen der Bienen*. Wien: Joseph Kurzböck.
+- Kerr, F.J. & Lynden-Bell, D. (1986). "Review of galactic constants." *Monthly Notices of the Royal Astronomical Society* 221(4): 1023-1038. DOI: 10.1093/mnras/221.4.1023.
+- Le Pichon, X. (1968). "Sea-Floor Spreading and Continental Drift." *Journal of Geophysical Research* 73(12): 3661-3697. DOI: 10.1029/JB073i012p03661.
+- Lemaître, G. (1931). "The Beginning of the World from the Point of View of Quantum Theory." *Nature* 127(3210): 706. DOI: 10.1038/127706b0.
+- Miller, S.L. (1953). "A Production of Amino Acids Under Possible Primitive Earth Conditions." *Science* 117(3046): 528-529. DOI: 10.1126/science.117.3046.528.
+- Oort, J.H. (1927). "Observational evidence confirming Lindblad's hypothesis of a rotation of the galactic system." *Bulletin of the Astronomical Institutes of the Netherlands* 3(120): 275-282.
+- Perlmutter, S. et al. (1999). "Measurements of Omega and Lambda from 42 High-Redshift Supernovae." *The Astrophysical Journal* 517(2): 565-586. DOI: 10.1086/307221.
+- Riess, A. G. et al. (1998). "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *The Astronomical Journal* 116(3): 1009-1038. DOI: 10.1086/300499.
+- Shapley, H. (1918). "Studies based on the colors and magnitudes in stellar clusters. VII." *The Astrophysical Journal* 48: 154-181. DOI: 10.1086/142423.
+- Thomson, W. [Lord Kelvin] (1852). "On a Universal Tendency in Nature to the Dissipation of Mechanical Energy." *Philosophical Magazine* 4: 304-306.
+- Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere.* Cambridge University Press. ISBN: 978-0-521-00600-2.
+- Wegener, A. (1912). "Die Entstehung der Kontinente." *Geologische Rundschau* 3(4): 276-292. DOI: 10.1007/BF02202896.
+- Williams, D.R. "Moon Fact Sheet." NASA Goddard Space Flight Center, NSSDCA. Erişim: https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html.
+
 ### Ansiklopedi ve Referans Kaynakları
 
 - "Abjad numerals." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Abjad_numerals
@@ -2180,8 +2243,10 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 ### Jeoloji ve Bilimsel Referanslar
 
-- Isostasy (İzostatik Denge) Teorisi.
-- Tektonik Plaka Hareketi - Modern jeoloji literatürü.
+- Airy, G.B. (1855). İzostazi teorisi. Bkz. Bilimsel Keşif Tarihi Kaynakları.
+- Le Pichon, X. (1968). Levha tektoniği. Bkz. Bilimsel Keşif Tarihi Kaynakları.
+- Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere*. Bkz. Bilimsel Keşif Tarihi Kaynakları.
+- Wegener, A. (1912). Kıtasal sürüklenme. Bkz. Bilimsel Keşif Tarihi Kaynakları.
 
 ---
 
