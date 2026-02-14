@@ -1423,6 +1423,17 @@ Bu **asimetri**, 88. ayetin farklı bir zaman dilimine veya çok katmanlı bir a
 
 3. **"Sanırsın ama..." yapısı:** Bu kalıp Kur'an'da **algı yanılmasını** düzeltmek için kullanılır - süregelen bir gerçeği ifade eder.
 
+4. **Pasajın kendi akışı zaten konu geçişi içeriyor:**
+
+| Ayet | İçerik | Zaman Dilimi |
+|------|--------|:------------:|
+| 83-85 | İnkârcıların toplanması, sorgulanması | Kıyamet |
+| **86** | **"Geceyi dinlenme, gündüzü aydınlık yaptık, görmüyorlar mı?"** | **Şimdiki zaman** |
+| 87 | Sur'a üfürülmesi | Kıyamet |
+| 88 | Dağların bulut gibi hareketi | ??? |
+
+86\. ayet, kıyamet anlatımının ortasında **şimdiki zamana geçiş** yapıyor (gece-gündüz döngüsü). Dolayısıyla "87 kıyametten bahsediyor, o yüzden 88 de kıyamet olmalı" argümanı geçersizdir - çünkü aynı pasajda zaten kıyamet ve şimdiki zaman arasında geçiş yapılmaktadır. 88. ayetin de benzer bir geçiş olması Kur'an'ın bu pasajdaki üslubuna tamamen uygundur.
+
 **Çok katmanlı anlam perspektifi:**
 
 Kur'an ilahi kaynaklı olduğu için ayetlerin birden fazla geçerli anlamı olabilir. Bu durumda:
