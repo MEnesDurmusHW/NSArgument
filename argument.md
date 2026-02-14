@@ -378,7 +378,7 @@ Kur'an 6236 ayetten oluşur ve büyük çoğunluğu hukuki hükümler, ahlaki ö
 #### 1. Evrenin Genişlemesi
 
 **7. Yüzyıl Durumu:**
-Antik ve ortaçağ kozmolojilerinde evren statik ve değişmez kabul edilirdi. Ptolemy'nin yer-merkezli modeli, Aristoteles'in kristal küreler teorisi ve diğer tüm antik modeller sabit, genişlemeyen bir evren öngörüyordu.
+Antik ve ortaçağ kozmolojilerinde evren statik ve değişmez kabul edilirdi. Ptolemy'nin yer-merkezli modeli, Aristoteles'in kristal küreler teorisi ve diğer tüm antik modeller sabit, genişlemeyen bir evren öngörüyordu. [^aristotle_de_caelo]
 
 **Kur'an'ın İfadesi:**
 "Göğü biz kudretli ellerimizle bina ettik ve şüphesiz biz (onu) genişleticiyiz." (Zariyat 51:47)
@@ -399,7 +399,7 @@ Arapça: وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَ
 #### 2. Derin Deniz Dalgaları (İç Dalgalar)
 
 **7. Yüzyıl Durumu:**
-Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar kavramı yoktu. Akdeniz medeniyetleri sadece yüzey olaylarını gözlemleyebiliyordu.
+Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar kavramı yoktu. Akdeniz medeniyetleri sadece yüzey olaylarını gözlemleyebiliyordu. [^ancient_diving_limits]
 
 **Kur'an'ın İfadesi:**
 "Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu **dalga üstüne dalga** kaplıyor, üstünde de bulut var; karanlıklar üst üste. Elini çıkarsa neredeyse onu bile göremez." (Nur 24:40)
@@ -419,7 +419,7 @@ Derin denizlerde farklı su katmanları arasında oluşan iç dalgalar, ancak mo
 #### 3. Denizlerin Karanlık Katmanları
 
 **7. Yüzyıl Durumu:**
-Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinliklerinin tamamen karanlık olduğu ve katmanlı yapısı bilinmiyordu.
+Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinliklerinin tamamen karanlık olduğu ve katmanlı yapısı bilinmiyordu. [^ancient_diving_limits]
 
 **Kur'an'ın İfadesi:**
 "Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu dalga üstüne dalga kaplıyor, üstünde de bulut var; **karanlıklar üst üste. Elini çıkarsa neredeyse onu bile göremez.**" (Nur 24:40)
@@ -440,7 +440,7 @@ Denizlerin katmanlı karanlık yapısı ancak modern denizaltı teknolojisiyle k
 #### 4. Bal Arısının Dişil Takısı
 
 **7. Yüzyıl Durumu:**
-Tüm antik kaynaklarda arı kolonilerinin lideri "kral arı" olarak anılır. Aristoteles dahil hiç kimse işçi arıların dişi olduğunu bilmiyordu.
+Tüm antik kaynaklarda arı kolonilerinin lideri "kral arı" olarak anılır. Aristoteles dahil hiç kimse işçi arıların dişi olduğunu bilmiyordu. [^aristotle_bee_king]
 
 **Kur'an'ın İfadesi:**
 "Rabbin bal arısına vahyetti: Dağlardan, ağaçlardan ve insanların kurdukları çardaklardan kendine evler edin. Sonra meyvelerin hepsinden ye de Rabbinin sana kolaylaştırdığı yollarda yürü." (Nahl 16:68-69)
@@ -460,7 +460,7 @@ Arapça'da "ittehizî" (evler edin) ve "kulî" (ye) fiilleri dişil formda.
 #### 5. Dağların Hareketi ve Levha Tektoniği
 
 **7. Yüzyıl Durumu:**
-Dağlar sabit, hareketsiz yapılar olarak bilinirdi. Antik kozmolojilerde dağlar yerin sabit direkleri kabul edilirdi.
+Dağlar sabit, hareketsiz yapılar olarak bilinirdi. Antik kozmolojilerde dağlar yerin sabit direkleri kabul edilirdi. [^ancient_mountains_fixed]
 
 **Kur'an'ın İfadesi:**
 "Sen dağları görürsün de, onları yerinde durur sanırsın. Oysa onlar bulutların yürümesi gibi yürümektedirler." (Neml 27:88)
@@ -482,7 +482,7 @@ Dağların levha hareketiyle yer değiştirmesi ancak 20. yüzyılda anlaşılm�
 #### 6. Dağların Kök Yapısı
 
 **7. Yüzyıl Durumu:**
-Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülürdü. Dağların yeraltında kökleri olduğu bilinmiyordu.
+Antik dönemde dağlar yerin üzerinde duran basit yükseltiler olarak görülürdü. Dağların yeraltında kökleri olduğu bilinmiyordu. [^ancient_mountains_fixed]
 
 **Kur'an'ın İfadesi:**
 "Dağları (el-cibâl) da birer kazık (evtâd) yapmadık mı?" (Nebe 78:7)
@@ -557,7 +557,7 @@ Kur'an, antik düşünürlerin spekülatif teorileri arasından modern bilimin d
 #### 8. İnsanın Topraktan Yaratılması
 
 **7. Yüzyıl Durumu:**
-Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, su, hava, ateş; Hint felsefesinde beş element), ancak bunlar felsefi spekulasyonlardı. İnsan vücudunun hangi kimyasal elementlerden oluştuğu bilinmiyordu. Yaratılış hikayeleri mitolojikti ve bilimsel temelden yoksundu.
+Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, su, hava, ateş [^aristotle_four_elements]; Hint felsefesinde beş element [^vaisheshika_elements]), ancak bunlar felsefi spekulasyonlardı. [^lloyd_greek_science] İnsan vücudunun hangi kimyasal elementlerden oluştuğu bilinmiyordu. Yaratılış hikayeleri mitolojikti ve bilimsel temelden yoksundu.
 
 **Kur'an'ın İfadesi:**
 "O ki sizleri topraktan yarattı." (Enam 6:2)
@@ -582,9 +582,9 @@ Kur'an'ın "insanı topraktan yarattık" ifadesi modern kimyanın bulgularıyla 
 
 **7. Yüzyıl Durumu:**
 Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak sonsuza kadar devam ederdi:
-- Aristoteles: Evren ezeli ve ebedi
-- Hindu/Budist: Sonsuz döngüler (kalpa)
-- Yunan felsefesi: Madde yok edilemez, evren sonsuzdur
+- Aristoteles: Evren ezeli ve ebedi [^aristotle_eternal_universe]
+- Hindu/Budist: Sonsuz döngüler (kalpa) [^hindu_kalpa]
+- Yunan felsefesi: Madde yok edilemez, evren sonsuzdur [^greek_indestructible_matter]
 
 **Kur'an'ın İfadesi:**
 "Her şey helak olucudur, O'nun zatı müstesna." (Kasas 28:88)
@@ -617,7 +617,7 @@ Evrenin kalıcı bir sonu olacağı fikri, dönemin sonsuz veya sonsuz-döngüse
 #### 10. Güneş'in Hareketi
 
 **7. Yüzyıl Durumu:**
-Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güneş'in hareketli olduğu düşünülüyordu.
+Ptolemy modeli: Güneş Dünya'nın etrafında döner (geocentric model). Güneş'in hareketli olduğu düşünülüyordu. [^ptolemy_geocentric]
 
 **Kur'an'ın İfadesi:**
 "Güneş de kendisi için takdir edilmiş bir yörüngede/istikamette akıp gitmektedir. İşte bu, güçlü ve her şeyi bilen Allah'ın takdiridir." (Yasin 36:38)
@@ -656,12 +656,12 @@ Güneş'in hareketli olduğu ifadesi, heliosentrik modelin Güneş'i durağan ka
 Antik dünyada Ay'ın doğası konusunda iki farklı anlayış vardı:
 
 **Popüler Halk İnancı (Kültürel Çoğunluk):**
-- Mezopotamya, Mısır, Yunan mitolojisi: Ay tanrıları kendi ışıklarıyla parlardı
-- Arap Yarımadası: Halk inancında Ay kendi başına parlayan bir gök cismi
+- Mezopotamya, Mısır, Yunan mitolojisi: Ay tanrıları kendi ışıklarıyla parlardı [^ancient_moon_myths]
+- Arap Yarımadası: Halk inancında Ay kendi başına parlayan bir gök cismi [^south_arabian_moon_gods]
 
 **Bilimsel/Felsefi Çevreler (Akademik Bilgi):**
-- Yunan biliminde (Parmenides, Anaxagoras, Aristoteles): MÖ 5. yy'dan itibaren Ay'ın yansıtıcı olduğu baskın görüş
-- Hint biliminde (Aryabhata, Brahmagupta): MS 5. yy'da aynı bilgi
+- Yunan biliminde (Parmenides, Anaxagoras, Aristoteles): MÖ 5. yy'dan itibaren Ay'ın yansıtıcı olduğu baskın görüş [^parmenides_anaxagoras_moon]
+- Hint biliminde (Aryabhata, Brahmagupta): MS 5. yy'da aynı bilgi [^aryabhata_moon]
 - **Ancak:** Bu bilimsel metinlerin 7. yy Arap Yarımadası'na sistematik transferi yoktu (çeviriler 8-9. yy'da başladı)
 - **Dominant kültürel etki:** Halk inancı ve mitoloji
 
@@ -2157,6 +2157,34 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 [^nasa_moon_albedo]: Williams, D.R. "Moon Fact Sheet." NASA Goddard Space Flight Center, NSSDCA (https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html). Ay'ın geometrik albedosu 0.12; Bond albedosu 0.11. Ay üzerine düşen güneş ışığının yalnızca %12'sini yansıtır, kendi ışık kaynağı yoktur.
 
+[^aristotle_de_caelo]: Aristotle, *De Caelo* (On the Heavens), Book I, chapters 2-4, 12. Aristoteles, göklerin yaratılmamış, yıkılmaz ve ezeli olduğunu savunur. Modern çeviri: C.D.C. Reeve, *Aristotle: On the Heavens* (Indianapolis: Hackett Publishing, 2020). Bu görüşün ortaçağ kozmolojisindeki hakimiyeti için bkz. Grant, E. (1996). *Planets, Stars, and Orbs: The Medieval Cosmos, 1200-1687*. Cambridge University Press. ISBN: 0-521-56509-X.
+
+[^ancient_diving_limits]: Antik dönemde serbest dalış maksimum ~30 metre derinliğe ulaşabiliyordu (skandalopetra ağırlığıyla). Derin okyanus ilk kez HMS Challenger Seferi (1872-1876) ile sistematik olarak araştırıldı. Bkz. Schlee, S. (1973). *The Edge of an Unfamiliar World: A History of Oceanography*. New York: Dutton. ISBN: 978-0525096733.
+
+[^aristotle_bee_king]: Aristotle, *Historia Animalium* (History of Animals), Book V, Chapter 22; Book IX, Chapter 40. Aristoteles arı kolonisinin liderini "kral" (hegemon) olarak tanımlar. Ayrıca bkz. Pliny the Elder, *Naturalis Historia*, Book XI, Ch. 11-30: "rex apis" (kral arı). Virgil, *Georgics*, Book IV: arı liderini "rex" olarak anar. Modern edisyon: A.L. Peck (trans.), Loeb Classical Library Vol. 438, Harvard University Press, 1970.
+
+[^ancient_mountains_fixed]: Antik kozmolojilerde dağlar göğü destekleyen sabit sütunlar olarak görülürdü. Bkz. Lloyd, G.E.R. (1970). *Early Greek Science: Thales to Aristotle*. New York: W.W. Norton. ISBN: 978-0393005837. Kıtasal hareketin 1912 öncesi bilinmezliği için bkz. Oreskes, N. (1999). *The Rejection of Continental Drift*. Oxford University Press. ISBN: 978-0195117332.
+
+[^aristotle_four_elements]: Aristotle, *De Generatione et Corruptione* (On Generation and Corruption). Dört element teorisi: toprak, su, hava, ateş. Modern edisyon: C.J.F. Williams (trans.), Clarendon Aristotle Series, Oxford: Clarendon Press, 1982. ISBN: 978-0198720638.
+
+[^vaisheshika_elements]: Hindu beş element (pancha bhuta) teorisi: toprak, su, ateş, hava ve akasha (ether). Kaynak: Kanada, *Vaisheshika Sutra* (MÖ 6-2. yy). Modern çeviri: Debasish Chakravarty (trans.), D.K. Printworld, 2003. ISBN: 978-8124602294.
+
+[^lloyd_greek_science]: Lloyd, G.E.R. (1970). *Early Greek Science: Thales to Aristotle*. New York: W.W. Norton. ISBN: 978-0393005837. Empedocles'in (MÖ ~490-430) dört element teorisinin deneysel değil spekülatif olduğunu ve "sonraki iki bin yıl boyunca standart dogma" haline geldiğini belirtir.
+
+[^aristotle_eternal_universe]: Aristotle, *Physics* VIII (özellikle 251b10-29 ve 258b26-259a9) ve *Metaphysics* Book XII (Lambda). Aristoteles, hareketin ve zamanın ezeli olduğunu, dolayısıyla evrenin başlangıcı ve sonu olmadığını savunur. Bkz. Graham, D.W. (trans. & comm.), *Aristotle: Physics, Book VIII*. Oxford: Clarendon Press, 1999. ISBN: 0-19-824092-9.
+
+[^hindu_kalpa]: Hindu kozmolojisinde kalpa kavramı: Bir kalpa = Brahma'nın bir günü = 4.32 milyar yıl; her kalpa sonunda pralaya (kozmik çözülme) yaşanır ve evren yeniden yaratılır. Kaynak: *Vishnu Purana*, çev. H.H. Wilson, ed. Fitzedward Hall (London: Trubner and Co., 1877). Budist kappa kavramı için bkz. Vasubandhu, *Abhidharmakośabhāṣyam*, çev. L.M. Pruden (Berkeley: Asian Humanities Press, 1990), Bölüm III. ISBN: 978-0-89581-913-0.
+
+[^greek_indestructible_matter]: Parmenides: "Yokluktan hiçbir şey oluşamaz." Empedocles (DK 31 B12): Dört element ezeli ve yok edilemezdir. Bkz. Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
+
+[^ancient_moon_myths]: Antik Mezopotamya'da Ay tanrısı Sin/Nanna "geceye ışık getiren" olarak tapılırdı (bkz. ORACC, University of Pennsylvania Museum). Mısır'da Khonsu "gecenin ışığının tanrısı" idi. Yunan mitolojisinde Selene'nin adı "selas" (parlaklık) kökünden gelir ve "ölümsüz başından göğe ışık saçar" şeklinde tasvir edilir. Bkz. "Selene," *Theoi Greek Mythology* (theoi.com).
+
+[^south_arabian_moon_gods]: Güney Arabistan'da her kavim kendi Ay tanrısına tapardı: Wadd (Minaeanlar), ʿAmm (Katabaniler), Sīn (Hadramautlular), Almaqah/Ilumquh (Sabalılar). Bkz. "Arabian religion - Pre-Islamic Deities," *Encyclopaedia Britannica*.
+
+[^parmenides_anaxagoras_moon]: Parmenides (MÖ 5. yy), Fragment 14: "Gece vakti ödünç ışıkla parlayan" (allotrion phōs). Anaxagoras (MÖ ~500-428), Fragment 18 (DK 59 B18): "Ay'a parlaklığını veren Güneş'tir." Anaxagoras, Ay'ın bir kaya olduğunu söylediği için sürgün edildi. Bkz. Graham, D.W. (2013). *Science before Socrates: Parmenides, Anaxagoras, and the New Astronomy*. Oxford University Press. ISBN: 9780199959785; Kirk, Raven & Schofield (1983), ISBN: 978-0-521-27455-5.
+
+[^aryabhata_moon]: Aryabhata (476-550), *Aryabhatiya* (c. 510), Gola (Küre) bölümü: Ay'ın güneş ışığını yansıttığını ve ay tutulmasının Ay'ın Dünya'nın gölgesine girmesiyle oluştuğunu açıklar. Çeviri: Clark, W.E. (1930). *The Aryabhatiya of Aryabhata*. University of Chicago Press. Brahmagupta (598-668), *Brahmasphutasiddhanta* (628), Bölüm 7: "Güneş ışığında duran bir çömleğin aydınlık tarafı gibi, Ay'ın [aydınlatılması da] öyledir." Bkz. Plofker, K. (2009). *Mathematics in India: 500 BCE–1800 CE*. Princeton University Press. ISBN: 978-0-691-12067-6.
+
 ---
 
 ## Kaynakça
@@ -2226,6 +2254,22 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 - Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere.* Cambridge University Press. ISBN: 978-0-521-00600-2.
 - Wegener, A. (1912). "Die Entstehung der Kontinente." *Geologische Rundschau* 3(4): 276-292. DOI: 10.1007/BF02202896.
 - Williams, D.R. "Moon Fact Sheet." NASA Goddard Space Flight Center, NSSDCA. Erişim: https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html.
+
+### Antik Bilgi Durumu Kaynakları
+
+- Clark, W.E. (trans.) (1930). *The Aryabhatiya of Aryabhata*. University of Chicago Press.
+- Graham, D.W. (trans. & comm.) (1999). *Aristotle: Physics, Book VIII*. Oxford: Clarendon Press. ISBN: 0-19-824092-9.
+- Graham, D.W. (2013). *Science before Socrates: Parmenides, Anaxagoras, and the New Astronomy*. Oxford University Press. ISBN: 9780199959785.
+- Grant, E. (1996). *Planets, Stars, and Orbs: The Medieval Cosmos, 1200-1687*. Cambridge University Press. ISBN: 0-521-56509-X.
+- Kanada. *Vaisheshika Sutra*. Çev. D. Chakravarty. New Delhi: D.K. Printworld, 2003. ISBN: 978-8124602294.
+- Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
+- Lloyd, G.E.R. (1970). *Early Greek Science: Thales to Aristotle*. New York: W.W. Norton. ISBN: 978-0393005837.
+- Oreskes, N. (1999). *The Rejection of Continental Drift*. Oxford University Press. ISBN: 978-0195117332.
+- Plofker, K. (2009). *Mathematics in India: 500 BCE–1800 CE*. Princeton University Press. ISBN: 978-0-691-12067-6.
+- Reeve, C.D.C. (trans.) (2020). *Aristotle: On the Heavens*. Indianapolis: Hackett Publishing.
+- Schlee, S. (1973). *The Edge of an Unfamiliar World: A History of Oceanography*. New York: Dutton. ISBN: 978-0525096733.
+- Vishnu Purana. Çev. H.H. Wilson, ed. F. Hall. London: Trubner and Co., 1877.
+- Williams, C.J.F. (trans.) (1982). *De Generatione et Corruptione*. Clarendon Aristotle Series. Oxford: Clarendon Press. ISBN: 978-0198720638.
 
 ### Ansiklopedi ve Referans Kaynakları
 
