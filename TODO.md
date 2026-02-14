@@ -16,7 +16,7 @@
 | 10 | [Tekrar Eden İçerik](#tekrar-eden-i̇çerik-bölüm-6-duplikasyonu) | 5 | 1 |
 | 11 | [Değişmezlik Güçlendirme](#metinsel-değişmezlik-bölümü-güçlendirilmeli-öncül-2a) | 5 | 4 |
 | 12 | [Sudan Yaratılma - Thales](#her-canlının-sudan-yaratılması-satır-500-528) | 3 | 2 |
-| 13 | [Evrenin Sonu - Diğer Dinler](#evrenin-bir-sonu-olması-satır-554-577) | 3 | 3 |
+| 13 | ~~[Evrenin Sonu - Diğer Dinler](#evrenin-bir-sonu-olması-satır-554-577)~~ ✓ | 3 | 3 |
 | 14 | [Seçicilik Açıklaması](#seçicilik-açıklaması) | 3 | 1 |
 
 **Puanlama:** Önem (1-5 kritiklik), Efor (1-5 zorluk), Öncelik (tablodaki sıralama)
@@ -78,8 +78,7 @@ Her bilimsel örnek için şunları ekle:
 - **Durum:** Thales karşılaştırması eklendi ✓ (Thales kozmolojik/yanlış vs. Kur'an biyolojik/doğru, erişilebilirlik, antik su mitleri tablosu)
 
 **Evrenin Bir Sonu Olması (satır 554-577):**
-- **Problem:** Kıyamet kavramı Hıristiyanlık, Yahudilik ve Zerdüştlük'te de var. "Fiziksel evrenin sonu" ile "dini kıyamet" arasındaki fark netleştirilmemiş.
-- **Yapılacak:** Diğer dinlerde kıyamet nasıl anlatılıyor vs. Kur'an'da nasıl anlatılıyor araştır. Farkı (fiziksel evren sonu vs. dini mitoloji) metinde netleştir.
+- **Durum:** Karşılaştırmalı din analizi eklendi ✓ (Yahudilik, Hıristiyanlık, Zerdüştlük, Hinduizm/Budizm). Kur'an'ın farkı: kapsamlılık, geri dönüşsüzlük, ontolojik fânilik. 2 Petrus 3:10 benzerliği not edildi.
 
 ---
 

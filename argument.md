@@ -594,11 +594,22 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
 - Modern kozmoloji: Evrenin kaçınılmaz sonu (Big Freeze, Big Crunch veya Big Rip)
 
 **Alternatif Açıklamaların Reddi:**
-- Dini inanç iddiası: Diğer dinlerde de kıyamet var ama fiziksel evrenin sonu konsepti farklı
-- Felsefi tahmin: Antik felsefe evrenin sonsuz olduğunda ısrarlıydı
+
+- **"Diğer dinlerde de kıyamet var" iddiası:** Diğer dinlerin eskatolojisi incelendiğinde kritik farklar ortaya çıkar:
+  - **Yahudilik:** Fiziksel evrenin sonu kavramı yoktur. "Olam Ha-Ba" (gelecek dünya) mesih çağında siyasi/ruhani yenilenmedir, kozmolojik son değil (Maimonides: "Bu dünya ile mesih günleri arasında krallıkların boyunduruğundan başka fark yoktur").
+  - **Hıristiyanlık:** 2 Petrus 3:10 ("gökler gürültüyle yok olacak") ve Mezmur 102:26 ("gökler bir giysi gibi eskiyecek") fiziksel yıkım dili içerir. Yorumcular arasında bunun literal mi mecazi mi olduğu tartışmalıdır.
+  - **Zerdüştlük:** Frashokereti evrenin yıkımını değil, arındırılıp mükemmelleştirilmesini tarif eder. Kozmos dönüştürülür, yok edilmez.
+  - **Hinduizm/Budizm:** Pralaya (kozmik çözülme) ve Yedi Güneş tasvirleri fiziksel yıkımı gerçekten içerir. Ancak bunlar **sonsuz döngüler** içindedir — evren her zaman yeniden yaratılır. Kalıcı, geri dönüşsüz bir son yoktur.
+
+- **Kur'an'ın farkı üç noktada belirginleşir:**
+  1. **Kapsamlılık:** Sadece yeryüzü değil, tüm kozmosun (gökler, yıldızlar, güneş, denizler) sonu tarif edilir. "Küllü şey'in hâlik" (her şey helak olucudur) tüm fiziksel gerçeklik hakkında ontolojik bir iddiadır.
+  2. **Geri dönüşsüzlük:** Hindu/Budist döngüsel kozmolojiden farklı olarak, son kalıcı ve tek seferlik tarif edilir. Modern kozmolojinin öngördüğü geri dönüşsüz son (ısı ölümü, Big Rip) ile daha uyumludur.
+  3. **Ontolojik fânilik:** "Küllü şey'in hâlik" (her şey helak olucudur) ifadesi, evrenin fâniliğini doğasına ait bir özellik olarak sunar — yalnızca Allah bâkîdir.
+
+- **Felsefi tahmin iddiası:** 7. yüzyılda baskın kozmolojik görüşler — Aristoteles'in ezeli-ebedi evreni, Stoacıların sonsuz ekpyrosis döngüleri, Hindu-Budist kalpa döngüleri — evrenin ya sonsuz ya da sonsuz döngüsel olduğunu öngörüyordu. Evrenin kalıcı bir sonu olduğu fikri tüm bu çerçevelere aykırıydı.
 
 **Sonuç:**
-Evrenin bir sonu olacağı fikri, dönemin sonsuz evren anlayışına tamamen aykırıydı, modern bilim bunu doğruladı.
+Evrenin kalıcı bir sonu olacağı fikri, dönemin sonsuz veya sonsuz-döngüsel evren anlayışlarına aykırıydı. Kur'an'ın tüm kozmosun geri dönüşsüz sonunu ve maddenin doğasındaki fâniliği tarif etmesi modern kozmoloji ile uyumludur.
 
 #### 10. Güneş'in Hareketi
 
