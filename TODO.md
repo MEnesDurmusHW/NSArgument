@@ -13,6 +13,11 @@
 | 7 | [Linguistik Analiz](#linguistik-analiz-ve-alternatif-yorumlar) | 3 | 4 |
 | 8 | [Bilimsel İçerik Kategorilendirme](#bilimsel-i̇çerik-bölümü-kategorilendirme-tartışmalı) | 3 | 4 |
 | 9 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
+| 10 | [Tekrar Eden İçerik](#tekrar-eden-i̇çerik-bölüm-6-duplikasyonu) | 5 | 1 |
+| 11 | [Değişmezlik Güçlendirme](#metinsel-değişmezlik-bölümü-güçlendirilmeli-öncül-2a) | 5 | 4 |
+| 12 | [Sudan Yaratılma - Thales](#her-canlının-sudan-yaratılması-satır-500-528) | 3 | 2 |
+| 13 | [Evrenin Sonu - Diğer Dinler](#evrenin-bir-sonu-olması-satır-554-577) | 3 | 3 |
+| 14 | [Seçicilik Açıklaması](#seçicilik-açıklaması) | 3 | 1 |
 
 **Puanlama:** Önem (1-5 kritiklik), Efor (1-5 zorluk), Öncelik (tablodaki sıralama)
 
@@ -61,11 +66,6 @@ Her bilimsel örnek için şunları ekle:
 
 ### Zayıf örnekleri tekrar araştır
 
-**Dağların Hareketi - Neml 88 (satır 414-432):**
-- **Problem:** Ek A'daki gramer analizi detaylı ama yeterince ikna edici değil
-- **Neden sorun:** Kıyamet yorumu hâlâ güçlü (önceki ayet Sur'a üfürülmesinden bahsediyor), muzâri kipi = şimdiki zaman argümanı zayıf (muzâri gelecek için de kullanılabilir)
-- **Yapılacak:** Bu örneği "tartışmalı" kategorisine al veya kıyamet yorumunu daha güçlü şekilde reddet
-
 **Güneş'in Hareketi (satır 562-596):**
 - **Not:** Kullanıcı bu örneği savunuyor: "En nihayetinde yanlış olduğu düşünülse bile doğru olanı söylemiş, sonuç önemli"
 - **Değerlendirme:** Tartışmalı ama kullanıcı tutmak istiyor, şimdilik dokunma
@@ -73,6 +73,13 @@ Her bilimsel örnek için şunları ekle:
 **İnsanın Topraktan Yaratılması (satır 490-512):**
 - **Not:** Kullanıcı Senaryo 2 kapsamında savunuyor: "Dönemin dört element teorisi toprak-su-hava-ateş diyordu ama toprak diyerek doğru olanı seçmiş"
 - **Değerlendirme:** Orta güçlü örnek, kullanıcı kabul ediyor
+
+**Her Canlının Sudan Yaratılması (satır 500-528):**
+- **Durum:** Thales karşılaştırması eklendi ✓ (Thales kozmolojik/yanlış vs. Kur'an biyolojik/doğru, erişilebilirlik, antik su mitleri tablosu)
+
+**Evrenin Bir Sonu Olması (satır 554-577):**
+- **Problem:** Kıyamet kavramı Hıristiyanlık, Yahudilik ve Zerdüştlük'te de var. "Fiziksel evrenin sonu" ile "dini kıyamet" arasındaki fark netleştirilmemiş.
+- **Yapılacak:** Diğer dinlerde kıyamet nasıl anlatılıyor vs. Kur'an'da nasıl anlatılıyor araştır. Farkı (fiziksel evren sonu vs. dini mitoloji) metinde netleştir.
 
 ---
 
@@ -88,6 +95,12 @@ Her bilimsel örnek için şunları ekle:
 
 ---
 
+### Seçicilik Açıklaması
+**Problem:** "6236 ayetten neden bu 11'i seçildi?" sorusu metinde cevaplanmamış.
+**Yapılacak:** Bölüm 3.1 Metodolojik Yaklaşım'a (satır 355 civarı) kısa bir açıklama ekle: Kur'an birçok konudan bahsediyor, bu örnekler bilimsel olarak test edilebilir ve dönemin bilgisiyle açıklanamayan örnekler olarak seçildi. Seçim kriterleri "Değerlendirme Kriterleri" bölümünde zaten tanımlı, buna referans ver.
+
+---
+
 ## Kanıt Kalitesi İyileştirmeleri
 
 ### Linguistik Analiz ve Alternatif Yorumlar
@@ -100,7 +113,7 @@ Her kritik örnek için şunları ekle:
 
 **Hangi örneklerde gerekli:**
 - Evrenin genişlemesi (mûsi'ûn kelimesi - zaten Ek D'de var ✓)
-- Dağların hareketi (muzâri kipi tartışması - Ek A'da var ama güçlendirilmeli)
+- Dağların hareketi (muzâri kipi tartışması - Ek A'da güçlendirildi ✓)
 - Derin deniz dalgaları (mevç vs. dalga ayrımı)
 - Ay'ın ışık kaynağı (nur vs. sırâc - zaten Ek C'de var ✓)
 
@@ -124,6 +137,24 @@ Her kritik örnek için şunları ekle:
 - "Orta güçlü" ifadesi savunmacı görünebilir
 
 **Karar:** İleride tartışılacak
+
+---
+
+## Yapısal Buglar
+
+### Tekrar Eden İçerik (Bölüm 6 duplikasyonu)
+**Durum:** Bölüm 6 (Problematik Ayetler, satır 1063-1293) "8. Sonuç"un ardından kelimesi kelimesine tekrar edilmiş (satır 1947-2177). ~230 satırlık copy-paste bug. Silinmeli.
+
+### Metinsel Değişmezlik Bölümü Güçlendirilmeli (Öncül 2a)
+**Neden önemli:** Argümanın temel direği olmasına rağmen sadece 3 manuskript listelenmiş, derinlik yok.
+**Yapılacaklar:**
+- Kıraat farkları (Hafs vs. Warsh vb.) ve rasm varyasyonlarını ele al
+- "Değişmemiş" iddiasının kapsamını netleştir (harf seviyesi mi, anlam seviyesi mi?)
+- San'a manuskriptleri ve palimpsestleri tartış
+- Hz. Osman kodifikasyon sürecini kısaca anlat
+
+### Kullanılmayan Dipnot
+- `[^galen_brain]` (satır 2211) tanımlanmış ama metin içinde hiç referanslanmamış. Silinmeli veya kullanılmalı.
 
 ---
 
