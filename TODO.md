@@ -10,7 +10,6 @@
 | 4 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
 | 5 | [Epistemik Mütevazılık](#epistemik-mütevazılık-sonuç-bölümüne-eklenecek) | 4 | 3 |
 | 6 | [Peer-reviewed Kaynaklar](#peer-reviewed-kaynaklar-ekleme) | 3 | 5 |
-| 7 | [Linguistik Analiz](#linguistik-analiz-ve-alternatif-yorumlar) | 3 | 4 |
 | 8 | [Bilimsel İçerik Kategorilendirme](#bilimsel-i̇çerik-bölümü-kategorilendirme-tartışmalı) | 3 | 4 |
 | 9 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
 
@@ -80,21 +79,6 @@ Her bilimsel örnek için şunları ekle:
 - Texas Sharpshooter eleştirisine daha güçlü yanıt: "Müddessir 30'da '19 vardır' dendi, SONRA besmele'de 19'la uyum bulundu" vurgusunu daha net yap
 - İstatistiksel analiz detaylandır: Bağımsız olasılık hesaplamaları ekle
 - Ebced sistemi meşruiyetini daha net savun: 7. yy'da standart rakam sistemiydi, arkeolojik deliller var
-
----
-
-## Kanıt Kalitesi İyileştirmeleri
-
-### Linguistik Analiz ve Alternatif Yorumlar
-**Neden önemli:** "Vague language hypothesis" eleştirisini karşılamak için - ayetlerin muğlak olup sonradan yorumlandığı iddiasını reddetmek gerekir.
-**Yapılacaklar:**
-Her kritik örnek için şunları ekle:
-- **Linguistik analiz:** Ayetin Arapça kelimelerinin **dönemindeki** anlamı neydi?
-- **Alternatif yorumlar:** Başka nasıl anlaşılabilirdi? Neden bu yorumlar zayıf?
-- **Klasik tefsir referansları:** 8-15. yüzyıl alimlerinin yorumları (Ek D formatında)
-
-**Kalan örnek:**
-- Derin deniz dalgaları (mevç vs. dalga ayrımı)
 
 ---
 

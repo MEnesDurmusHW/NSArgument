@@ -132,25 +132,13 @@
       - [4. Linguistik Analiz: "Mûsi'ûn" Kelimesinin Kökü](#4-linguistik-analiz-mûsiûn-kelimesinin-kökü)
       - [5. İki Ana Yorum Geleneği](#5-i̇ki-ana-yorum-geleneği)
       - [6. Sonuç: "Geriye Dönük Yorum" İddiasının Reddi](#6-sonuç-geriye-dönük-yorum-i̇ddiasının-reddi)
+    - [Ek E: Nur 24:40 - "Dalga Üstüne Dalga" Linguistik Analiz](#ek-e-nur-2440---dalga-üstüne-dalga-linguistik-analiz)
+      - [1. Ayetin Metni](#1-ayetin-metni)
+      - [2. Kelime Analizi](#2-kelime-analizi)
+      - [3. Ayetin Dikey Yapısı](#3-ayetin-dikey-yapısı)
+      - [4. "Sadece Metafor" Eleştirisinin Değerlendirilmesi](#4-sadece-metafor-eleştirisinin-değerlendirilmesi)
+      - [5. Alternatif Yorum: "Ardışık Yüzey Dalgaları"](#5-alternatif-yorum-ardışık-yüzey-dalgaları)
   - [8. Sonuç](#8-sonuç)
-    - [1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)](#1-güneşin-çamurlu-pınarda-batması-kehf-1886-1)
-      - [Ayet ve Problem](#ayet-ve-problem-1)
-      - [Fenomenolojik Yorum](#fenomenolojik-yorum-1)
-      - [1. Dilbilimsel Analiz: "وجد" Fiilinin Anlamı](#1-dilbilimsel-analiz-وجد-fiilinin-anlamı-1)
-      - [2. İç-Metinsel Tutarlılık: Kehf 18:90 ile Paralellik](#2-i̇ç-metinsel-tutarlılık-kehf-1890-ile-paralellik-1)
-      - [3. Tarihsel Yorumlar Hakkında Not](#3-tarihsel-yorumlar-hakkında-not-1)
-      - [Sonuç](#sonuç-4)
-    - [2. Yıldızların Şeytan Taşlama Aracı (Mülk 67:5)](#2-yıldızların-şeytan-taşlama-aracı-mülk-675-1)
-      - [Eleştiri: Modern Astronomi ile Çelişki İddiası](#eleştiri-modern-astronomi-ile-çelişki-i̇ddiası-1)
-      - [Savunma Argümanları](#savunma-argümanları-1)
-        - [1. Dilbilimsel Yaklaşım: Arapça Terminolojinin Geniş Kapsamı ve Fenomenolojik Dil](#1-dilbilimsel-yaklaşım-arapça-terminolojinin-geniş-kapsamı-ve-fenomenolojik-dil-1)
-        - [2. Metafizik Gerçeklik: Şeytanların Âlemi Gaybî](#2-metafizik-gerçeklik-şeytanların-âlemi-gaybî-1)
-      - [Değerlendirme: Hangi Yorum Daha Tutarlı?](#değerlendirme-hangi-yorum-daha-tutarlı-1)
-      - [Sonuç](#sonuç-5)
-    - [3. Yedi Kat Gök (Bakara 2:29)](#3-yedi-kat-gök-bakara-229-1)
-      - [Eleştiri: Antik Kozmolojinin Yansıması İddiası](#eleştiri-antik-kozmolojinin-yansıması-i̇ddiası-1)
-      - [Savunma: Dilbilimsel Esneklik ve Edebi Dil](#savunma-dilbilimsel-esneklik-ve-edebi-dil-1)
-      - [Sonuç](#sonuç-6)
   - [Dipnotlar](#dipnotlar)
   - [Kaynakça](#kaynakça)
     - [Antik Kaynaklar](#antik-kaynaklar)
@@ -383,14 +371,14 @@ Antik ve ortaçağ kozmolojilerinde evren statik ve değişmez kabul edilirdi. P
 **Kur'an'ın İfadesi:**
 "Göğü biz kudretli ellerimizle bina ettik ve şüphesiz biz (onu) genişleticiyiz." (Zariyat 51:47)
 Arapça: وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ
-"lemûsi'ûn" kelimesi sürekli genişletme anlamında aktif ortaç formundadır.
+"lemûsi'ûn" kelimesi sürekli genişletme anlamında aktif ortaç formundadır. [^lane_wsa]
 
 **Modern Keşif:**
 - 1929: Edwin Hubble, galaksilerin bizden uzaklaştığını ve evrenin genişlediğini keşfetti [^hubble_1929]
 - 1998: Evrenin genişlemesinin hızlandığı keşfedildi (Nobel Fizik Ödülü 2011) [^riess_1998] [^perlmutter_1999]
 
 **Alternatif Açıklamaların Reddi:**
-- "Geniş yaratmak" anlamı iddiası: Arapça'da aktif ortaç formu süreklilik bildirir
+- "Geniş yaratmak" anlamı iddiası: Arapça'da aktif ortaç formu (ism al-fā'il) süreklilik bildirir [^wright_grammar]
 - Tesadüf iddiası: Tüm antik kozmolojiler statik evren öngörürken tam tersi söylenmesi
 
 **Sonuç:**
@@ -410,11 +398,15 @@ Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar k
 - İç dalgalar: Farklı yoğunluktaki su katmanları arasında oluşur
 
 **Alternatif Açıklamaların Reddi:**
-- Yüzey dalgaları kasıt iddiası: Ayet "derin deniz" ve "dalga üstüne dalga" vurgusu yapıyor
-- Tahmin iddiası: İç dalga konsepti modern okyanus bilimine özgü
+
+- **"Ardışık yüzey dalgaları" iddiası:** Arapça'da مِنْ فَوْقِهِ (min favkıhi = "üstünden") mekânsal dikey ilişki bildirir — تَحْت'ın (altında) tam zıttı. Zamansal ardışıklık kastedilseydi مِنْ بَعْدِهِ (min ba'dihi = "ardından") kullanılırdı. Ayrıca بَحْرٍ لُجِّيٍّ (derin/dipsiz deniz) vurgusu, yüzey fırtınası için gereksiz bir ayrıntıdır.[^raghib_mawj]
+
+- **"Sadece metafor" iddiası:** Ayet bir teşbih (benzetme) bağlamındadır. Ancak teşbihin geçerli olabilmesi için betimlenen sahnenin gerçek dünyada var olması gerekir — hayali bir olguya benzetme yapılmaz.
+
+- **Tahmin iddiası:** مَوْج kelimesinin sözlük tanımı "suyun su üstüne yükselmesi"dir (Ragıb el-İsfahani),[^raghib_mawj] bu iç dalganın literal tanımıdır. Detaylı linguistik analiz için bkz. **Ek E**.
 
 **Sonuç:**
-Derin denizlerde farklı su katmanları arasında oluşan iç dalgalar, ancak modern okyanoğrafi ile keşfedilmiştir.
+Ayet dört katmanlı dikey bir yapı betimler: derin deniz → iç dalga → yüzey dalgası → bulut. Bu katmanlaşma ancak modern okyanoğrafi ile keşfedilmiştir. Kelime analizi ayetin bu yapıyı doğal Arapça anlamlarıyla betimlediğini göstermektedir.
 
 #### 3. Denizlerin Karanlık Katmanları
 
@@ -444,14 +436,14 @@ Tüm antik kaynaklarda arı kolonilerinin lideri "kral arı" olarak anılır. Ar
 
 **Kur'an'ın İfadesi:**
 "Rabbin bal arısına vahyetti: Dağlardan, ağaçlardan ve insanların kurdukları çardaklardan kendine evler edin. Sonra meyvelerin hepsinden ye de Rabbinin sana kolaylaştırdığı yollarda yürü." (Nahl 16:68-69)
-Arapça'da "ittehizî" (evler edin) ve "kulî" (ye) fiilleri dişil formda.
+Arapça'da "ittehizî" (evler edin) ve "kulî" (ye) fiilleri dişil formda. [^wright_arabic_gender]
 
 **Modern Keşif:**
 - 1586: İspanyol entomolog Luis Mendez de Torres arı kolonisinin liderinin dişi olduğunu ilk kez tespit etti; 1609'da Charles Butler bunu İngilizce'de popülerleştirdi [^butler_1609]
 - 1771: Anton Janša kraliçe arının havada erkek arılar tarafından döllendiğini kanıtladı [^jansa_1771]
 
 **Alternatif Açıklamaların Reddi:**
-- Tesadüf iddiası: Arapça'da çoğul eril form hem erkek hem dişiyi kapsayacağından "güvenli" seçim olurdu. Ancak Kur'an özellikle ve ısrarla sadece dişil form kullanmış
+- Tesadüf iddiası: Arapça'da çoğul eril form hem erkek hem dişiyi kapsayacağından "güvenli" seçim olurdu [^wright_arabic_gender]. Ancak Kur'an özellikle ve ısrarla sadece dişil form kullanmış
 - Gözlemlenebilir iddiası: 18. yüzyıla kadar tüm bilginler yanılıyordu, Aristoteles bile "kral arı" diyordu
 
 **Sonuç:**
@@ -1124,7 +1116,7 @@ Bu ayetin fenomenolojik (gözlemsel) dil kullandığı öne sürülebilir. Aşa�
 
 **"وَجَدَهَا تَغْرُبُ"** (wajadaha taghrubu) - "onu batıyor buldu/gördü"
 
-- **"وجد" (wajada)** fiili Arapça'da "bulmak, görmek, algılamak" anlamlarına gelir
+- **"وجد" (wajada)** fiili Arapça'da "bulmak, görmek, algılamak" anlamlarına gelir [^lane_wjd]
 - Bu fiil **subjektif algıyı** ifade edebilir - öznenin (Zülkarneyn'in) deneyimini anlatır
 
 **Karşılaştırma:**
@@ -1309,7 +1301,7 @@ Mülk 67:5 ve paralel ayetler, Kur'an eleştirilerinde sıklıkla kullanılan zo
 **Temel argüman:** Kur'an kozmoloji ders kitabı değildir; edebi/fenomenolojik dil kullanır. "Yedi" (سَبْعَ) sayısı bu bağlamda **mecazi çokluk ifadesidir**.
 
 **Dilbilimsel delil:**
-- **Klasik sözlükler:** Lisân'ul-'Arab gibi kaynaklar "seb'a"nın "çok/tamamlık" anlamında kullanıldığını belirtir
+- **Klasik sözlükler:** Lisân'ul-'Arab gibi kaynaklar "seb'a"nın "çok/tamamlık" anlamında kullanıldığını belirtir [^lisan_arab_seba]
 - **Benzer kullanım:** İngilizce "seven seas" (tüm denizler), Türkçe "yedi kat yerin dibine geçmek" gibi ifadeler de mecazi çokluk içerir
 - **Anlam:** "Yedi kat gök" = "Göklerin tamamı/birçok gök katmanı"
 
@@ -1533,7 +1525,7 @@ Bu iki grup ayet arasında bir çelişki var gibi görünmektedir. Ancak dikkatl
 
 #### 3. "Revâsî" Kelimesinin Etimolojik Analizi
 
-##### 3.1. Kök: ر-س-و (R-S-W)
+##### 3.1. Kök: ر-س-و (R-S-W) [^lane_rsw]
 
 **رَسَا يَرْسُو (Resâ yersû)** fiilinin sözlük anlamları:
 
@@ -1797,7 +1789,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 - Bu ayrım kasıtlı ve bilimsel bir gerçeği yansıtıyor
 
 **Görüş 2: Terimler Eş Anlamlı**
-- Çoğu Arap dili alimi nur ve diya'nın eş anlamlı olduğunu söylüyor
+- Çoğu Arap dili alimi nur ve diya'nın eş anlamlı olduğunu söylüyor [^lane_diya_nur]
 - Linguistik perspektiften aralarında kesin bir fark olmadığı belirtiliyor
 - Kur'an'ın farklı terimler kullanması çeşitlilik ve edebi üslup amaçlı olabilir
 
@@ -2043,6 +2035,91 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 ---
 
+### Ek E: Nur 24:40 - "Dalga Üstüne Dalga" Linguistik Analiz
+
+#### 1. Ayetin Metni
+
+**Arapça:**
+> أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ
+
+**Literal çeviri:**
+"Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu dalga kaplıyor, üstünden dalga, üstünden bulut; karanlıklar, bazısı bazısının üstünde." (Nur 24:40)
+
+#### 2. Kelime Analizi
+
+##### 2.1 بَحْرٍ لُجِّيٍّ (bahr lucciyy) — "Derin deniz"
+
+Kök: ل-ج-ج (l-j-j). İbn Manzur (*Lisân al-Arab*): لُجَّة = **"dibi bulunamayan, ucu görünmeyen su"** (مُعْظَمُ الماء الذي لا يُدرك قعره).[^lisan_lujj]
+
+| Sözlük | Tanım |
+|--------|-------|
+| Lisân al-Arab | عميق كثير الماء — "derin ve bol sulu" |
+| Lane's Lexicon | "Water whose extremities cannot be seen" |
+| Hawramani Lexicon | "Abundant water whose edges cannot be seen" |
+
+**Kritik nokta:** Ayet herhangi bir deniz (بحر) değil, spesifik olarak **derin/dipsiz deniz** (بحر لجّي) diyor. Yüzey fırtınası betimlemek için bu ayrıntı gereksizdir — fırtınalar sığ denizlerde de olur. "Derin deniz" vurgusu, betimlenen olgunun derinlikle ilgili olduğuna işaret eder.
+
+##### 2.2 مَوْجٌ (mevç) — "Dalga"
+
+Kök: م-و-ج (m-w-j). Ragıb el-İsfahani (*el-Müfredât*): مَوْج = **"suyun su üstüne yükselmesi"** (ما ارتفع من الماء فوق الماء).[^raghib_mawj]
+
+Lane's Lexicon: "The sea was in a state of commotion; was agitated with waves." Birincil fiziksel anlam: **su kütlesinin su içinde yükselerek hareket etmesi**.
+
+**Kritik nokta:** İç dalga tam olarak budur — farklı yoğunluktaki su katmanlarının birbiri üzerinde yükselip hareket etmesi. Ragıb'ın tanımı ("suyun su üstüne yükselmesi") iç dalganın literal tanımıdır.
+
+##### 2.3 مِنْ فَوْقِهِ (min favkıhi) — "Üstünden"
+
+**فَوْق (fevk):** تَحْت (taht = "altında") kelimesinin **tam zıttı**.[^lisan_fawq] Birincil anlamı mekânsal ve dikeydir: "üstünde, yukarısında."
+
+| İfade | Anlam | Ne bildirirdi? |
+|-------|-------|:--------------:|
+| مَوْجٌ **مِنْ فَوْقِهِ** مَوْجٌ | dalga, **üstünden** dalga | Dikey katmanlaşma |
+| مَوْجٌ **مِنْ بَعْدِهِ** مَوْجٌ | dalga, **ardından** dalga | Zamansal ardışıklık |
+| مَوْجٌ **عَلَى** مَوْجٌ | dalga **üzerine** dalga | Temas/üst üste binme |
+
+Kur'an **فَوْق** (dikey konum) tercih ediyor — **بَعْد** (zamansal sıra) veya **عَلَى** (temas) değil. Bu, iki dalganın aynı anda farklı dikey konumlarda bulunduğunu ifade eder.
+
+##### 2.4 يَغْشَاهُ (yağşâhu) — "Onu kaplar/bürür"
+
+Kök: غ-ش-ي (ğ-ş-y). "Örtmek, kaplamak, bürümek, kuşatmak."[^lisan_ghashiya] Dalganın denizi dışarıdan veya içeriden kuşatması/kaplaması anlamında kullanılabilir.
+
+#### 3. Ayetin Dikey Yapısı
+
+Kelime analizi, ayetin dört katmanlı dikey bir yapı betimlediğini ortaya koyar:
+
+```
+☁️  سَحَابٌ        — Bulut (üstte)
+〰️  مَوْجٌ         — Dalga 2: Yüzey dalgası
+〰️  مَوْجٌ         — Dalga 1: İç dalga (termoklin)
+🌊  بَحْرٍ لُجِّيٍّ  — Derin deniz tabanı
+```
+
+Bu yapı modern okyanoğrafinin bildiği katmanlaşmayla örtüşür: derin deniz tabanı → farklı yoğunluktaki su katmanları arasında oluşan iç dalgalar → yüzey dalgaları → atmosferik katman (bulutlar).
+
+#### 4. "Sadece Metafor" Eleştirisinin Değerlendirilmesi
+
+Ayet bir **teşbih** (benzetme) bağlamında kullanılmaktadır — inkarcıların durumu bu sahneye benzetilir. Klasik müfessirler (Taberi, Kurtubi, İbn Kesir) ayeti metaforik olarak yorumlamışlardır. Bu beklenen bir durumdur çünkü iç dalgalar 20. yüzyıldan önce bilinmiyordu.
+
+Ancak teşbihin geçerli olabilmesi için, betimlenen sahnenin **gerçek dünyada var olması** gerekir. Kur'an, inkarcıların durumunu var olmayan, hayali bir sahneye benzetemez — teşbihin ikna edici olması, referans verilen olgunun tanınabilir olmasına bağlıdır. Bu nedenle:
+
+1. **Teşbih olması**, betimlenen fiziksel sahnenin gerçekliğini ortadan kaldırmaz
+2. Klasik alimlerin bilimsel boyutu anlamaması doğaldır — olgu bilinmiyordu
+3. Önemli olan **kelimelerin ne dediğidir**, alimlerin ne anladığı değil
+
+#### 5. Alternatif Yorum: "Ardışık Yüzey Dalgaları"
+
+Kurtubi bir alternatif sunar: "الموج يتبع بعضه بعضا حتى كأن بعضه فوق بعض" — "Dalgalar birbiri ardınca gelir, **sanki** bazısı bazısının üstündeymiş **gibi**."[^qurtubi_nur40]
+
+Bu alternatife karşı argümanlar:
+
+1. **"Sanki...gibi" eklentisi Kurtubi'nindir, ayetin değil.** Ayet "من فوقه" (üstünden) der, "كأنّ فوقه" (sanki üstündeymiş gibi) demez. Kurtubi'nin parafrazı ayetin literal ifadesini yumuşatır.
+
+2. **بحر لجّي (derin deniz) vurgusu açıklanmaz.** Ardışık yüzey dalgaları herhangi bir denizde olur — neden spesifik olarak "derin deniz" densin?
+
+3. **فَوْق kelimesi mekânsaldır.** Zamansal ardışıklık kastedilseydi Arapça'da bunun için daha doğal ifadeler (بعد، ثمّ، يتبع) mevcuttur.
+
+---
+
 ## 8. Sonuç
 
 [Bu bölüm henüz doldurulmamıştır]
@@ -2050,6 +2127,16 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 ---
 
 ## Dipnotlar
+
+[^lisan_lujj]: İbn Manzur, *Lisân al-Arab*, kök: ل-ج-ج. لُجَّة: "مُعْظَمُ الماء" (suyun büyük kısmı), "الذي لا يُدرك قعره" (dibi bulunamayan). Ayrıca bkz. Lane's Lexicon: "Water whose extremities cannot be seen"; Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/لجج/
+
+[^raghib_mawj]: Ragıb el-İsfahani, *el-Müfredât fî Garîbi'l-Kur'ân*, kök: م-و-ج. مَوْج: "ما ارتفع من الماء فوق الماء" (suyun su üstüne yükselmesi). Ayrıca bkz. Lane's Lexicon: "The sea was in a state of commotion; was agitated with waves"; Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/موج/
+
+[^lisan_fawq]: İbn Manzur, *Lisân al-Arab*, kök: ف-و-ق. فَوْق: "نقيض تحت" (تَحْت'ın zıttı — üstünde). Mekânsal dikey konum bildirir. Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/فوق/
+
+[^lisan_ghashiya]: İbn Manzur, *Lisân al-Arab*, kök: غ-ش-ي. يَغْشَى: "Örtmek, kaplamak, bürümek, kuşatmak." Lane's Lexicon: "To cover, conceal, veil, envelop."
+
+[^qurtubi_nur40]: Kurtubi, *el-Câmi' li-Ahkâmi'l-Kur'ân*, Nur 24:40 tefsiri. "الموج يتبع بعضه بعضا حتى كأن بعضه فوق بعض" — "Dalgalar birbiri ardınca gelir, sanki bazısı bazısının üstündeymiş gibi." Islamweb.net.
 
 [^ptolemy_translation]: "Astronomy in the medieval Islamic world," Wikipedia. Ptolemy's Almagest was translated at least five times into Arabic during the 8th and 9th centuries CE, well after the rise of Islam.
 
@@ -2185,6 +2272,20 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 [^aryabhata_moon]: Aryabhata (476-550), *Aryabhatiya* (c. 510), Gola (Küre) bölümü: Ay'ın güneş ışığını yansıttığını ve ay tutulmasının Ay'ın Dünya'nın gölgesine girmesiyle oluştuğunu açıklar. Çeviri: Clark, W.E. (1930). *The Aryabhatiya of Aryabhata*. University of Chicago Press. Brahmagupta (598-668), *Brahmasphutasiddhanta* (628), Bölüm 7: "Güneş ışığında duran bir çömleğin aydınlık tarafı gibi, Ay'ın [aydınlatılması da] öyledir." Bkz. Plofker, K. (2009). *Mathematics in India: 500 BCE–1800 CE*. Princeton University Press. ISBN: 978-0-691-12067-6.
 
+[^lane_wsa]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*, 8 cilt. London: Williams and Norgate. Kök: و-س-ع (W-S-ʿ). "وَسِعَ" (wasi'a) = "geniş oldu, genişledi"; "مُوسِع" (mūsiʿ) = aktif ortaç (ism al-fāʿil), "genişleten, genişletmekte olan." Aktif ortaç formu, eylemin devam ettiğini (süreklilik) bildirir. Bkz. Lane, Cilt 8, s. 2943-2944.
+
+[^wright_grammar]: Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, rev. W. Robertson Smith & M.J. de Goeje, 2 cilt. Cambridge: Cambridge University Press. Cilt I, §§ 130-134: İsm-i fâil (active participle) formunun Arapça'da devam eden veya alışılmış eylemi bildirdiğini açıklar. "Mûsi'ûn" formu, fâil kalıbının çoğul halidir ve süreklilik ifade eder.
+
+[^wright_arabic_gender]: Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, 2 cilt. Cambridge: Cambridge University Press. Cilt I, §§ 27-33: Arapça'da fiillerin dişil (müennes) ve eril (müzekker) formlarının kullanımı. Emir kipinde "-î" eki dişil tekil hitabı bildirir (ittehizî = "sen [dişil] edin"). Cilt II, § 48: Eril çoğul form (müzekker cem') karışık cinsiyetli gruplar için varsayılan form olarak kullanılır. Ayrıca bkz. Wehr, H. (1994). *A Dictionary of Modern Written Arabic (Arabic-English)*, 4. baskı, ed. J.M. Cowan. Ithaca: Spoken Language Services. ISBN: 0-87950-003-4.
+
+[^lane_wjd]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. Kök: و-ج-د (W-J-D). "وَجَدَ" (wajada): Lane, birincil anlamlar arasında "bulmak" yanı sıra "algılamak, deneyimlemek, hissetmek" anlamlarını verir. "وَجَدَهُ كَذَا" (wajadahu kadhā) = "onu öyle buldu/gördü/algıladı" — öznenin subjektif deneyimini ifade eder; nesnel gerçeklik hakkında zorunlu bir iddia taşımaz. Bkz. Lane, Cilt 8, s. 2924-2926.
+
+[^lisan_arab_seba]: İbn Manzur. *Lisânü'l-Arab*, 15 cilt. Beyrut: Dâr Sâdır, 1955-1956. Kök: س-ب-ع (S-B-ʿ). "سَبْع" (seb') ve "سَبْعَة" (seb'a): Literal olarak 7 sayısını ifade eder, ancak Arapça'da mecazi olarak "çokluk, tamamlık, büyük miktar" anlamında da kullanılır. Benzer kullanım: "سَبْعِينَ مَرَّةً" (yetmiş kere) = "çok kere" (Tevbe 9:80). Ayrıca bkz. Lane, Cilt 4, s. 1299-1300.
+
+[^lane_rsw]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. Kök: ر-س-و (R-S-W). "رَسَا" (rasā) = "sabit oldu, durdu; (gemi) demir attı." "رَاسٍ" / "رَاسِيَة" (rāsī/rāsiya) = ism-i fāʿil: "sabit duran, demir atmış." "رَوَاسِي" (rawāsī) = çoğul: "sabitleyen/sabitlenmiş olanlar" — dağlar için kullanıldığında "yer kabuğunu sabitleyen" anlamına gelir. "مِرْسَاة" (mirsāt) = ism-i âlet: "çapa, demir" — aynı kökten türemiş olup dağların çapa işlevi görmesi metaforunu destekler. Bkz. Lane, Cilt 3, s. 1080-1081.
+
+[^lane_diya_nur]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. "ضَوْء" / "ضِيَاء" (ḍawʾ/ḍiyāʾ): Lane, bazı otoritelere atıfla "الضَّوْءُ signifies that [light] which subsists by itself... and النُّورُ, to that which subsists by some other thing" (ḍawʾ kendi başına var olan ışık, nūr başka bir şey aracılığıyla var olan ışık) ayrımını aktarır (Cilt 5, s. 1814). Ancak Lane aynı maddede bu ayrımın **tartışmalı** olduğunu ve birçok leksikologun iki terimi eş anlamlı (müteradif) saydığını belirtir. Bkz. ayrıca Wehr, H. (1994). *A Dictionary of Modern Written Arabic*, 4. baskı. "ضوء" (ḍawʾ) = light, brightness; "نور" (nūr) = light, luminosity.
+
 ---
 
 ## Kaynakça
@@ -2282,8 +2383,13 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 ### Sözlük ve Dilbilim Kaynakları
 
-- *Lisânü'l-Arab*. Arap dilinin en kapsamlı klasik sözlüğü.
+- İbn Manzur. *Lisânü'l-Arab* (لسان العرب), 15 cilt. Beyrut: Dâr Sâdır, 1955-1956. Arap dilinin en kapsamlı klasik sözlüğü (13. yüzyıl eseri).
+- Lane, E.W. (1863-1893). *An Arabic-English Lexicon*, 8 cilt. London: Williams and Norgate. Klasik Arapça'nın en kapsamlı Arapça-İngilizce sözlüğü; özellikle Kur'an ve klasik dönem Arapçası için temel başvuru kaynağı.
+- *el-Müfredât fî Garîbi'l-Kur'ân* (Ragıb el-İsfahani). Kur'an kelimelerinin etimolojik ve anlamsal analizi.
 - *Mu'cemü'l-Meânî*. Modern Arapça sözlük ve anlam rehberi.
+- Wehr, H. (1994). *A Dictionary of Modern Written Arabic (Arabic-English)*, 4. baskı, ed. J. Milton Cowan. Ithaca: Spoken Language Services. ISBN: 0-87950-003-4. Modern Yazılı Arapça için standart referans sözlük.
+- Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, rev. W. Robertson Smith & M.J. de Goeje, 2 cilt. Cambridge: Cambridge University Press. Klasik Arapça grameri için Batı'daki temel referans eser.
+- Hawramani Arabic Lexicon. https://arabiclexicon.hawramani.com/ — Birden fazla klasik sözlüğü derleyen dijital kaynak.
 
 ### Jeoloji ve Bilimsel Referanslar
 
