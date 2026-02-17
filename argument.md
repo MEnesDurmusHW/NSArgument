@@ -61,9 +61,9 @@
     - [1. Güneşin Çamurlu Pınarda Batması (Kehf 18:86)](#1-güneşin-çamurlu-pınarda-batması-kehf-1886)
       - [Ayet ve Problem](#ayet-ve-problem)
       - [Fenomenolojik Yorum](#fenomenolojik-yorum)
-      - [1. Dilbilimsel Analiz: "وجد" Fiilinin Anlamı](#1-dilbilimsel-analiz-وجد-fiilinin-anlamı)
-      - [2. İç-Metinsel Tutarlılık: Kehf 18:90 ile Paralellik](#2-i̇ç-metinsel-tutarlılık-kehf-1890-ile-paralellik)
-      - [3. Tarihsel Yorumlar Hakkında Not](#3-tarihsel-yorumlar-hakkında-not)
+        - [1. Dilbilimsel Analiz: "وجد" Fiilinin Anlamı](#1-dilbilimsel-analiz-وجد-fiilinin-anlamı)
+        - [2. İç-Metinsel Tutarlılık: Kehf 18:90 ile Paralellik](#2-i̇ç-metinsel-tutarlılık-kehf-1890-ile-paralellik)
+        - [3. Tarihsel Yorumlar Hakkında Not](#3-tarihsel-yorumlar-hakkında-not)
       - [Sonuç](#sonuç-1)
     - [2. Yıldızların Şeytan Taşlama Aracı (Mülk 67:5)](#2-yıldızların-şeytan-taşlama-aracı-mülk-675)
       - [Eleştiri: Modern Astronomi ile Çelişki İddiası](#eleştiri-modern-astronomi-ile-çelişki-i̇ddiası)
@@ -103,24 +103,24 @@
       - [6. Sonuç](#6-sonuç-1)
     - [Ek C: Ayın Işık Kaynağı Olmaması - Detaylı Tarihsel ve Linguistik Analiz](#ek-c-ayın-işık-kaynağı-olmaması---detaylı-tarihsel-ve-linguistik-analiz)
       - [1. Antik Dönemde Ay'ın Doğası Hakkındaki Görüşler](#1-antik-dönemde-ayın-doğası-hakkındaki-görüşler)
-      - [Hint Bilimi](#hint-bilimi)
-      - [Popüler Halk İnancı ve Mitoloji](#popüler-halk-i̇nancı-ve-mitoloji)
+        - [Hint Bilimi](#hint-bilimi)
+        - [Popüler Halk İnancı ve Mitoloji](#popüler-halk-i̇nancı-ve-mitoloji)
       - [2. 7. Yüzyıl Öncesi Bilgi Transferi Araştırması](#2-7-yüzyıl-öncesi-bilgi-transferi-araştırması)
-      - [Hindistan-Arabistan Bilgi Transferi](#hindistan-arabistan-bilgi-transferi)
-      - [Yunanistan-Arabistan Bilgi Transferi](#yunanistan-arabistan-bilgi-transferi)
-      - [7. Yüzyıl Arap Yarımadası'nda Bilgi Durumu](#7-yüzyıl-arap-yarımadasında-bilgi-durumu)
+        - [Hindistan-Arabistan Bilgi Transferi](#hindistan-arabistan-bilgi-transferi)
+        - [Yunanistan-Arabistan Bilgi Transferi](#yunanistan-arabistan-bilgi-transferi)
+        - [7. Yüzyıl Arap Yarımadası'nda Bilgi Durumu](#7-yüzyıl-arap-yarımadasında-bilgi-durumu)
       - [3. Linguistik Analiz: Siraj, Diya ve Nur Terimleri](#3-linguistik-analiz-siraj-diya-ve-nur-terimleri)
-      - [Güneş İçin Kullanılan Terimler](#güneş-i̇çin-kullanılan-terimler)
-      - [Ay İçin Kullanılan Terimler](#ay-i̇çin-kullanılan-terimler)
-      - [Alimler Arası Tartışma](#alimler-arası-tartışma)
-      - [Kur'an'da Sistematik Kullanım](#kuranda-sistematik-kullanım)
-      - [Klasik Alimlerin Yorumları](#klasik-alimlerin-yorumları)
+        - [Güneş İçin Kullanılan Terimler](#güneş-i̇çin-kullanılan-terimler)
+        - [Ay İçin Kullanılan Terimler](#ay-i̇çin-kullanılan-terimler)
+        - [Alimler Arası Tartışma](#alimler-arası-tartışma)
+        - [Kur'an'da Sistematik Kullanım](#kuranda-sistematik-kullanım)
+        - [Klasik Alimlerin Yorumları](#klasik-alimlerin-yorumları)
       - [4. Modern Astronomide Ay'ın Yansıtıcılık Özellikleri](#4-modern-astronomide-ayın-yansıtıcılık-özellikleri)
       - [5. İbn al-Haytham'ın Katkısı](#5-i̇bn-al-haythamın-katkısı)
       - [6. Genel Değerlendirme](#6-genel-değerlendirme)
-      - [Senaryo 2 Analizi](#senaryo-2-analizi)
-      - [Tesadüfle Açıklanamayan Örüntü](#tesadüfle-açıklanamayan-örüntü)
-      - [Aktif Seçicilik](#aktif-seçicilik)
+        - [Senaryo 2 Analizi](#senaryo-2-analizi)
+        - [Tesadüfle Açıklanamayan Örüntü](#tesadüfle-açıklanamayan-örüntü)
+        - [Aktif Seçicilik](#aktif-seçicilik)
     - [Ek D: Zariyat 51:47 - Klasik Tefsir Yorumları ve "Mûsi'ûn" Kelimesi](#ek-d-zariyat-5147---klasik-tefsir-yorumları-ve-mûsiûn-kelimesi)
       - [1. Giriş: "Geriye Dönük Yorum" İddiasının İncelenmesi](#1-giriş-geriye-dönük-yorum-i̇ddiasının-i̇ncelenmesi)
       - [2. Ayetin Metni ve Çevirisi](#2-ayetin-metni-ve-çevirisi)
@@ -139,11 +139,13 @@
       - [4. "Sadece Metafor" Eleştirisinin Değerlendirilmesi](#4-sadece-metafor-eleştirisinin-değerlendirilmesi)
       - [5. Alternatif Yorum: "Ardışık Yüzey Dalgaları"](#5-alternatif-yorum-ardışık-yüzey-dalgaları)
   - [8. Sonuç](#8-sonuç)
-  - [Dipnotlar](#dipnotlar)
   - [Kaynakça](#kaynakça)
+  - [Dipnotlar](#dipnotlar)
     - [Antik Kaynaklar](#antik-kaynaklar)
     - [Kur'an Manuskriptleri ve Koleksiyonları](#kuran-manuskriptleri-ve-koleksiyonları)
     - [Akademik Kaynaklar](#akademik-kaynaklar)
+    - [Bilimsel Keşif Tarihi Kaynakları](#bilimsel-keşif-tarihi-kaynakları)
+    - [Antik Bilgi Durumu Kaynakları](#antik-bilgi-durumu-kaynakları)
     - [Ansiklopedi ve Referans Kaynakları](#ansiklopedi-ve-referans-kaynakları)
     - [Sözlük ve Dilbilim Kaynakları](#sözlük-ve-dilbilim-kaynakları)
     - [Jeoloji ve Bilimsel Referanslar](#jeoloji-ve-bilimsel-referanslar)
@@ -417,9 +419,12 @@ Antik dönemde derin denizlere dalmak mümkün değildi. Denizlerin derinlikleri
 "Yahut (inkarcıların durumu) derin bir denizdeki karanlıklar gibidir ki, onu dalga üstüne dalga kaplıyor, üstünde de bulut var; **karanlıklar üst üste. Elini çıkarsa neredeyse onu bile göremez.**" (Nur 24:40)
 
 **Modern Keşif:**
-- 20\. yüzyıl denizaltı keşifleri:
+- 1865: Angelo Secchi ilk standart su şeffaflık ölçümünü gerçekleştirdi (Secchi diski, maks. ~41m) [^secchi_1865]
+- 1930-34: William Beebe ve Otis Barton Bathysphere ile 923m'ye dalarak okyanus ışık katmanlarını doğrudan gözlemledi: ~518m'de yüzey ışığının tamamen kaybolduğunu rapor etti [^beebe_1934]
+- 1956: John Ryther fotik bölgeyi "yüzey ışığının %1'ine düştüğü derinlik" olarak tanımladı (~200m) [^ryther_1956]
+- Modern okyanoğrafi: [^garrison_oceanography]
   - 200m: Fotik bölge sonu, ışık azalır (alacakaranlık bölgesi)
-  - 1000m: Afotik bölge, tam karanlık başlar [^garrison_oceanography]
+  - 1000m: Afotik bölge, tam karanlık başlar
 - Karanlık katmanları: Bulut gölgesi + yüzey suyu + orta su + derin su
 
 **Alternatif Açıklamaların Reddi:**
@@ -439,7 +444,7 @@ Tüm antik kaynaklarda arı kolonilerinin lideri "kral arı" olarak anılır. Ar
 Arapça'da "ittehizî" (evler edin) ve "kulî" (ye) fiilleri dişil formda. [^wright_arabic_gender]
 
 **Modern Keşif:**
-- 1586: İspanyol entomolog Luis Mendez de Torres arı kolonisinin liderinin dişi olduğunu ilk kez tespit etti; 1609'da Charles Butler bunu İngilizce'de popülerleştirdi [^butler_1609]
+- 1586: İspanyol arıcılık yazarı Luis Mendez de Torres arı kolonisinin liderinin dişi olduğunu ilk kez basılı olarak tespit etti; 1609'da Charles Butler bunu İngilizce'de popülerleştirdi [^butler_1609]
 - 1771: Anton Janša kraliçe arının havada erkek arılar tarafından döllendiğini kanıtladı [^jansa_1771]
 
 **Alternatif Açıklamaların Reddi:**
@@ -557,7 +562,9 @@ Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, 
 "O, sizi topraktan yarattı." (Rum 30:20)
 
 **Modern Keşif:**
-- 19-20\. yüzyıl kimya: İnsan vücudunun element kompozisyonu çözüldü [^human_soil_composition]
+- 1842: Justus von Liebig *Animal Chemistry* ile biyolojik dokuların element analizinin temelini attı
+- 1945: Mitchell ve ark. ilk kapsamlı insan kadavra kimyasal analizini gerçekleştirdi — 11 temel elementin vücut ağırlığının %99'unu oluşturduğunu gösterdi [^mitchell_1945]
+- Modern kimya: İnsan vücudunun element kompozisyonu tamamen çözüldü [^human_soil_composition]
 - Temel bulgular:
   - İnsanda bulunan tüm elementler (oksijen, karbon, hidrojen, azot, kalsiyum, fosfor, kükürt, sodyum, potasyum, klor, magnezyum, demir, çinko vb.) yer kabuğunda/toprakta bulunuyor
   - İnsanda olan ama toprakta olmayan hiçbir element yok
@@ -1081,7 +1088,7 @@ Bu bölümde, yaygın olarak bilinen bazı "bilimsel mucize" iddialarını neden
 
 - **Paralel gelişim:** Modern embriyoloji, kemik ve kas dokusunun aynı kaynaktan (mezoderm) köken aldığını ve büyük ölçüde **paralel** geliştiğini gösteriyor.[^unsw_embryology] Sclerotom (kemik öncüsü) ve dermomyotom (kas öncüsü) neredeyse eş zamanlı ayrışır (sadece ~14 saat fark).[^kenhub_musculoskeletal]
 
-- **Ossifikasyon zamanlaması:** Gerçek kemikleşme (ossifikasyon) **12. haftada** başlar - kas dokusunun gelişiminden **çok sonra**.[^ncbi_embryology] "Kemik önce" iddiası, kıkırdak modeli ile gerçek kemik arasındaki farkı göz ardı ediyor.
+- **Ossifikasyon zamanlaması:** Kemik ossifikasyonu **6-7. haftalarda** başlar — kas gelişimiyle neredeyse eş zamanlı.[^ncbi_embryology] "Kemik önce" iddiası, kıkırdak modeli ile gerçek kemik arasındaki farkı göz ardı ediyor.
 
 - **Galen benzerliği:** Galen'in 4 aşamalı embriyoloji modeli (M.S. 2. yy) Kur'an'ın aşamalarıyla yapısal benzerlik gösteriyor. Bu, dönemin tıbbi bilgisinden etkilenme olasılığını gündeme getiriyor.
 
@@ -1112,7 +1119,7 @@ Kehf suresi, Zülkarneyn'in üç yolculuğunu anlatır. Batıya yaptığı yolcu
 
 Bu ayetin fenomenolojik (gözlemsel) dil kullandığı öne sürülebilir. Aşağıda bu yorumun dilbilimsel ve metinsel temelleri incelenecektir.
 
-#### 1. Dilbilimsel Analiz: "وجد" Fiilinin Anlamı
+##### 1. Dilbilimsel Analiz: "وجد" Fiilinin Anlamı
 
 **"وَجَدَهَا تَغْرُبُ"** (wajadaha taghrubu) - "onu batıyor buldu/gördü"
 
@@ -1125,7 +1132,7 @@ Bu ayetin fenomenolojik (gözlemsel) dil kullandığı öne sürülebilir. Aşa�
 
 Dilin yapısı, bir gözlemcinin **perspektifinden** betimleme yapmaya uygundur. Tıpkı "güneş batıyor" ifadesinin günümüzde bile gözlemsel dil olarak kullanılması gibi, ayet de ufukta görünen sahneyi tasvir ediyor olabilir.
 
-#### 2. İç-Metinsel Tutarlılık: Kehf 18:90 ile Paralellik
+##### 2. İç-Metinsel Tutarlılık: Kehf 18:90 ile Paralellik
 
 Zülkarneyn'in **doğuya** yaptığı ikinci yolculuk aynı dilsel yapıyı kullanır:
 
@@ -1144,7 +1151,7 @@ Zülkarneyn'in **doğuya** yaptığı ikinci yolculuk aynı dilsel yapıyı kull
 
 **Sonuç:** Aynı hikayede, paralel yapıdaki iki ifadeden birini fenomenolojik, diğerini literal okumak iç tutarsızlık yaratır. Metinsel bütünlük fenomenolojik yorumu destekler.
 
-#### 3. Tarihsel Yorumlar Hakkında Not
+##### 3. Tarihsel Yorumlar Hakkında Not
 
 **Eleştiri:** Erken dönem tefsirciler (Taberi, İbn Abbas vd.) bu ayeti daha literal anlamıştır. Fenomenolojik yorumlar ancak İslami astronomi gelişip Ptolemaios kozmolojisi öğrenildikten sonra yaygınlaşmıştır (İbn Cevzi, Fahreddin Razi gibi 12-13. yüzyıl alimleri).
 
@@ -1643,7 +1650,7 @@ Parmenides'in Ay'ın ışığı açıklaması kısa sürede Anaxagoras ve Empedo
 
 **Önemli Sonuç:** MÖ 5. yüzyıldan itibaren, Yunan doğa filozofları ve astronomları arasında Ay'ın yansıtıcı olduğu görüşü **baskın bilimsel görüş** haline geldi. Yanılgı daha çok popüler dini inançlarda ve mitolojik düşüncede mevcuttu.
 
-#### Hint Bilimi
+##### Hint Bilimi
 
 **Aryabhata (MS 476-550):**
 
@@ -1658,7 +1665,7 @@ Beşinci yüzyılda devrim niteliğinde bir bilimsel anlayışa sahipti:
 
 Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı ve geliştirdi.
 
-#### Popüler Halk İnancı ve Mitoloji
+##### Popüler Halk İnancı ve Mitoloji
 
 **Mezopotamya:**
 - Ay tanrısı **Sin** (veya Nanna), kendi ışığıyla parlayan bir tanrı olarak tapınılırdı
@@ -1679,7 +1686,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 
 #### 2. 7. Yüzyıl Öncesi Bilgi Transferi Araştırması
 
-#### Hindistan-Arabistan Bilgi Transferi
+##### Hindistan-Arabistan Bilgi Transferi
 
 **Coğrafi Bağlantı:**
 - **Arap Denizi** Hindistan ile Arap Yarımadası arasında uzanır (3,862,000 km²)
@@ -1703,7 +1710,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 
 **Sonuç:** 7. yüzyıldan **ÖNCE** Arap Yarımadası'nda Hint bilimsel metinlerine sistematik erişim kanıtı yoktur.
 
-#### Yunanistan-Arabistan Bilgi Transferi
+##### Yunanistan-Arabistan Bilgi Transferi
 
 **Politik ve Kültürel Bağlantılar:**
 
@@ -1740,7 +1747,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 - **Abbasi Dönemi (MS 750'den itibaren):** Yunanca'dan Arapça'ya çeviri hareketi ciddiyetle başladı
 - **8. yüzyılın ortasından 10. yüzyılın sonuna kadar:** Neredeyse tüm laik Yunan kitapları Arapça'ya çevrildi
 
-#### 7. Yüzyıl Arap Yarımadası'nda Bilgi Durumu
+##### 7. Yüzyıl Arap Yarımadası'nda Bilgi Durumu
 
 **Okuryazarlık ve Yazı:**
 - Yazı Araplar arasında biliniyordu ancak küçük bir rol oynuyordu
@@ -1758,7 +1765,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 
 #### 3. Linguistik Analiz: Siraj, Diya ve Nur Terimleri
 
-#### Güneş İçin Kullanılan Terimler
+##### Güneş İçin Kullanılan Terimler
 
 **Diya (ضياء):**
 - Güçlü ve net ışık
@@ -1770,7 +1777,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 - Işığı kendi içinden üretir, başka yerden ödünç almaz
 - Kur'an'da Güneş için "siraj wahhaj" (parlayan/alev alev yanan lamba) ifadesi kullanılır
 
-#### Ay İçin Kullanılan Terimler
+##### Ay İçin Kullanılan Terimler
 
 **Nur (نور):**
 - Genel ışık kavramı - güçlü veya zayıf, her türlü ışık
@@ -1781,7 +1788,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 - Aydınlatan, parlayan, ışık veren
 - Doğru çevirisi "illuminating" veya "light-giving"
 
-#### Alimler Arası Tartışma
+##### Alimler Arası Tartışma
 
 **Görüş 1: Terimler Arasında Fark Var**
 - Diya/siraj = kendi ışığını üreten kaynak
@@ -1795,7 +1802,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 
 **Kritik Nokta:** Linguistik olarak kesin bir ayrım tartışmalı olsa da, Kur'an'ın **sistematik olarak** Güneş için "siraj/diya" ve Ay için "nur/munir" terimlerini kullanması dikkat çekici bir pattern gösteriyor.
 
-#### Kur'an'da Sistematik Kullanım
+##### Kur'an'da Sistematik Kullanım
 
 **Güneş için (6 farklı yerde):**
 1. Yunus 10:5 - "diya"
@@ -1818,7 +1825,7 @@ Brahmasphutasiddhanta adlı eserinde Aryabhata'nın görüşlerini tekrarladı v
 
 **İstatistik:** %100 tutarlılık - 11 farklı kullanımın hepsinde ayrım korunmuş.
 
-#### Klasik Alimlerin Yorumları
+##### Klasik Alimlerin Yorumları
 
 **Al-Razi ve Diğer Müfessirler:**
 - Klasik alimler bu ayrımı **yüzyıllar önce** fark etmiş
@@ -1860,7 +1867,7 @@ Albedo, bir yüzeyin üzerine düşen toplam ışınımın ne kadarını yansıt
 
 #### 6. Genel Değerlendirme
 
-#### Senaryo 2 Analizi
+##### Senaryo 2 Analizi
 
 Bu madde **Senaryo 2'ye** mükemmel bir örnektir: Bilgi mevcut kaynaklarda var, ancak karışık bir havuz içinde.
 
@@ -1877,7 +1884,7 @@ Bu madde **Senaryo 2'ye** mükemmel bir örnektir: Bilgi mevcut kaynaklarda var,
 - Bilimsel doğru seçilmiş ✓
 - %100 sistematik terminoloji (11/11 kullanım tutarlı)
 
-#### Tesadüfle Açıklanamayan Örüntü
+##### Tesadüfle Açıklanamayan Örüntü
 
 **Üç Bağımsız Faktör:**
 1. **Doğru bilgiyi seçme:** Mitolojik anlayış yerine bilimsel görüş
@@ -1886,7 +1893,7 @@ Bu madde **Senaryo 2'ye** mükemmel bir örnektir: Bilgi mevcut kaynaklarda var,
 
 **Her biri tek başına tesadüf olabilir, ancak üçünün birleşimi tesadüfle açıklanamaz.**
 
-#### Aktif Seçicilik
+##### Aktif Seçicilik
 
 Kur'an, çağının bilgi havuzundan **aktif bir seçicilik** gösterir:
 - Sadece doğru bilgi vermekle kalmaz
@@ -2126,6 +2133,127 @@ Bu alternatife karşı argümanlar:
 
 ---
 
+## Kaynakça
+
+### Antik Kaynaklar
+
+- Aristotle. *Generation of Animals*.
+- Aristotle. *History of Animals*, Book II.
+- Aristotle. *Metaphysics*, 983b 18-27 (Thales'in su teorisi).
+- Aristotle. *On the Parts of Animals*, Book III.
+- Galen. *On the Natural Faculties*, Book I.
+- Galen. *On the Usefulness of the Parts of the Body*, Book XIV.
+- Galen. *On the Doctrines of Hippocrates and Plato*, Book VII.
+- Ptolemy. *Almagest* (MS 2. yüzyıl).
+
+### Kur'an Manuskriptleri ve Koleksiyonları
+
+- Birmingham Üniversitesi, Cadbury Research Library. Birmingham Kur'an Folios (568-645 CE). Erişim: https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/
+- Internet Archive. Topkapı Kur'an'ı Dijital Koleksiyonu. Erişim: https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up
+- IRCICA (Research Centre for Islamic History, Art and Culture). Al-Mushaf al-Sharif attributed to Uthman bin Affan. Erişim: https://web.archive.org/web/20140105054714/http://www.ircica.org/al-mushaf-al-sharif-attributed-to-uthman-bin-affan/irc788.aspx
+- Oldest.org. "Oldest Qurans in the World." Erişim: https://www.oldest.org/religion/qurans/
+- Tübingen Üniversitesi. Tübingen Kur'an Manuskripti (649-675 CE). Erişim: https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165
+
+### Akademik Kaynaklar
+
+- Acierno, Louis J. (2016). "Discovery of the cardiovascular system: from Galen to William Harvey." *Journal of Cardiac Surgery*, 31(8):490-499. DOI: 10.1111/jocs.12815.
+- Acierno, Vincent (2019). "William Harvey and the Discovery of the Circulation of the Blood." *Circulation Research*, 124:1300-1302.
+- American Association for the Advancement of Science. "The circulatory system, from Galen to Harvey." Erişim: https://www.aaas.org/circulatory-system-galen-harvey
+- Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
+- Association of Gross Anatomists of America. "History of Anatomical Dissection."
+- Biology LibreTexts. "Spontaneous Generation." Erişim: https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation
+- Boscá, José-Maria et al. (2014). "Andreas Vesalius 500 years - A Renaissance that revolutionized cardiovascular knowledge." *PMC*.
+- Boylan, Michael (2007). "Galen." *Internet Encyclopedia of Philosophy*. Erişim: https://iep.utm.edu/galen/
+- Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge.
+- Ifrah, Georges (2000). *The Universal History of Numbers: From Prehistory to the Invention of the Computer*. John Wiley & Sons. (Ebced/Abjad sayı sistemleri)
+- Khalifa, Rashad (1981). *Quran: Visual Presentation of the Miracle*. Islamic Productions. (19 sayısı matematiksel analizi - tartışmalı)
+- MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
+- Moller, Violet (2019). *The Map of Knowledge: How Classical Ideas Were Lost and Found*. Pan Macmillan.
+- Ball, P. (2017). "Water is an active matrix of life for cell and molecular biology." *PNAS* 114(51): 13327-13335.
+- Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
+- Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
+- Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press.
+- ResearchGate. "Statistical Analysis of the Birmingham Quran Folios and Comparison with the Sanaa Manuscripts." Erişim: https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS
+- Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
+- Stanford University. "The History of the Female Reproductive System." History Course Materials.
+- Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
+
+### Bilimsel Keşif Tarihi Kaynakları
+
+- Adams, F.C. & Laughlin, G. (1997). "A Dying Universe: The Long-Term Fate and Evolution of Astrophysical Objects." *Reviews of Modern Physics* 69(2): 337-372. DOI: 10.1103/RevModPhys.69.337.
+- Airy, G.B. (1855). "On the Computation of the Effect of the Attraction of Mountain-Masses." *Philosophical Transactions of the Royal Society of London* 145: 101-104. DOI: 10.1098/rstl.1855.0003.
+- Butler, Charles (1609). *The Feminine Monarchie: or, a Treatise Concerning Bees, and the Due Ordering of Them*. Oxford: Joseph Barnes.
+- Beebe, W. (1934). *Half Mile Down*. New York: Harcourt, Brace and Company. (İlk derin deniz ışık gözlemleri)
+- Ekman, V. W. (1904). "On Dead Water." In: Nansen, F. (Ed.), *The Norwegian North Polar Expedition 1893-1896: Scientific Results*, Vol. V, No. XV. Christiania: Longmans, Green and Co.
+- Emsley, J. (2011). *Nature's Building Blocks: An A-Z Guide to the Elements* (Yeni baskı). Oxford University Press. ISBN: 978-0-19-960563-7.
+- Garrison, T. S. & Ellis, R. (2018). *Essentials of Oceanography*, 8th Edition. Boston: Cengage Learning. ISBN: 978-1-337-09864-9.
+- Goldschmidt, V.M. (1954). *Geochemistry*. Oxford University Press, 730 s. (Biyojen elementlerin litofil/kalkofil sınıflaması)
+- Hubble, E. P. (1929). "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae." *Proceedings of the National Academy of Sciences* 15(3): 168-173. DOI: 10.1073/pnas.15.3.168.
+- Janša, Anton (1771). *Abhandlung vom Schwärmen der Bienen*. Wien: Joseph Kurzböck.
+- Kerr, F.J. & Lynden-Bell, D. (1986). "Review of galactic constants." *Monthly Notices of the Royal Astronomical Society* 221(4): 1023-1038. DOI: 10.1093/mnras/221.4.1023.
+- Le Pichon, X. (1968). "Sea-Floor Spreading and Continental Drift." *Journal of Geophysical Research* 73(12): 3661-3697. DOI: 10.1029/JB073i012p03661.
+- Lemaître, G. (1931). "The Beginning of the World from the Point of View of Quantum Theory." *Nature* 127(3210): 706. DOI: 10.1038/127706b0.
+- Miller, S.L. (1953). "A Production of Amino Acids Under Possible Primitive Earth Conditions." *Science* 117(3046): 528-529. DOI: 10.1126/science.117.3046.528.
+- Mitchell, H.H., Hamilton, T.S., Steggerda, F.R. & Bean, H.W. (1945). "The chemical composition of the adult human body." *Journal of Biological Chemistry* 158(3): 625-637. DOI: 10.1016/S0021-9258(19)51339-4.
+- Oort, J.H. (1927). "Observational evidence confirming Lindblad's hypothesis of a rotation of the galactic system." *Bulletin of the Astronomical Institutes of the Netherlands* 3(120): 275-282.
+- Perlmutter, S. et al. (1999). "Measurements of Omega and Lambda from 42 High-Redshift Supernovae." *The Astrophysical Journal* 517(2): 565-586. DOI: 10.1086/307221.
+- Ryther, J.H. (1956). "Photosynthesis in the Ocean as a Function of Light Intensity." *Limnology and Oceanography* 1(1): 61-70. DOI: 10.4319/lo.1956.1.1.0061.
+- Riess, A. G. et al. (1998). "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *The Astronomical Journal* 116(3): 1009-1038. DOI: 10.1086/300499.
+- Secchi, A. (1865). "Relazione delle esperienze fatte a bordo della pontificia pirocorvetta Imacolata Concezione per determinare la trasparenza del mare." *Il Nuovo Cimento* 20: 205-238.
+- Shapley, H. (1918). "Studies based on the colors and magnitudes in stellar clusters. VII." *The Astrophysical Journal* 48: 154-181. DOI: 10.1086/142423.
+- Thomson, W. [Lord Kelvin] (1852). "On a Universal Tendency in Nature to the Dissipation of Mechanical Energy." *Philosophical Magazine* 4: 304-306.
+- Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere.* Cambridge University Press. ISBN: 978-0-521-00600-2.
+- Wegener, A. (1912). "Die Entstehung der Kontinente." *Geologische Rundschau* 3(4): 276-292. DOI: 10.1007/BF02202896.
+- Williams, D.R. "Moon Fact Sheet." NASA Goddard Space Flight Center, NSSDCA. Erişim: https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html.
+
+### Antik Bilgi Durumu Kaynakları
+
+- Clark, W.E. (trans.) (1930). *The Aryabhatiya of Aryabhata*. University of Chicago Press.
+- Graham, D.W. (trans. & comm.) (1999). *Aristotle: Physics, Book VIII*. Oxford: Clarendon Press. ISBN: 0-19-824092-9.
+- Graham, D.W. (2013). *Science before Socrates: Parmenides, Anaxagoras, and the New Astronomy*. Oxford University Press. ISBN: 9780199959785.
+- Grant, E. (1996). *Planets, Stars, and Orbs: The Medieval Cosmos, 1200-1687*. Cambridge University Press. ISBN: 0-521-56509-X.
+- Kanada. *Vaisheshika Sutra*. Çev. D. Chakravarty. New Delhi: D.K. Printworld, 2003. ISBN: 978-8124602294.
+- Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
+- Lloyd, G.E.R. (1970). *Early Greek Science: Thales to Aristotle*. New York: W.W. Norton. ISBN: 978-0393005837.
+- Oreskes, N. (1999). *The Rejection of Continental Drift*. Oxford University Press. ISBN: 978-0195117332.
+- Plofker, K. (2009). *Mathematics in India: 500 BCE–1800 CE*. Princeton University Press. ISBN: 978-0-691-12067-6.
+- Reeve, C.D.C. (trans.) (2020). *Aristotle: On the Heavens*. Indianapolis: Hackett Publishing.
+- Schlee, S. (1973). *The Edge of an Unfamiliar World: A History of Oceanography*. New York: Dutton. ISBN: 978-0525096733.
+- Vishnu Purana. Çev. H.H. Wilson, ed. F. Hall. London: Trubner and Co., 1877.
+- Williams, C.J.F. (trans.) (1982). *De Generatione et Corruptione*. Clarendon Aristotle Series. Oxford: Clarendon Press. ISBN: 978-0198720638.
+
+### Ansiklopedi ve Referans Kaynakları
+
+- "Abjad numerals." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Abjad_numerals
+- "Cardiovascular and pulmonary interactions: why Galen's misconceptions proved clinically useful for 1,300 years." *Advances in Physiology Education* (2020).
+- "Galen." *Britannica*. Erişim: https://www.britannica.com/biography/Galen
+- "Galen." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Galen
+- "Mathematical proof." *Britannica*. Erişim: https://www.britannica.com/science/mathematical-proof
+- "Spontaneous Generation." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Spontaneous_generation
+
+### Sözlük ve Dilbilim Kaynakları
+
+- İbn Manzur. *Lisânü'l-Arab* (لسان العرب), 15 cilt. Beyrut: Dâr Sâdır, 1955-1956. Arap dilinin en kapsamlı klasik sözlüğü (13. yüzyıl eseri).
+- Lane, E.W. (1863-1893). *An Arabic-English Lexicon*, 8 cilt. London: Williams and Norgate. Klasik Arapça'nın en kapsamlı Arapça-İngilizce sözlüğü; özellikle Kur'an ve klasik dönem Arapçası için temel başvuru kaynağı.
+- *el-Müfredât fî Garîbi'l-Kur'ân* (Ragıb el-İsfahani). Kur'an kelimelerinin etimolojik ve anlamsal analizi.
+- *Mu'cemü'l-Meânî*. Modern Arapça sözlük ve anlam rehberi.
+- Wehr, H. (1994). *A Dictionary of Modern Written Arabic (Arabic-English)*, 4. baskı, ed. J. Milton Cowan. Ithaca: Spoken Language Services. ISBN: 0-87950-003-4. Modern Yazılı Arapça için standart referans sözlük.
+- Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, rev. W. Robertson Smith & M.J. de Goeje, 2 cilt. Cambridge: Cambridge University Press. Klasik Arapça grameri için Batı'daki temel referans eser.
+- Hawramani Arabic Lexicon. https://arabiclexicon.hawramani.com/ — Birden fazla klasik sözlüğü derleyen dijital kaynak.
+
+### Jeoloji ve Bilimsel Referanslar
+
+- Airy, G.B. (1855). İzostazi teorisi. Bkz. Bilimsel Keşif Tarihi Kaynakları.
+- Le Pichon, X. (1968). Levha tektoniği. Bkz. Bilimsel Keşif Tarihi Kaynakları.
+- Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere*. Bkz. Bilimsel Keşif Tarihi Kaynakları.
+- Wegener, A. (1912). Kıtasal sürüklenme. Bkz. Bilimsel Keşif Tarihi Kaynakları.
+
+---
+
+**Not:** Tüm web kaynakları 2026 yılı Ocak ayı itibariyle erişilebilir durumdadır. Akademik makaleler için DOI numaraları verilmiştir.
+
+---
+
 ## Dipnotlar
 
 [^lisan_lujj]: İbn Manzur, *Lisân al-Arab*, kök: ل-ج-ج. لُجَّة: "مُعْظَمُ الماء" (suyun büyük kısmı), "الذي لا يُدرك قعره" (dibi bulunamayan). Ayrıca bkz. Lane's Lexicon: "Water whose extremities cannot be seen"; Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/لجج/
@@ -2148,7 +2276,7 @@ Bu alternatife karşı argümanlar:
 
 [^kenhub_musculoskeletal]: "Development of the Musculoskeletal System," Kenhub (https://www.kenhub.com/en/library/anatomy/development-of-musculoskeletal-system). Sclerotome disperses ~6 hours after somite formation, dermomyotome ~20 hours after.
 
-[^ncbi_embryology]: "Embryology, Weeks 6-8," NCBI StatPearls (https://www.ncbi.nlm.nih.gov/books/NBK563181/). Endochondral ossification begins around week 12, well after muscle tissue development.
+[^ncbi_embryology]: "Embryology, Bone Ossification," NCBI StatPearls (https://www.ncbi.nlm.nih.gov/books/NBK539718/). Kemik ossifikasyonu 6-7. haftalarda başlar; kas gelişimiyle neredeyse eş zamanlıdır.
 
 [^birmingham_images]: Birmingham Kur'an sayfalarının görselleri: University of Birmingham, Cadbury Research Library (https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/)
 
@@ -2212,9 +2340,15 @@ Bu alternatife karşı argümanlar:
 
 [^ekman_1904]: Ekman, V. W. (1904). "On Dead Water." In: Nansen, F. (Ed.), *The Norwegian North Polar Expedition 1893-1896: Scientific Results*, Vol. V, No. XV. Christiania: Longmans, Green and Co. Fridtjof Nansen'in Fram gemisiyle kutup seferinde gözlemlediği "ölü su" (dead water) fenomenini açıklayan çalışma; farklı yoğunluktaki su katmanları arasında oluşan iç dalgaların ilk teorik ve deneysel analizi.
 
+[^secchi_1865]: Secchi, A. (1865). "Relazione delle esperienze fatte a bordo della pontificia pirocorvetta Imacolata Concezione per determinare la trasparenza del mare." *Il Nuovo Cimento* 20: 205-238. Angelo Secchi'nin 20 Nisan 1865'te Akdeniz'de Papalık korvetinde ilk standart su şeffaflık ölçümünü gerçekleştirdiği makale. Secchi diski, okyanoğrafide ışık penetrasyonunu ölçen ilk standart araçtır. Bkz. ayrıca Wernand, M.R. (2010). "On the history of the Secchi disc." *Journal of the European Optical Society* 5: 10013s.
+
+[^beebe_1934]: Beebe, W. (1934). *Half Mile Down*. New York: Harcourt, Brace and Company. William Beebe ve Otis Barton, 1930-1934 yıllarında Bermuda açıklarında Bathysphere ile 35 dalış gerçekleştirdi. 15 Ağustos 1934'te 923m'ye ulaştı — o dönem dünya rekoru. Beebe, ~518m'de (1700 ft) yüzey ışığının tamamen kaybolduğunu rapor etti: "I could detect not the faintest glimmer of light." İnsanların okyanus karanlık katmanlarını doğrudan gözlemlemesi ilk kez bu dalışlarla gerçekleşmiştir.
+
+[^ryther_1956]: Ryther, J.H. (1956). "Photosynthesis in the Ocean as a Function of Light Intensity." *Limnology and Oceanography* 1(1): 61-70. DOI: 10.4319/lo.1956.1.1.0061. Fotik bölgeyi (euphotic zone) "yüzey ışığının %1'ine düştüğü derinlik" olarak tanımlayan ve bu sınırı açık okyanuslarda ~200m olarak belirleyen temel makale.
+
 [^garrison_oceanography]: Garrison, T. S. & Ellis, R. (2018). *Essentials of Oceanography*, 8th Edition. Boston: Cengage Learning. ISBN: 978-1-337-09864-9. Standart okyanoğrafi referansı: fotik bölge (ışık nüfuz eden üst 200m), mezopelajik bölge (200-1000m, alacakaranlık), afotik bölge (1000m altında, tam karanlık).
 
-[^butler_1609]: Butler, Charles (1609). *The Feminine Monarchie: or, a Treatise Concerning Bees, and the Due Ordering of Them*. Oxford: Joseph Barnes. İngilizce'deki ilk kapsamlı arıcılık kitabı; arı koloni liderinin "kral" değil "kraliçe" olduğunu savunan ilk İngilizce eser. Bu gözlemi ilk yapan kişi İspanyol entomolog Luis Mendez de Torres'tir (1586). Anatomik kanıt ise Jan Swammerdam'ın mikroskopik diseksiyonlarıyla sağlanmıştır (1660'lar, ölümünden sonra 1737-38'de yayınlandı).
+[^butler_1609]: Butler, Charles (1609). *The Feminine Monarchie: or, a Treatise Concerning Bees, and the Due Ordering of Them*. Oxford: Joseph Barnes. İngilizce'deki ilk kapsamlı arıcılık kitabı; arı koloni liderinin "kral" değil "kraliçe" olduğunu savunan ilk İngilizce eser. Bu gözlemi basılı olarak ilk yapan kişi İspanyol arıcılık yazarı Luis Mendez de Torres'tir (1586). Anatomik kanıt ise Jan Swammerdam'ın mikroskopik diseksiyonlarıyla sağlanmıştır (1660'lar, ölümünden sonra 1737-38'de yayınlandı).
 
 [^jansa_1771]: Janša, Anton (1771). *Abhandlung vom Schwärmen der Bienen* [Arıların Oğul Vermesi Üzerine İnceleme]. Wien (Viyana): Joseph Kurzböck. Kraliçe arının havada erkek arılar (drone) tarafından döllendiği keşfini içeren çalışma. İkinci eseri *Vollständige Lehre von der Bienenzucht* (1775, ölümünden sonra yayınlandı) modern arıcılığın temel metinlerinden biridir.
 
@@ -2228,7 +2362,9 @@ Bu alternatife karşı argümanlar:
 
 [^miller_urey]: Miller, S.L. (1953). "A Production of Amino Acids Under Possible Primitive Earth Conditions." *Science* 117(3046): 528-529. DOI: 10.1126/science.117.3046.528. İlkel Dünya atmosferini simüle eden deneyde amino asitlerin sulu çözeltide kendiliğinden oluştuğunu gösteren çığır açıcı çalışma.
 
-[^human_soil_composition]: Emsley, J. (2011). *Nature's Building Blocks: An A-Z Guide to the Elements* (Yeni baskı). Oxford University Press, 710 s. ISBN: 978-0-19-960563-7. İnsan vücudundaki ~30 elementin (O, C, H, N, Ca, P, K, S, Na, Cl, Mg vb.) tamamının yerkabuğunda doğal olarak bulunan elementlerden oluştuğunu gösteren kapsamlı element ansiklopedisi.
+[^mitchell_1945]: Mitchell, H.H., Hamilton, T.S., Steggerda, F.R. & Bean, H.W. (1945). "The chemical composition of the adult human body and its bearing on the biochemistry of growth." *Journal of Biological Chemistry* 158(3): 625-637. DOI: 10.1016/S0021-9258(19)51339-4. Yetişkin insan kadavralarının ilk kapsamlı kimyasal analizi. 11 temel elementin (N, C, Ca, Na, Cl, K, H, P, O, S, Mg) vücut ağırlığının ≥%99'unu oluşturduğunu gösterdi. Ayrıca bkz. Widdowson, E.M., McCance, R.A. & Spray, C.M. (1951). "The chemical composition of the human body." *Clinical Science* 10(1): 113-125.
+
+[^human_soil_composition]: Emsley, J. (2011). *Nature's Building Blocks: An A-Z Guide to the Elements* (Yeni baskı). Oxford University Press, 710 s. ISBN: 978-0-19-960563-7. İnsan vücudundaki ~30 elementin (O, C, H, N, Ca, P, K, S, Na, Cl, Mg vb.) tamamının yerkabuğunda doğal olarak bulunan elementlerden oluştuğunu gösteren kapsamlı element ansiklopedisi. Biyojen elementlerin tamamının aynı zamanda yerkabuğunda litofil/kalkofil element olarak bulunduğu Goldschmidt sınıflaması ile kanıtlanmıştır: Goldschmidt, V.M. (1954). *Geochemistry*. Oxford University Press, 730 s.
 
 [^kelvin_dissipation]: Thomson, W. [Lord Kelvin] (1852). "On a Universal Tendency in Nature to the Dissipation of Mechanical Energy." *Proceedings of the Royal Society of Edinburgh* 3: 139-142; ayrıca *Philosophical Magazine* 4: 304-306. Enerjinin kaçınılmaz dağılımını formüle ederek evrenin ısı ölümü kavramının temelini atan makale.
 
@@ -2244,7 +2380,7 @@ Bu alternatife karşı argümanlar:
 
 [^nasa_moon_albedo]: Williams, D.R. "Moon Fact Sheet." NASA Goddard Space Flight Center, NSSDCA (https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html). Ay'ın geometrik albedosu 0.12; Bond albedosu 0.11. Ay üzerine düşen güneş ışığının yalnızca %12'sini yansıtır, kendi ışık kaynağı yoktur.
 
-[^aristotle_de_caelo]: Aristotle, *De Caelo* (On the Heavens), Book I, chapters 2-4, 12. Aristoteles, göklerin yaratılmamış, yıkılmaz ve ezeli olduğunu savunur. Modern çeviri: C.D.C. Reeve, *Aristotle: On the Heavens* (Indianapolis: Hackett Publishing, 2020). Bu görüşün ortaçağ kozmolojisindeki hakimiyeti için bkz. Grant, E. (1996). *Planets, Stars, and Orbs: The Medieval Cosmos, 1200-1687*. Cambridge University Press. ISBN: 0-521-56509-X.
+[^aristotle_de_caelo]: Aristotle, *De Caelo* (On the Heavens), Book I, chapters 2-4 (ether ve dairesel hareket) ve 10-12 (göklerin yaratılmamış, yıkılmaz ve ezeli olduğu kanıtı). Modern çeviri: C.D.C. Reeve, *Aristotle: On the Heavens* (Indianapolis: Hackett Publishing, 2020). Bu görüşün ortaçağ kozmolojisindeki hakimiyeti için bkz. Grant, E. (1996). *Planets, Stars, and Orbs: The Medieval Cosmos, 1200-1687*. Cambridge University Press. ISBN: 0-521-56509-X.
 
 [^ancient_diving_limits]: Antik dönemde serbest dalış maksimum ~30 metre derinliğe ulaşabiliyordu (skandalopetra ağırlığıyla). Derin okyanus ilk kez HMS Challenger Seferi (1872-1876) ile sistematik olarak araştırıldı. Bkz. Schlee, S. (1973). *The Edge of an Unfamiliar World: A History of Oceanography*. New York: Dutton. ISBN: 978-0525096733.
 
@@ -2262,7 +2398,7 @@ Bu alternatife karşı argümanlar:
 
 [^hindu_kalpa]: Hindu kozmolojisinde kalpa kavramı: Bir kalpa = Brahma'nın bir günü = 4.32 milyar yıl; her kalpa sonunda pralaya (kozmik çözülme) yaşanır ve evren yeniden yaratılır. Kaynak: *Vishnu Purana*, çev. H.H. Wilson, ed. Fitzedward Hall (London: Trubner and Co., 1877). Budist kappa kavramı için bkz. Vasubandhu, *Abhidharmakośabhāṣyam*, çev. L.M. Pruden (Berkeley: Asian Humanities Press, 1990), Bölüm III. ISBN: 978-0-89581-913-0.
 
-[^greek_indestructible_matter]: Parmenides: "Yokluktan hiçbir şey oluşamaz." Empedocles (DK 31 B12): Dört element ezeli ve yok edilemezdir. Bkz. Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
+[^greek_indestructible_matter]: Parmenides: "Yokluktan hiçbir şey oluşamaz." Empedocles (DK 31 B12): Yokluktan var oluşun imkansızlığı ilkesi; (DK 31 B17): Dört element (kök/rizomata) ezeli ve yok edilemezdir — "Eğer tamamen yok olsalardı, artık var olamazlardı." Bkz. Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
 
 [^ancient_moon_myths]: Antik Mezopotamya'da Ay tanrısı Sin/Nanna "geceye ışık getiren" olarak tapılırdı (bkz. ORACC, University of Pennsylvania Museum). Mısır'da Khonsu "gecenin ışığının tanrısı" idi. Yunan mitolojisinde Selene'nin adı "selas" (parlaklık) kökünden gelir ve "ölümsüz başından göğe ışık saçar" şeklinde tasvir edilir. Bkz. "Selene," *Theoi Greek Mythology* (theoi.com).
 
@@ -2285,119 +2421,3 @@ Bu alternatife karşı argümanlar:
 [^lane_rsw]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. Kök: ر-س-و (R-S-W). "رَسَا" (rasā) = "sabit oldu, durdu; (gemi) demir attı." "رَاسٍ" / "رَاسِيَة" (rāsī/rāsiya) = ism-i fāʿil: "sabit duran, demir atmış." "رَوَاسِي" (rawāsī) = çoğul: "sabitleyen/sabitlenmiş olanlar" — dağlar için kullanıldığında "yer kabuğunu sabitleyen" anlamına gelir. "مِرْسَاة" (mirsāt) = ism-i âlet: "çapa, demir" — aynı kökten türemiş olup dağların çapa işlevi görmesi metaforunu destekler. Bkz. Lane, Cilt 3, s. 1080-1081.
 
 [^lane_diya_nur]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. "ضَوْء" / "ضِيَاء" (ḍawʾ/ḍiyāʾ): Lane, bazı otoritelere atıfla "الضَّوْءُ signifies that [light] which subsists by itself... and النُّورُ, to that which subsists by some other thing" (ḍawʾ kendi başına var olan ışık, nūr başka bir şey aracılığıyla var olan ışık) ayrımını aktarır (Cilt 5, s. 1814). Ancak Lane aynı maddede bu ayrımın **tartışmalı** olduğunu ve birçok leksikologun iki terimi eş anlamlı (müteradif) saydığını belirtir. Bkz. ayrıca Wehr, H. (1994). *A Dictionary of Modern Written Arabic*, 4. baskı. "ضوء" (ḍawʾ) = light, brightness; "نور" (nūr) = light, luminosity.
-
----
-
-## Kaynakça
-
-### Antik Kaynaklar
-
-- Aristotle. *Generation of Animals*.
-- Aristotle. *History of Animals*, Book II.
-- Aristotle. *Metaphysics*, 983b 18-27 (Thales'in su teorisi).
-- Aristotle. *On the Parts of Animals*, Book III.
-- Galen. *On the Natural Faculties*, Book I.
-- Galen. *On the Usefulness of the Parts of the Body*, Book XIV.
-- Galen. *On the Doctrines of Hippocrates and Plato*, Book VII.
-- Ptolemy. *Almagest* (MS 2. yüzyıl).
-
-### Kur'an Manuskriptleri ve Koleksiyonları
-
-- Birmingham Üniversitesi, Cadbury Research Library. Birmingham Kur'an Folios (568-645 CE). Erişim: https://www.flickr.com/photos/cadburyresearchlibrary/albums/72157655161018888/
-- Internet Archive. Topkapı Kur'an'ı Dijital Koleksiyonu. Erişim: https://archive.org/details/04TheQuranManuscriptInCompressedFiles/mode/2up
-- IRCICA (Research Centre for Islamic History, Art and Culture). Al-Mushaf al-Sharif attributed to Uthman bin Affan. Erişim: https://web.archive.org/web/20140105054714/http://www.ircica.org/al-mushaf-al-sharif-attributed-to-uthman-bin-affan/irc788.aspx
-- Oldest.org. "Oldest Qurans in the World." Erişim: https://www.oldest.org/religion/qurans/
-- Tübingen Üniversitesi. Tübingen Kur'an Manuskripti (649-675 CE). Erişim: https://opendigi.ub.uni-tuebingen.de/opendigi/MaVI165
-
-### Akademik Kaynaklar
-
-- Acierno, Louis J. (2016). "Discovery of the cardiovascular system: from Galen to William Harvey." *Journal of Cardiac Surgery*, 31(8):490-499. DOI: 10.1111/jocs.12815.
-- Acierno, Vincent (2019). "William Harvey and the Discovery of the Circulation of the Blood." *Circulation Research*, 124:1300-1302.
-- American Association for the Advancement of Science. "The circulatory system, from Galen to Harvey." Erişim: https://www.aaas.org/circulatory-system-galen-harvey
-- Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
-- Association of Gross Anatomists of America. "History of Anatomical Dissection."
-- Biology LibreTexts. "Spontaneous Generation." Erişim: https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation
-- Boscá, José-Maria et al. (2014). "Andreas Vesalius 500 years - A Renaissance that revolutionized cardiovascular knowledge." *PMC*.
-- Boylan, Michael (2007). "Galen." *Internet Encyclopedia of Philosophy*. Erişim: https://iep.utm.edu/galen/
-- Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge.
-- Ifrah, Georges (2000). *The Universal History of Numbers: From Prehistory to the Invention of the Computer*. John Wiley & Sons. (Ebced/Abjad sayı sistemleri)
-- Khalifa, Rashad (1981). *Quran: Visual Presentation of the Miracle*. Islamic Productions. (19 sayısı matematiksel analizi - tartışmalı)
-- MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
-- Moller, Violet (2019). *The Map of Knowledge: How Classical Ideas Were Lost and Found*. Pan Macmillan.
-- Ball, P. (2017). "Water is an active matrix of life for cell and molecular biology." *PNAS* 114(51): 13327-13335.
-- Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
-- Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
-- Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press.
-- ResearchGate. "Statistical Analysis of the Birmingham Quran Folios and Comparison with the Sanaa Manuscripts." Erişim: https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS
-- Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
-- Stanford University. "The History of the Female Reproductive System." History Course Materials.
-- Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
-
-### Bilimsel Keşif Tarihi Kaynakları
-
-- Adams, F.C. & Laughlin, G. (1997). "A Dying Universe: The Long-Term Fate and Evolution of Astrophysical Objects." *Reviews of Modern Physics* 69(2): 337-372. DOI: 10.1103/RevModPhys.69.337.
-- Airy, G.B. (1855). "On the Computation of the Effect of the Attraction of Mountain-Masses." *Philosophical Transactions of the Royal Society of London* 145: 101-104. DOI: 10.1098/rstl.1855.0003.
-- Butler, Charles (1609). *The Feminine Monarchie: or, a Treatise Concerning Bees, and the Due Ordering of Them*. Oxford: Joseph Barnes.
-- Ekman, V. W. (1904). "On Dead Water." In: Nansen, F. (Ed.), *The Norwegian North Polar Expedition 1893-1896: Scientific Results*, Vol. V, No. XV. Christiania: Longmans, Green and Co.
-- Emsley, J. (2011). *Nature's Building Blocks: An A-Z Guide to the Elements* (Yeni baskı). Oxford University Press. ISBN: 978-0-19-960563-7.
-- Garrison, T. S. & Ellis, R. (2018). *Essentials of Oceanography*, 8th Edition. Boston: Cengage Learning. ISBN: 978-1-337-09864-9.
-- Hubble, E. P. (1929). "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae." *Proceedings of the National Academy of Sciences* 15(3): 168-173. DOI: 10.1073/pnas.15.3.168.
-- Janša, Anton (1771). *Abhandlung vom Schwärmen der Bienen*. Wien: Joseph Kurzböck.
-- Kerr, F.J. & Lynden-Bell, D. (1986). "Review of galactic constants." *Monthly Notices of the Royal Astronomical Society* 221(4): 1023-1038. DOI: 10.1093/mnras/221.4.1023.
-- Le Pichon, X. (1968). "Sea-Floor Spreading and Continental Drift." *Journal of Geophysical Research* 73(12): 3661-3697. DOI: 10.1029/JB073i012p03661.
-- Lemaître, G. (1931). "The Beginning of the World from the Point of View of Quantum Theory." *Nature* 127(3210): 706. DOI: 10.1038/127706b0.
-- Miller, S.L. (1953). "A Production of Amino Acids Under Possible Primitive Earth Conditions." *Science* 117(3046): 528-529. DOI: 10.1126/science.117.3046.528.
-- Oort, J.H. (1927). "Observational evidence confirming Lindblad's hypothesis of a rotation of the galactic system." *Bulletin of the Astronomical Institutes of the Netherlands* 3(120): 275-282.
-- Perlmutter, S. et al. (1999). "Measurements of Omega and Lambda from 42 High-Redshift Supernovae." *The Astrophysical Journal* 517(2): 565-586. DOI: 10.1086/307221.
-- Riess, A. G. et al. (1998). "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *The Astronomical Journal* 116(3): 1009-1038. DOI: 10.1086/300499.
-- Shapley, H. (1918). "Studies based on the colors and magnitudes in stellar clusters. VII." *The Astrophysical Journal* 48: 154-181. DOI: 10.1086/142423.
-- Thomson, W. [Lord Kelvin] (1852). "On a Universal Tendency in Nature to the Dissipation of Mechanical Energy." *Philosophical Magazine* 4: 304-306.
-- Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere.* Cambridge University Press. ISBN: 978-0-521-00600-2.
-- Wegener, A. (1912). "Die Entstehung der Kontinente." *Geologische Rundschau* 3(4): 276-292. DOI: 10.1007/BF02202896.
-- Williams, D.R. "Moon Fact Sheet." NASA Goddard Space Flight Center, NSSDCA. Erişim: https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html.
-
-### Antik Bilgi Durumu Kaynakları
-
-- Clark, W.E. (trans.) (1930). *The Aryabhatiya of Aryabhata*. University of Chicago Press.
-- Graham, D.W. (trans. & comm.) (1999). *Aristotle: Physics, Book VIII*. Oxford: Clarendon Press. ISBN: 0-19-824092-9.
-- Graham, D.W. (2013). *Science before Socrates: Parmenides, Anaxagoras, and the New Astronomy*. Oxford University Press. ISBN: 9780199959785.
-- Grant, E. (1996). *Planets, Stars, and Orbs: The Medieval Cosmos, 1200-1687*. Cambridge University Press. ISBN: 0-521-56509-X.
-- Kanada. *Vaisheshika Sutra*. Çev. D. Chakravarty. New Delhi: D.K. Printworld, 2003. ISBN: 978-8124602294.
-- Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
-- Lloyd, G.E.R. (1970). *Early Greek Science: Thales to Aristotle*. New York: W.W. Norton. ISBN: 978-0393005837.
-- Oreskes, N. (1999). *The Rejection of Continental Drift*. Oxford University Press. ISBN: 978-0195117332.
-- Plofker, K. (2009). *Mathematics in India: 500 BCE–1800 CE*. Princeton University Press. ISBN: 978-0-691-12067-6.
-- Reeve, C.D.C. (trans.) (2020). *Aristotle: On the Heavens*. Indianapolis: Hackett Publishing.
-- Schlee, S. (1973). *The Edge of an Unfamiliar World: A History of Oceanography*. New York: Dutton. ISBN: 978-0525096733.
-- Vishnu Purana. Çev. H.H. Wilson, ed. F. Hall. London: Trubner and Co., 1877.
-- Williams, C.J.F. (trans.) (1982). *De Generatione et Corruptione*. Clarendon Aristotle Series. Oxford: Clarendon Press. ISBN: 978-0198720638.
-
-### Ansiklopedi ve Referans Kaynakları
-
-- "Abjad numerals." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Abjad_numerals
-- "Cardiovascular and pulmonary interactions: why Galen's misconceptions proved clinically useful for 1,300 years." *Advances in Physiology Education* (2020).
-- "Galen." *Britannica*. Erişim: https://www.britannica.com/biography/Galen
-- "Galen." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Galen
-- "Mathematical proof." *Britannica*. Erişim: https://www.britannica.com/science/mathematical-proof
-- "Spontaneous Generation." *Wikipedia*. Erişim: https://en.wikipedia.org/wiki/Spontaneous_generation
-
-### Sözlük ve Dilbilim Kaynakları
-
-- İbn Manzur. *Lisânü'l-Arab* (لسان العرب), 15 cilt. Beyrut: Dâr Sâdır, 1955-1956. Arap dilinin en kapsamlı klasik sözlüğü (13. yüzyıl eseri).
-- Lane, E.W. (1863-1893). *An Arabic-English Lexicon*, 8 cilt. London: Williams and Norgate. Klasik Arapça'nın en kapsamlı Arapça-İngilizce sözlüğü; özellikle Kur'an ve klasik dönem Arapçası için temel başvuru kaynağı.
-- *el-Müfredât fî Garîbi'l-Kur'ân* (Ragıb el-İsfahani). Kur'an kelimelerinin etimolojik ve anlamsal analizi.
-- *Mu'cemü'l-Meânî*. Modern Arapça sözlük ve anlam rehberi.
-- Wehr, H. (1994). *A Dictionary of Modern Written Arabic (Arabic-English)*, 4. baskı, ed. J. Milton Cowan. Ithaca: Spoken Language Services. ISBN: 0-87950-003-4. Modern Yazılı Arapça için standart referans sözlük.
-- Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, rev. W. Robertson Smith & M.J. de Goeje, 2 cilt. Cambridge: Cambridge University Press. Klasik Arapça grameri için Batı'daki temel referans eser.
-- Hawramani Arabic Lexicon. https://arabiclexicon.hawramani.com/ — Birden fazla klasik sözlüğü derleyen dijital kaynak.
-
-### Jeoloji ve Bilimsel Referanslar
-
-- Airy, G.B. (1855). İzostazi teorisi. Bkz. Bilimsel Keşif Tarihi Kaynakları.
-- Le Pichon, X. (1968). Levha tektoniği. Bkz. Bilimsel Keşif Tarihi Kaynakları.
-- Watts, A.B. (2001). *Isostasy and Flexure of the Lithosphere*. Bkz. Bilimsel Keşif Tarihi Kaynakları.
-- Wegener, A. (1912). Kıtasal sürüklenme. Bkz. Bilimsel Keşif Tarihi Kaynakları.
-
----
-
-**Not:** Tüm web kaynakları 2026 yılı Ocak ayı itibariyle erişilebilir durumdadır. Akademik makaleler için DOI numaraları verilmiştir.

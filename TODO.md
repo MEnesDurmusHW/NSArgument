@@ -4,12 +4,12 @@
 
 | # | Görev | Önem | Efor |
 |---|-------|:----:|:----:|
-| 1 | [Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-11-örnek) | 5 | 5 |
+| 1 | ~~[Bilimsel Kaynaklar](#bilimsel-örneklere-kaynaklar-ekle-11-örnek)~~ ✅ | 5 | 5 |
 | 2 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
 | 3 | [19 Sayısı Numerolojisi](#19-sayısı-numerolojisi-tartışmalarını-ele-al-satır-678-764) | 4 | 5 |
 | 4 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
 | 5 | [Epistemik Mütevazılık](#epistemik-mütevazılık-sonuç-bölümüne-eklenecek) | 4 | 3 |
-| 6 | [Peer-reviewed Kaynaklar](#peer-reviewed-kaynaklar-ekleme) | 3 | 5 |
+| 6 | ~~[Peer-reviewed Kaynaklar](#peer-reviewed-kaynaklar-ekleme)~~ ✅ | 3 | 5 |
 | 8 | [Bilimsel İçerik Kategorilendirme](#bilimsel-i̇çerik-bölümü-kategorilendirme-tartışmalı) | 3 | 4 |
 | 9 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
 
@@ -39,24 +39,27 @@
 
 ## Bilimsel İçerik
 
-### Bilimsel örneklere kaynaklar ekle (11 örnek)
-**Eksik kaynaklar:**
-- Evrenin genişlemesi: Hubble 1929 keşfi
-- Derin deniz dalgaları: V.W. Ekman 1904
-- Güneş hareketi: Harlow Shapley 1918, Jan Oort 1927
-- Diğer örnekler için spesifik akademik makaleler
+### ~~Bilimsel örneklere kaynaklar ekle (11 örnek)~~ ✅ TAMAMLANDI
+**Durum:** Tüm 11 bilimsel örneğe peer-reviewed kaynaklar eklendi (Faz 1-2 kapsamında).
 
-### Peer-reviewed Kaynaklar Ekleme
-**Neden önemli:** Akademik güvenilirlik için her bilimsel iddiaya kaynak gerekli.
-**Yapılacaklar:**
-Her bilimsel örnek için şunları ekle:
-- **Peer-reviewed akademik makale** veya standart bilim tarihi kaynağı
-- **Tarihsel keşif tarihi** (kimin, ne zaman keşfettiği - kaynaklı)
-- **Dönemin yaygın görüşünün kaynağı** (Aristoteles, Galen, Ptolemy vb. - kaynaklı)
-**Örnek format:**
-> Evrenin genişlemesi:
-> - Modern keşif: Hubble, E. (1929). "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae". PNAS. 15(3): 168–173.
-> - Dönemin görüşü: Aristotle. *On the Heavens*. (Statik evren teorisi)
+### ~~Peer-reviewed Kaynaklar Ekleme~~ ✅ TAMAMLANDI
+**Durum:** 11 bilimsel örneğin üçü kategorideki kaynak durumu kontrol edildi ve tamamlandı.
+
+**Sonuç tablosu (11 örnek × 3 kategori):**
+
+| # | Örnek | Peer-reviewed | Keşif Tarihi | Dönemin Görüşü |
+|---|-------|:---:|:---:|:---:|
+| 1 | Evrenin genişlemesi | ✅ Hubble, Riess, Perlmutter | ✅ 1929, 1998 | ✅ Aristoteles De Caelo |
+| 2 | Derin deniz dalgaları | ✅ Ekman 1904 | ✅ 1904 | ✅ Schlee 1973 |
+| 3 | Deniz karanlık katmanları | ✅ Ryther 1956, Secchi 1865, Beebe 1934 | ✅ 1865, 1934, 1956 | ✅ Schlee 1973 |
+| 4 | Bal arısı | ✅ Butler 1609, Janša 1771 | ✅ 1586, 1609, 1771 | ✅ Aristoteles HA |
+| 5 | Dağların hareketi | ✅ Wegener 1912, Le Pichon 1968 | ✅ 1912, 1960'lar | ✅ Lloyd 1970, Oreskes 1999 |
+| 6 | Dağların kökü | ✅ Airy 1855 | ✅ 19. yy | ✅ Lloyd 1970, Oreskes 1999 |
+| 7 | Sudan yaratılma | ✅ Ball 2017, Miller 1953 | ✅ 1953 | ✅ Thales, Aristoteles |
+| 8 | Topraktan yaratılma | ✅ Mitchell 1945, Emsley 2011 | ✅ 1842, 1945 | ✅ Aristoteles, Vaisheshika |
+| 9 | Evrenin sonu | ✅ Kelvin 1852, Lemaître 1931, Adams 1997 | ✅ 1852, 1931 | ✅ Aristoteles Physics VIII, Hindu kalpa |
+| 10 | Güneş hareketi | ✅ Shapley 1918, Oort 1927, Kerr 1986 | ✅ 1918, 1927 | ✅ Ptolemy Almagest |
+| 11 | Ay ışığı | ✅ NASA albedo | ✅ MÖ 5. yy, 11. yy | ✅ Moon myths, Parmenides |
 
 ### Zayıf örnekleri tekrar araştır
 
