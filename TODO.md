@@ -4,30 +4,25 @@
 
 | # | Görev | Önem | Efor |
 |---|-------|:----:|:----:|
-| 1 | [Zayıf Örnekler](#zayıf-örnekleri-tekrar-araştır) | 4 | 4 |
-| 2 | [Sonuç Bölümü](#sonuç-bölümü-5-sonuç) | 5 | 3 |
-| 3 | [Epistemik Mütevazılık](#epistemik-mütevazılık-sonuç-bölümüne-eklenecek) | 4 | 3 |
-| 4 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı-ama-tutulacak---düşük-öncelik) | 1 | 2 |
+| 1 | [Matematiksel Düzen Ek Örnekler](#matematiksel-düzen---ek-örnekler) | 3 | 4 |
+| 2 | [Güneş Hareketi](#güneşin-hareketi-tartışmalı---düşük-öncelik) | 1 | 2 |
 
 **Puanlama:** Önem (1-5 kritiklik), Efor (1-5 zorluk), Öncelik (tablodaki sıralama)
 
 ---
 
-## Kritik Eksiklikler
+## Görev Detayları
 
-### Sonuç Bölümü (5. Sonuç)
-**Durum:** Bölüm tamamen boş (satır 886-888)
-**Neden önemli:** Bu bir argüman metni ve sonuç yok. Tüm argümanı özetleyen, iddiaları bir araya getiren ve okuyucuya net bir "neden ilahi kaynak" cevabı veren güçlü bir sonuç gerekli.
+### Matematiksel Düzen - Ek Örnekler
+**Durum:** Bölüm 3.2'de sadece 1 örnek var (19/Besmele). Bölüm başlığı "Matematiksel Düzen" ama tek örnekle sınırlı.
+**Neden önemli:** Tek örnek "cherry-picking" eleştirisine açık. Ya daha fazla örnek eklenmeli, ya da bölümün sınırlı kapsamı açıkça belirtilmeli.
 **Yapılacaklar:**
-- Öncüllerin özeti (2a ve 2b'nin nasıl kanıtlandığı)
-- Alternatif açıklamaların neden yetersiz olduğu
-- Nihai mantıksal sonuç (modus ponens)
-- Argümanın sınırları ve epistemik mütevazılık
+- Araştır: Başka güvenilir 19 örüntüleri var mı?
+- Araştır: 19 dışında başka matematiksel düzenler var mı?
+- Eğer yeterli örnek yoksa, mevcut bölüme "bu alan daha fazla araştırma gerektirir" notu ekle
 
-### Epistemik Mütevazılık (Sonuç Bölümüne Eklenecek)
-**Neden önemli:** Akademik dürüstlük ve argümanın sınırlarını göstermek okuyucuya güven verir.
+### Güneş'in Hareketi (Tartışmalı - Düşük Öncelik)
+**Durum:** Örnek #11, geocentric yorumun kastedilmiş olma ihtimali güçlü.
 **Yapılacaklar:**
-- "Bu argüman %100 kesinlik iddia etmiyor" - ihtimal bazlı akıl yürütme
-- "Başka dinlerin benzer argümanları var mı?" - karşılaştırmalı dinler perspektifi
-- "Argümanın en zayıf halkası nedir?" - self-critique
-
+- Tartışmalı olduğunu belirten notu güçlendir
+- Ya da "Dahil Edilmeyen İddialar" bölümüne taşımayı değerlendir

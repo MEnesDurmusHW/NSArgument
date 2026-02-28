@@ -935,16 +935,14 @@ Bu dosya, `argument.md`'deki tüm kaynakların doğrulama durumunu takip eder.
     - Sayfada görünen açıklama: `"the world's largest and most comprehensive Arabic dictionary"` — `"from the earliest authorities to Orientalist and contemporary sources"`
 - **Sonuç:** Site erişilebilir ve tam çalışır. Birden fazla klasik Arapça sözlüğü derlediği iddiası sayfanın kendi açıklamasıyla doğrulanıyor.
 
-### K68 — Wikipedia Makaleleri
-- **Kaynaklar ve dipnotlar:**
-  - "Astronomy in the medieval Islamic world" → `[^ptolemy_translation]`
-  - "Seven heavens" / "Ancient Near Eastern cosmology" → `[^mesopotamia_heavens]`
-  - "Heaven in Judaism" → `[^jewish_heavens]`
-  - "Spontaneous Generation" → `[^spontaneous_wiki]`
-  - "Abjad numerals" → `[^abjad_wiki]`
-- **Doğrulama:** `[DOGRULANDI]`
-- **Kontrol:** Beş Wikipedia makalesinin tamamı mevcut ve aktif (Şubat 2026).
-- **Notlar:** Wikipedia birincil kaynak değil; mümkünse peer-reviewed alternatif bulunmalı.
+### K68 — Wikipedia Makaleleri (KALDIRILDI)
+- **Durum:** Beş Wikipedia dipnotu peer-reviewed akademik kaynaklarla değiştirildi (Şubat 2026):
+  - "Astronomy in the medieval Islamic world" → `[^kunitzsch_almagest]` (Kunitzsch 1974)
+  - "Seven heavens" / "Ancient Near Eastern cosmology" → `[^horowitz_cosmic]` (Horowitz 1998)
+  - "Heaven in Judaism" → `[^wright_heaven]` (Wright 2000 + Himmelfarb 1993 + Talmud Chagigah 12b)
+  - "Spontaneous Generation" → `[^farley_spontaneous]` (Farley 1977 + Pasteur 1861)
+  - "Abjad numerals" → `[^thomann_abjad]` (Thomann 2018 + King 1987)
+- **Doğrulama:** `[KALDIRILDI]` — Yeni kaynaklar K86-K90 olarak ayrı girişlerde.
 
 ### K69 — Britannica Makaleleri
 - **Kaynaklar:**
@@ -1132,20 +1130,56 @@ Bu dosya, `argument.md`'deki tüm kaynakların doğrulama durumunu takip eder.
   - Widdowson, McCance & Spray (1951) *Clinical Science* 10(1): 113-125 ile genişletildi
 - **Sonuç:** İlk kadavra kimyasal analizi iddiası peer-reviewed olarak doğrulandı.
 
+### K86 — Farley 1977
+- **Kaynak:** Farley, J. (1977). *The Spontaneous Generation Controversy from Descartes to Oparin*. Baltimore: Johns Hopkins University Press. ISBN: 978-0-8018-1902-5.
+- **Dipnot:** `[^farley_spontaneous]`
+- **Metin iddiası:** Spontan jenerasyon tartışmasının tarihi; Aristoteles'ten Pasteur'e kadar süren 2000 yıllık inanış.
+- **Doğrulama:** `[DOGRULANMADI]`
+- **Notlar:** Wikipedia `[^spontaneous_wiki]` dipnotunun yerine geçti. Ek olarak Pasteur (1861) orijinal makalesi de dipnota dahil edildi.
+
+### K87 — Thomann 2018
+- **Kaynak:** Thomann, J. (2018). "Scientific and Archaic Arabic Numerals: Origins, Usages and Scribal Traditions of the Two Abjad Systems." *SCIAMVS*, 19: 167-200.
+- **Dipnot:** `[^thomann_abjad]`
+- **Metin iddiası:** 9. yüzyıl Bağdat usturlaplarında abjad rakamlarının kullanıldığı. Abjad sisteminin İslam-öncesi Arap geleneğinde köklü olduğu.
+- **Doğrulama:** `[DOGRULANMADI]`
+- **Notlar:** Wikipedia `[^abjad_wiki]` dipnotunun yerine geçti. Ek olarak King (1987) *Islamic Astronomical Instruments* da dipnota dahil edildi.
+
+### K88 — Kunitzsch 1974
+- **Kaynak:** Kunitzsch, P. (1974). *Der Almagest: Die Syntaxis Mathematica des Claudius Ptolemäus in arabisch-lateinischer Überlieferung*. Wiesbaden: Otto Harrassowitz. ISBN: 978-3-447-01517-2.
+- **Dipnot:** `[^kunitzsch_almagest]`
+- **Metin iddiası:** Almagest'in en erken hayatta kalan Arapça çevirisi 827-828'de el-Haccac tarafından yapıldı (9. yüzyıl).
+- **Doğrulama:** `[DOGRULANMADI]`
+- **Notlar:** Wikipedia `[^ptolemy_translation]` dipnotunun yerine geçti. Metin "8-9. yüzyılda" → "9. yüzyılda" olarak düzeltildi (Kunitzsch'e dayalı olarak).
+
+### K89 — Horowitz 1998
+- **Kaynak:** Horowitz, W. (1998). *Mesopotamian Cosmic Geography*. Winona Lake: Eisenbrauns. ISBN: 978-0-931464-99-7.
+- **Dipnot:** `[^horowitz_cosmic]`
+- **Metin iddiası:** Mezopotamya'da genellikle 3 gök inancı vardı; 7 gök kavramı M.Ö. 1. binyılın sonlarında popülerleşti.
+- **Doğrulama:** `[DOGRULANMADI]`
+- **Notlar:** Wikipedia `[^mesopotamia_heavens]` dipnotunun yerine geçti. Bölüm 1 (s. 3): üç katmanlı gök modeli; Bölüm 9 (s. 208-217): yedi gök geleneği geç dönem.
+
+### K90 — Wright JE 2000
+- **Kaynak:** Wright, J.E. (2000). *The Early History of Heaven*. New York: Oxford University Press. ISBN: 978-0-19-513009-6.
+- **Dipnot:** `[^wright_heaven]`
+- **Metin iddiası:** İbranice Kutsal Kitap'ta 7 gök kavramı yok; sadece M.S. 1-3. yy Rabbinic literatüründe (Talmud Chagigah 12b) ortaya çıktı.
+- **Doğrulama:** `[DOGRULANMADI]`
+- **Notlar:** Wikipedia `[^jewish_heavens]` dipnotunun yerine geçti. Ek olarak Himmelfarb (1993) *Ascent to Heaven* ve Talmud Bavli Chagigah 12b de dipnota dahil edildi.
+
 ---
 
 ## Doğrulama Özeti
 
 | Durum | Sayı |
 |-------|------|
-| DOGRULANDI | 54 |
+| DOGRULANDI | 53 |
 | KISMI | 25 |
 | HATALI | 2 |
 | ERISIM_YOK | 0 |
-| DOGRULANMADI | 4 |
-| **Toplam** | **85** |
+| DOGRULANMADI | 9 |
+| KALDIRILDI | 1 |
+| **Toplam** | **90** |
 
-**Not:** DOGRULANMADI kalan 4 kaynak (K16, K17) dipnotta kullanılmayan kaynakça-only referanslar olduğundan düşük öncelikli.
+**Not:** DOGRULANMADI kalan kaynakların 4'ü (K16, K17) dipnotta kullanılmayan kaynakça-only referanslar, 5'i (K86-K90) yeni eklenen akademik kaynaklar olup doğrulanması gerekir.
 
 ### Düzeltme Gerektiren Kaynaklar
 
