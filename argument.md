@@ -401,9 +401,9 @@ Denizlerin sadece yüzey dalgaları bilinirdi. Derin denizlerdeki iç dalgalar k
 
 **Alternatif Açıklamaların Reddi:**
 
-- **"Ardışık yüzey dalgaları" iddiası:** Arapça'da مِنْ فَوْقِهِ (min favkıhi = "üstünden") mekânsal dikey ilişki bildirir — تَحْت'ın (altında) tam zıttı. Zamansal ardışıklık kastedilseydi مِنْ بَعْدِهِ (min ba'dihi = "ardından") kullanılırdı. Ayrıca بَحْرٍ لُجِّيٍّ (derin/dipsiz deniz) vurgusu, yüzey fırtınası için gereksiz bir ayrıntıdır.[^raghib_mawj]
+- **"Ardışık yüzey dalgaları" iddiası:** Arapça'da مِنْ فَوْقِهِ (min favkıhi = "üstünden") mekânsal dikey ilişki bildirir (تَحْت'ın "altında" tam zıttı). Zamansal ardışıklık kastedilseydi مِنْ بَعْدِهِ (min ba'dihi = "ardından") kullanılırdı. Ayrıca بَحْرٍ لُجِّيٍّ (derin/dipsiz deniz) vurgusu, yüzey fırtınası için gereksiz bir ayrıntıdır.[^raghib_mawj]
 
-- **"Sadece metafor" iddiası:** Ayet bir teşbih (benzetme) bağlamındadır. Ancak teşbihin geçerli olabilmesi için betimlenen sahnenin gerçek dünyada var olması gerekir — hayali bir olguya benzetme yapılmaz.
+- **"Sadece metafor" iddiası:** Ayet bir teşbih (benzetme) bağlamındadır. Ancak teşbihin geçerli olabilmesi için betimlenen sahnenin gerçek dünyada var olması gerekir; hayali bir olguya benzetme yapılmaz.
 
 - **Tahmin iddiası:** مَوْج kelimesinin sözlük tanımı "suyun su üstüne yükselmesi"dir (Ragıb el-İsfahani),[^raghib_mawj] bu iç dalganın literal tanımıdır. Detaylı linguistik analiz için bkz. **Ek E**.
 
@@ -615,14 +615,14 @@ Antik kozmolojilerde evren ya sonsuz ve değişmezdi ya da döngüsel olarak son
   - **Yahudilik:** Fiziksel evrenin sonu kavramı yoktur. "Olam Ha-Ba" (gelecek dünya) mesih çağında siyasi/ruhani yenilenmedir, kozmolojik son değil (Maimonides: "Bu dünya ile mesih günleri arasında krallıkların boyunduruğundan başka fark yoktur").
   - **Hıristiyanlık:** 2 Petrus 3:10 ("gökler gürültüyle yok olacak") ve Mezmur 102:26 ("gökler bir giysi gibi eskiyecek") fiziksel yıkım dili içerir. Yorumcular arasında bunun literal mi mecazi mi olduğu tartışmalıdır.
   - **Zerdüştlük:** Frashokereti evrenin yıkımını değil, arındırılıp mükemmelleştirilmesini tarif eder. Kozmos dönüştürülür, yok edilmez.
-  - **Hinduizm/Budizm:** Pralaya (kozmik çözülme) ve Yedi Güneş tasvirleri fiziksel yıkımı gerçekten içerir. Ancak bunlar **sonsuz döngüler** içindedir — evren her zaman yeniden yaratılır. Kalıcı, geri dönüşsüz bir son yoktur.
+  - **Hinduizm/Budizm:** Pralaya (kozmik çözülme) ve Yedi Güneş tasvirleri fiziksel yıkımı gerçekten içerir. Ancak bunlar **sonsuz döngüler** içindedir: evren her zaman yeniden yaratılır. Kalıcı, geri dönüşsüz bir son yoktur.
 
 - **Kur'an'ın farkı üç noktada belirginleşir:**
   1. **Kapsamlılık:** Sadece yeryüzü değil, tüm kozmosun (gökler, yıldızlar, güneş, denizler) sonu tarif edilir. "Küllü şey'in hâlik" (her şey helak olucudur) tüm fiziksel gerçeklik hakkında ontolojik bir iddiadır.
   2. **Geri dönüşsüzlük:** Hindu/Budist döngüsel kozmolojiden farklı olarak, son kalıcı ve tek seferlik tarif edilir. Modern kozmolojinin öngördüğü geri dönüşsüz son (ısı ölümü, Big Rip) ile daha uyumludur.
-  3. **Ontolojik fânilik:** "Küllü şey'in hâlik" (her şey helak olucudur) ifadesi, evrenin fâniliğini doğasına ait bir özellik olarak sunar — yalnızca Allah bâkîdir.
+  3. **Ontolojik fânilik:** "Küllü şey'in hâlik" (her şey helak olucudur) ifadesi, evrenin fâniliğini doğasına ait bir özellik olarak sunar: yalnızca Allah bâkîdir.
 
-- **Felsefi tahmin iddiası:** 7. yüzyılda baskın kozmolojik görüşler — Aristoteles'in ezeli-ebedi evreni, Stoacıların sonsuz ekpyrosis döngüleri, Hindu-Budist kalpa döngüleri — evrenin ya sonsuz ya da sonsuz döngüsel olduğunu öngörüyordu. Evrenin kalıcı bir sonu olduğu fikri tüm bu çerçevelere aykırıydı.
+- **Felsefi tahmin iddiası:** 7. yüzyılda baskın kozmolojik görüşler (Aristoteles'in ezeli-ebedi evreni, Stoacıların sonsuz ekpyrosis döngüleri, Hindu-Budist kalpa döngüleri) evrenin ya sonsuz ya da sonsuz döngüsel olduğunu öngörüyordu. Evrenin kalıcı bir sonu olduğu fikri tüm bu çerçevelere aykırıydı.
 
 **Sonuç:**
 Evrenin kalıcı bir sonu olacağı fikri, dönemin sonsuz veya sonsuz-döngüsel evren anlayışlarına aykırıydı. Kur'an'ın tüm kozmosun geri dönüşsüz sonunu ve maddenin doğasındaki fâniliği tarif etmesi modern kozmoloji ile uyumludur.
@@ -656,7 +656,7 @@ Antik dönemde element teorileri vardı (Aristoteles'in dört elementi: toprak, 
 
 **Kur'an'ın İfadesi:**
 "O ki sizleri topraktan yarattı." (Enam 6:2)
-"Andolsun, biz insanı süzme bir çamurdan (سُلَالَةٍ مِنْ طِينٍ — sülâle min tîn) yarattık." (Mü'minun 23:12)
+"Andolsun, biz insanı süzme bir çamurdan (سُلَالَةٍ مِنْ طِينٍ: sülâle min tîn) yarattık." (Mü'minun 23:12)
 "O, sizi topraktan yarattı." (Rum 30:20)
 
 Kur'an, insan yaratılışının hammaddesi için tek bir kelime değil, bir dönüşüm süreci tanımlar:
@@ -669,19 +669,21 @@ Kur'an, insan yaratılışının hammaddesi için tek bir kelime değil, bir dö
 | 4 | حَمَإٍ مَسْنُونٍ (hamain masnûn) | Şekillendirilmiş siyah balçık |
 | 5 | صَلْصَال (salsâl) | Kurumuş, ses çıkaran kil |
 
-**Kritik ifade — "Sülâle min tîn":** Mü'minun 23:12'deki سُلَالَة (sülâle) kelimesi "bir şeyden çekilmiş öz/hulâsa" anlamına gelir. Bu, hammaddeden belirli bileşenlerin seçilip çıkarılması kavramını taşır — basit bir "kilden şekillendirme" metaforundan farklı bir ifadedir.
+**Kritik ifade: "Sülâle min tîn"**
+
+Mü'minun 23:12'deki سُلَالَة (sülâle) kelimesi "bir şeyden çekilmiş öz/hulâsa" anlamına gelir. Bu, hammaddeden belirli bileşenlerin seçilip çıkarılması kavramını taşır; basit bir "kilden şekillendirme" metaforundan farklı bir ifadedir.
 
 **Modern Keşif:**
 - 1842: Justus von Liebig *Animal Chemistry* ile biyolojik dokuların element analizinin temelini attı
-- 1945: Mitchell ve ark. ilk kapsamlı insan kadavra kimyasal analizini gerçekleştirdi — 11 temel elementin vücut ağırlığının %99'unu oluşturduğunu gösterdi [^mitchell_1945]
+- 1945: Mitchell ve ark. ilk kapsamlı insan kadavra kimyasal analizini gerçekleştirdi: 11 temel elementin vücut ağırlığının %99'unu oluşturduğunu gösterdi [^mitchell_1945]
 - Modern kimya: İnsan vücudunun element kompozisyonu tamamen çözüldü [^human_soil_composition]
 - Temel bulgular:
   - İnsanda bulunan tüm elementler (oksijen, karbon, hidrojen, azot, kalsiyum, fosfor, kükürt, sodyum, potasyum, klor, magnezyum, demir, çinko vb.) yer kabuğunda/toprakta bulunuyor
   - İnsanda olan ama toprakta olmayan hiçbir element yok
 
 **Alternatif Açıklamaların Reddi:**
-- **Dört element teorisi:** Empedocles ve Aristoteles'in dört element teorisinde (toprak, su, hava, ateş) insan vücudu bu elementlerin **eşit karışımı** olarak görülüyordu.[^aristotle_four_elements] Kur'an ise spesifik olarak **toprak** diyor — dört seçenekten doğru olanı seçerek.
-- **"Su da diyor" eleştirisi:** Kur'an iki farklı gerçeği ayırıyor — su biyolojik (hücreler), toprak kimyasal (elementler). İkisi de doğru, çelişki değil tamamlayıcı.
+- **Dört element teorisi:** Empedocles ve Aristoteles'in dört element teorisinde (toprak, su, hava, ateş) insan vücudu bu elementlerin **eşit karışımı** olarak görülüyordu.[^aristotle_four_elements] Kur'an ise spesifik olarak **toprak** diyor; dört seçenekten doğru olanı seçerek.
+- **"Su da diyor" eleştirisi:** Kur'an iki farklı gerçeği ayırıyor: su biyolojik (hücreler), toprak kimyasal (elementler). İkisi de doğru, çelişki değil tamamlayıcı.
 
 **Sonuç:**
 Kur'an'ın topraktan yaratılma ifadesi, basit bir anlatının ötesinde spesifik detaylar içerir: çok aşamalı dönüşüm süreci ve "sülâle" (öz çekme) kavramı. İnsan vücudundaki tüm elementlerin toprakta bulunması bu ifadeyi bilimsel olarak desteklemektedir.
@@ -757,43 +759,99 @@ Bu ayet, Cehennem bekçilerinin sayısından bahsettikten sonra, **19 sayısın�
 "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
 
 - Kur'an'ın ilk ayeti
-- 114 surenin 113'ünün başında tekrarlanan formül
+- Kur'an'da toplam 114 kez tekrarlanan formül (113 surenin başında + Neml 27:30'da). 114 = 6 × 19.
 - İslam'ın en çok tekrarlanan cümlesi
 
 ##### Matematiksel Analiz
 
-**Sistematik 3×2 Yapı**
+**Besmele'nin Yapısı:**
 
-**3 Temel Veri Tipi:**
-1. Kelimelerin harf sayıları: Bism (3), Allah (4), er-Rahman (6), er-Rahim (6)
-2. Harflerin ebced değerleri: ب=2, س=60, م=40, ا=1, ل=30, ه=5, ر=200, ح=8, ن=50, ي=10
-3. Kelimelerin toplam ebced değerleri: 102, 66, 329, 289
+| | 4. kelime | 3. kelime | 2. kelime | 1. kelime |
+|---|:---------:|:---------:|:---------:|:---------:|
+| **Arapça** | الرحيم | الرحمن | الله | بسم |
+| **Latin** | er-Rahim | er-Rahman | Allah | Bism |
+| **Harf sayısı** | 6 | 6 | 4 | 3 |
+| **Harfler** | ا ل ر ح ي م | ا ل ر ح م ن | ا ل ل ه | ب س م |
+| **Ebced değerleri** | 40, 10, 8, 200, 30, 1 | 50, 40, 8, 200, 30, 1 | 5, 30, 30, 1 | 40, 60, 2 |
+| **Kelime toplamı** | 289 | 329 | 66 | 102 |
 
-**2 Matematiksel İşlem:**
-- **Yan Yana Yazma (Concatenation):** Sayıları bitişik yazma
-- **Kümülatif Toplam:** Artan sırayla toplama
+**Kelime sıra numarası ile iç içe yazma:**
 
-**Sonuçlar (hepsi 19'a kalansız bölünür):**
+Her kelimenin sıra numarasını (1, 2, 3, 4) o kelimeye ait verilerle yan yana yazarak yeni sayılar oluşturabiliriz.
 
-| Veri Tipi | Yan Yana Yazma | Kümülatif Toplam |
-|-----------|----------------|------------------|
-| **Harf sayıları** | 3-4-6-6 = **3.466** ÷ 19 = 182 | 3-7-13-19 = **3.713.3419** ÷ 19 |
-| **Harflerin ebced** | 37 basamaklı sayı ÷ 19 | 58 basamaklı sayı ÷ 19 |
-| **Kelimelerin ebced** | 102-66-329-289 ÷ 19 | 102-168-497-786 ÷ 19 |
+**1. Adım: Sıra numarası + harf sayısı**
+Her kelimenin sırasını ve harf sayısını yan yana yazalım: 1. kelime 3 harf, 2. kelime 4 harf, 3. kelime 6 harf, 4. kelime 6 harf.
 
-**İlk Gözlem:** Besmele = **19 harf** (Kur'an'da "19" vurgusu yapılan tek sayı)
+| Sayı | Sonuç |
+|------|-------|
+| **13.243.646** | 19 × 697.034 |
+
+19'a kalansız bölünüyor. Tek başına çok şey ifade etmeyebilir; tesadüf olabilir.
+
+**2. Adım: Sıra numarası + kelime ebced değeri**
+Aynı yöntemi kelime ebced değerleriyle deneyelim: 1. kelime 102, 2. kelime 66, 3. kelime 329, 4. kelime 289.
+
+| Sayı | Sonuç |
+|------|-------|
+| **110.226.633.294.289** | 19 × 5.801.401.752.331 |
+
+Bu da 19'a kalansız bölünüyor. Farklı bir veri setiyle aynı sonuç: ilginç.
+
+**3. Adım: Sıra numarası + harflerin tek tek ebced değerleri**
+Eğer sistematik bir düzen varsa, en detaylı seviyede de çalışmalı. Her kelimenin sıra numarasını ve ardından harflerinin ebced değerlerini tek tek yazalım: 1-2,60,40-2-1,30,30,5-3-1,30,200,8,40,50-4-1,30,200,8,10,40.
+
+| Sayı | Sonuç |
+|------|-------|
+| **1.260.402.130.305.313.020.084.050.413.020.081.040** | 19 × 66.336.954.226.595.422.109.686.863.843.162.160 |
+
+37 basamaklı bu sayı da 19'a kalansız bölünüyor. Üç farklı detay seviyesinde (harf sayısı, kelime toplamı, tek tek harfler) aynı sistematik sonuç ortaya çıkıyor.
+
+**Kümülatif toplamlarla aynı sistem:**
+
+Şimdi ham değerler yerine kümülatif toplamları kullanalım. Kümülatif toplam, her kelimenin değerini öncekilerle toplayarak elde edilir: 1. kelime 3 harf, 2. kelime 3+4=7, 3. kelime 3+4+6=13, 4. kelime 3+4+6+6=19.
+
+**4. Adım: Sıra numarası + kümülatif harf sayısı**
+Aynı yöntemi kümülatif değerlerle deneyelim: 1. kelime 3, 2. kelime 7, 3. kelime 13, 4. kelime 19.
+
+| Sayı | Sonuç |
+|------|-------|
+| **1.327.313.419** | 19 × 69.858.601 |
+
+Ham değerlerle çalışıyordu, kümülatifle de çalışıyor. Bir sonraki seviyeyi deneyelim.
+
+**5. Adım: Sıra numarası + kümülatif kelime ebced**
+Kümülatif kelime ebced değerleri: 102, 168 (102+66), 497 (168+329), 786 (497+289).
+
+| Sayı | Sonuç |
+|------|-------|
+| **1.102.216.834.974.786** | 19 × 58.011.412.367.094 |
+
+Beşinci kez aynı sonuç. Eğer bu sistematikse, en detaylı seviyede (her harfin kümülatif ebced değeriyle) de çalışmalı.
+
+**6. Adım: Sıra numarası + kümülatif harf ebced**
+Her harfin ebced değeri önceki tüm harflerle toplanır: bsm → 2, 62, 102 | Allah → 103, 133, 163, 168 | er-Rahman → 169, 199, 399, 407, 447, 497 | er-Rahim → 498, 528, 728, 736, 746, 786.
+
+| Sayı | Sonuç |
+|------|-------|
+| **1.262.102.210.313.316.316.831.691.993.994.074.474.974.498.528.728.736.746.786** | 19 × 66.426.432.121.753.490.359.562.736.526.003.919.735.499.922.564.670.355.094 |
+
+58 basamaklı bu sayı da 19'a kalansız bölünüyor. Altı farklı yaklaşımın tamamında (üç veri tipi: harf sayısı, kelime ebced, harf ebced × iki yöntem: ham ve kümülatif) aynı 19 örüntüsü ortaya çıkıyor.
+
+*Not: Besmele'nin toplam 19 harften oluşması da ayrıca eklenebilecek bir değerdir, ancak 19 harflik bir cümle oluşturmak görece kolay olduğu için bu analize dahil edilmemiştir.*
 
 ##### Alternatif Açıklamaların Reddi
 
-**"Her kitapta bulunur" iddiası:**
-- Hayır. Hedef önceden belirtilmiş (Müddessir 30: "19 vardır")
-- Texas Sharpshooter Yanılgısı geçersiz: Sonradan hedef çizilmemiş
-- 6 sonuç rastgele değil, 3×2 sistematik yapının ürünü
+**"Texas Sharpshooter Yanılgısı: sonradan hedef çiziliyor" iddiası**
+
+Texas Sharpshooter Yanılgısı, önce sonucu görüp sonra ona uygun hedef çizmeyi tarif eder. Ancak burada durum tersidir: Kur'an'ın kendisi Müddessir 74:30'da **"Onun üzerinde 19 vardır"** (عَلَيْهَا تِسْعَةَ عَشَرَ) diyerek hedefi önceden belirler. Besmele'deki 19 örüntüsü bu ayetten **bağımsız olarak** keşfedilmiştir; hedef sonradan çizilmemiş, Kur'an tarafından önceden konulmuştur.
 
 **"Tesadüfen denk geldi" iddiası:**
-- İlk ayet + vurgulanan sayı kombinasyonu
-- Cümlenin tam 19 harfli olması ve 19 sayısının önceden belirtilmesi
-- 3×2 sistematik yapının tamamında tutarlılık
+
+Rastgele bir sayının 19'a kalansız bölünme olasılığı 1/19'dur (~%5,3). Altı testin tamamının 19'a bölünme olasılığı:
+
+(1/19)^6 ≈ 1 / 47.045.881, yaklaşık **47 milyonda 1.**
+
+*Dürüstlük notu:* Bu hesap tam bağımsızlık varsayar. Altı test aynı besmele verisinden türetildiği için matematiksel olarak tam bağımsız değildir; gerçek olasılık bundan biraz yüksek olabilir. Ancak testler farklı veri tipleri ve farklı işlemler kullandığı için aralarında güçlü bir korelasyon beklenmez; olasılık her durumda son derece düşük kalır.
 
 **"İnsan tarafından kasıtlı yapıldı" iddiası:**
 - 7\. yüzyılda hesaplama araçları: Kağıt-kalem
@@ -805,28 +863,16 @@ Bu ayet, Cehennem bekçilerinin sayısından bahsettikten sonra, **19 sayısın�
 - Arkeolojik deliller: Müzelerdeki usturlaplarda Arap harfleri rakam olarak kullanılmış [^abjad_wiki]
 - Kur'an'da harfler kullanılmışken (Elif-Lam-Mim, vb.) sayısal değerleri kullanmamak tutarsız olurdu
 
-##### Sistematik Tutarlılık
-
-**Öngörülebilirlik:**
-- Harf sayıları yan yana tuttu → Kümülatifi de tutmalı ✓
-- Harflerin ebced'i tuttu → Kümülatifi de tutmalı ✓
-- Pattern görüldüğünde sonraki adım tahmin edilebiliyor
-
-**Mekanik Bütünlük:**
-- 6 sonuç rastgele 6 deneme değil
-- Tutarlı mantığın (3 veri × 2 işlem) sonucu
-- Biri tutup diğerleri tutmasaydı → sistem yoktur denirdi
-- Hepsi tutunca → kasıtlı tasarım göstergesi
-
 ##### Sonuç
 
-7. yüzyılda, Kur'an'da "19" sayısını vurgulayıp, ardından kitabın ilk cümlesini (besmele) bu sayıyla 6 farklı ama sistematik şekilde uyumlu yapmak:
+7\. yüzyılda, Kur'an'da "19" sayısını vurgulayıp, ardından kitabın ilk cümlesini (besmele) bu sayıyla 6 farklı ama sistematik şekilde uyumlu yapmak:
 
-- **Dönemin teknolojisiyle insan gücünü aşar** (bilgisayarsız 58 basamaklı sayıları test etmek)
-- **Önceden hedef belirtilmiştir** (tesadüf/cherry-picking argümanını geçersiz kılar)
-- **Sistematik ve tahmin edilebilir bir yapıya sahiptir** (3×2 mekanizması)
+- **Dönemin teknolojisiyle insan gücünü aşar:** Bilgisayarsız 58 basamaklı sayıların 19'a bölünebilirliğini test etmek pratik olarak imkansızdır.
+- **Önceden hedef belirtilmiştir:** Müddessir 74:30 "19 vardır" diyerek hedefi koyar, tesadüf/cherry-picking argümanını geçersiz kılar.
+- **Sistematik ve tahmin edilebilirdir:** 6 sonuç rastgele 6 deneme değil, tutarlı bir mantığın (3 veri tipi × 2 işlem) ürünüdür. Bir seviyede tutunca diğerinin de tutacağı tahmin edilebiliyor; ve tutuyor.
+- **Tesadüf olasılığı son derece düşüktür:** Altı testin tamamının 19'a bölünme olasılığı yaklaşık 47 milyonda 1'dir.
 
-Bu, ya olağanüstü derecede şanslı bir tesadüf, ya da kitabın yazarının olağanüstü matematiksel bilgi ve hesaplama gücüne sahip olduğunun göstergesidir - ki bu, 7. yüzyıl Arabistan'ında insan kapasitesini açıkça aşmaktadır.
+Bu, ya olağanüstü derecede şanslı bir tesadüf, ya da kitabın yazarının olağanüstü matematiksel bilgi ve hesaplama gücüne sahip olduğunun göstergesidir; ki bu, 7. yüzyıl Arabistan'ında insan kapasitesini açıkça aşmaktadır.
 
 ## 4. Alternatif Açıklamaların İncelenmesi
 
@@ -1099,7 +1145,7 @@ Bu bölümde, yaygın olarak bilinen bazı "bilimsel mucize" iddialarını neden
 
 - **Paralel gelişim:** Modern embriyoloji, kemik ve kas dokusunun aynı kaynaktan (mezoderm) köken aldığını ve büyük ölçüde **paralel** geliştiğini gösteriyor.[^unsw_embryology] Sclerotom (kemik öncüsü) ve dermomyotom (kas öncüsü) neredeyse eş zamanlı ayrışır (sadece ~14 saat fark).[^kenhub_musculoskeletal]
 
-- **Ossifikasyon zamanlaması:** Kemik ossifikasyonu **6-7. haftalarda** başlar — kas gelişimiyle neredeyse eş zamanlı.[^ncbi_embryology] "Kemik önce" iddiası, kıkırdak modeli ile gerçek kemik arasındaki farkı göz ardı ediyor.
+- **Ossifikasyon zamanlaması:** Kemik ossifikasyonu **6-7. haftalarda** başlar; kas gelişimiyle neredeyse eş zamanlı.[^ncbi_embryology] "Kemik önce" iddiası, kıkırdak modeli ile gerçek kemik arasındaki farkı göz ardı ediyor.
 
 - **Galen benzerliği:** Galen'in 4 aşamalı embriyoloji modeli (M.S. 2. yy) Kur'an'ın aşamalarıyla yapısal benzerlik gösteriyor. Bu, dönemin tıbbi bilgisinden etkilenme olasılığını gündeme getiriyor.
 
@@ -2065,27 +2111,27 @@ Modern bilimin evrenin genişlediğini keşfetmesi, bu klasik yorumu **teyit etm
 
 #### 2. Kelime Analizi
 
-##### 2.1 بَحْرٍ لُجِّيٍّ (bahr lucciyy) — "Derin deniz"
+##### 2.1 بَحْرٍ لُجِّيٍّ (bahr lucciyy): "Derin deniz"
 
 Kök: ل-ج-ج (l-j-j). İbn Manzur (*Lisân al-Arab*): لُجَّة = **"dibi bulunamayan, ucu görünmeyen su"** (مُعْظَمُ الماء الذي لا يُدرك قعره).[^lisan_lujj]
 
 | Sözlük | Tanım |
 |--------|-------|
-| Lisân al-Arab | عميق كثير الماء — "derin ve bol sulu" |
+| Lisân al-Arab | عميق كثير الماء: "derin ve bol sulu" |
 | Lane's Lexicon | "Water whose extremities cannot be seen" |
 | Hawramani Lexicon | "Abundant water whose edges cannot be seen" |
 
-**Kritik nokta:** Ayet herhangi bir deniz (بحر) değil, spesifik olarak **derin/dipsiz deniz** (بحر لجّي) diyor. Yüzey fırtınası betimlemek için bu ayrıntı gereksizdir — fırtınalar sığ denizlerde de olur. "Derin deniz" vurgusu, betimlenen olgunun derinlikle ilgili olduğuna işaret eder.
+**Kritik nokta:** Ayet herhangi bir deniz (بحر) değil, spesifik olarak **derin/dipsiz deniz** (بحر لجّي) diyor. Yüzey fırtınası betimlemek için bu ayrıntı gereksizdir; fırtınalar sığ denizlerde de olur. "Derin deniz" vurgusu, betimlenen olgunun derinlikle ilgili olduğuna işaret eder.
 
-##### 2.2 مَوْجٌ (mevç) — "Dalga"
+##### 2.2 مَوْجٌ (mevç): "Dalga"
 
-Kök: م-و-ج (m-w-j). Ragıb el-İsfahani (*el-Müfredât*): مَوْج = **"suyun su üstüne yükselmesi"** (ما ارتفع من الماء فوق الماء).[^raghib_mawj]
+Kök: م-و-ج (m-w-j). Ragıb el-İsfahani (*el-Müfredât*): مَوْج = **"suyun tepelerinden/kabartılarından yükselen"** (ما يعلو من غَوارب الماء).[^raghib_mawj]
 
 Lane's Lexicon: "The sea was in a state of commotion; was agitated with waves." Birincil fiziksel anlam: **su kütlesinin su içinde yükselerek hareket etmesi**.
 
-**Kritik nokta:** İç dalga tam olarak budur — farklı yoğunluktaki su katmanlarının birbiri üzerinde yükselip hareket etmesi. Ragıb'ın tanımı ("suyun su üstüne yükselmesi") iç dalganın literal tanımıdır.
+**Kritik nokta:** İç dalga tam olarak budur: farklı yoğunluktaki su katmanlarının birbiri üzerinde yükselip hareket etmesi. Ragıb'ın tanımı ("suyun kabartılarından yükselen") su kütlelerinin birbirleri üzerinde yükselmesini ifade eder.
 
-##### 2.3 مِنْ فَوْقِهِ (min favkıhi) — "Üstünden"
+##### 2.3 مِنْ فَوْقِهِ (min favkıhi): "Üstünden"
 
 **فَوْق (fevk):** تَحْت (taht = "altında") kelimesinin **tam zıttı**.[^lisan_fawq] Birincil anlamı mekânsal ve dikeydir: "üstünde, yukarısında."
 
@@ -2095,9 +2141,9 @@ Lane's Lexicon: "The sea was in a state of commotion; was agitated with waves." 
 | مَوْجٌ **مِنْ بَعْدِهِ** مَوْجٌ | dalga, **ardından** dalga | Zamansal ardışıklık |
 | مَوْجٌ **عَلَى** مَوْجٌ | dalga **üzerine** dalga | Temas/üst üste binme |
 
-Kur'an **فَوْق** (dikey konum) tercih ediyor — **بَعْد** (zamansal sıra) veya **عَلَى** (temas) değil. Bu, iki dalganın aynı anda farklı dikey konumlarda bulunduğunu ifade eder.
+Kur'an **فَوْق** (dikey konum) tercih ediyor; **بَعْد** (zamansal sıra) veya **عَلَى** (temas) değil. Bu, iki dalganın aynı anda farklı dikey konumlarda bulunduğunu ifade eder.
 
-##### 2.4 يَغْشَاهُ (yağşâhu) — "Onu kaplar/bürür"
+##### 2.4 يَغْشَاهُ (yağşâhu): "Onu kaplar/bürür"
 
 Kök: غ-ش-ي (ğ-ş-y). "Örtmek, kaplamak, bürümek, kuşatmak."[^lisan_ghashiya] Dalganın denizi dışarıdan veya içeriden kuşatması/kaplaması anlamında kullanılabilir.
 
@@ -2106,33 +2152,33 @@ Kök: غ-ش-ي (ğ-ş-y). "Örtmek, kaplamak, bürümek, kuşatmak."[^lisan_ghas
 Kelime analizi, ayetin dört katmanlı dikey bir yapı betimlediğini ortaya koyar:
 
 ```
-☁️  سَحَابٌ        — Bulut (üstte)
-〰️  مَوْجٌ         — Dalga 2: Yüzey dalgası
-〰️  مَوْجٌ         — Dalga 1: İç dalga (termoklin)
-🌊  بَحْرٍ لُجِّيٍّ  — Derin deniz tabanı
+☁️  سَحَابٌ: Bulut (üstte)
+〰️  مَوْجٌ: Dalga 2 (Yüzey dalgası)
+〰️  مَوْجٌ: Dalga 1 (İç dalga/termoklin)
+🌊  بَحْرٍ لُجِّيٍّ: Derin deniz tabanı
 ```
 
 Bu yapı modern okyanoğrafinin bildiği katmanlaşmayla örtüşür: derin deniz tabanı → farklı yoğunluktaki su katmanları arasında oluşan iç dalgalar → yüzey dalgaları → atmosferik katman (bulutlar).
 
 #### 4. "Sadece Metafor" Eleştirisinin Değerlendirilmesi
 
-Ayet bir **teşbih** (benzetme) bağlamında kullanılmaktadır — inkarcıların durumu bu sahneye benzetilir. Klasik müfessirler (Taberi, Kurtubi, İbn Kesir) ayeti metaforik olarak yorumlamışlardır. Bu beklenen bir durumdur çünkü iç dalgalar 20. yüzyıldan önce bilinmiyordu.
+Ayet bir **teşbih** (benzetme) bağlamında kullanılmaktadır; inkarcıların durumu bu sahneye benzetilir. Klasik müfessirler (Taberi, Kurtubi, İbn Kesir) ayeti metaforik olarak yorumlamışlardır. Bu beklenen bir durumdur çünkü iç dalgalar 20. yüzyıldan önce bilinmiyordu.
 
-Ancak teşbihin geçerli olabilmesi için, betimlenen sahnenin **gerçek dünyada var olması** gerekir. Kur'an, inkarcıların durumunu var olmayan, hayali bir sahneye benzetemez — teşbihin ikna edici olması, referans verilen olgunun tanınabilir olmasına bağlıdır. Bu nedenle:
+Ancak teşbihin geçerli olabilmesi için, betimlenen sahnenin **gerçek dünyada var olması** gerekir. Kur'an, inkarcıların durumunu var olmayan, hayali bir sahneye benzetemez; teşbihin ikna edici olması, referans verilen olgunun tanınabilir olmasına bağlıdır. Bu nedenle:
 
 1. **Teşbih olması**, betimlenen fiziksel sahnenin gerçekliğini ortadan kaldırmaz
-2. Klasik alimlerin bilimsel boyutu anlamaması doğaldır — olgu bilinmiyordu
+2. Klasik alimlerin bilimsel boyutu anlamaması doğaldır; olgu bilinmiyordu
 3. Önemli olan **kelimelerin ne dediğidir**, alimlerin ne anladığı değil
 
 #### 5. Alternatif Yorum: "Ardışık Yüzey Dalgaları"
 
-Kurtubi bir alternatif sunar: "الموج يتبع بعضه بعضا حتى كأن بعضه فوق بعض" — "Dalgalar birbiri ardınca gelir, **sanki** bazısı bazısının üstündeymiş **gibi**."[^qurtubi_nur40]
+Kurtubi bir alternatif sunar: "الموج يتبع بعضه بعضا حتى كأن بعضه فوق بعض" ("Dalgalar birbiri ardınca gelir, **sanki** bazısı bazısının üstündeymiş **gibi**").[^qurtubi_nur40]
 
 Bu alternatife karşı argümanlar:
 
 1. **"Sanki...gibi" eklentisi Kurtubi'nindir, ayetin değil.** Ayet "من فوقه" (üstünden) der, "كأنّ فوقه" (sanki üstündeymiş gibi) demez. Kurtubi'nin parafrazı ayetin literal ifadesini yumuşatır.
 
-2. **بحر لجّي (derin deniz) vurgusu açıklanmaz.** Ardışık yüzey dalgaları herhangi bir denizde olur — neden spesifik olarak "derin deniz" densin?
+2. **بحر لجّي (derin deniz) vurgusu açıklanmaz.** Ardışık yüzey dalgaları herhangi bir denizde olur; neden spesifik olarak "derin deniz" densin?
 
 3. **فَوْق kelimesi mekânsaldır.** Zamansal ardışıklık kastedilseydi Arapça'da bunun için daha doğal ifadeler (بعد، ثمّ، يتبع) mevcuttur.
 
@@ -2173,16 +2219,16 @@ Bu alternatife karşı argümanlar:
 - Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
 - Association of Gross Anatomists of America. "History of Anatomical Dissection."
 - Biology LibreTexts. "Spontaneous Generation." Erişim: https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/03:_The_Cell/3.01:_Spontaneous_Generation
-- Boscá, José-Maria et al. (2014). "Andreas Vesalius 500 years - A Renaissance that revolutionized cardiovascular knowledge." *PMC*.
+- Mesquita, E.T., de Souza Junior, C.V. & Ferreira, T.R. (2015). "Andreas Vesalius 500 years — A Renaissance that revolutionized cardiovascular knowledge." *Rev Bras Cir Cardiovasc* 30(2): 260-265. PMC4462973.
 - Boylan, Michael (2007). "Galen." *Internet Encyclopedia of Philosophy*. Erişim: https://iep.utm.edu/galen/
 - Gutas, Dimitri (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbāsid Society*. Routledge.
 - Ifrah, Georges (2000). *The Universal History of Numbers: From Prehistory to the Invention of the Computer*. John Wiley & Sons. (Ebced/Abjad sayı sistemleri)
-- Khalifa, Rashad (1981). *Quran: Visual Presentation of the Miracle*. Islamic Productions. (19 sayısı matematiksel analizi - tartışmalı)
+- Khalifa, Rashad (1982). *Quran: Visual Presentation of the Miracle*. Islamic Productions. (19 sayısı matematiksel analizi - tartışmalı)
 - MacLeod, Roy (2000). *The Library of Alexandria: Centre of Learning in the Ancient World*. I.B. Tauris.
 - Moller, Violet (2019). *The Map of Knowledge: How Classical Ideas Were Lost and Found*. Pan Macmillan.
 - Ball, P. (2017). "Water is an active matrix of life for cell and molecular biology." *PNAS* 114(51): 13327-13335.
 - Needham, Joseph (1959). *A History of Embryology*. Cambridge University Press.
-- Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
+- Norris, H.T. (1980). *The Adventures of Antar*. Aris & Phillips.
 - Peters, F.E. (1994). *Muhammad and the Origins of Islam*. SUNY Press.
 - ResearchGate. "Statistical Analysis of the Birmingham Quran Folios and Comparison with the Sanaa Manuscripts." Erişim: https://www.researchgate.net/publication/328215240_STATISTICAL_ANALYSIS_OF_THE_BIRMINGHAM_QURAN_FOLIOS_AND_COMPARISON_WITH_THE_SANAA_MANUSCRIPTS
 - Saliba, George (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press.
@@ -2250,7 +2296,7 @@ Bu alternatife karşı argümanlar:
 - *Mu'cemü'l-Meânî*. Modern Arapça sözlük ve anlam rehberi.
 - Wehr, H. (1994). *A Dictionary of Modern Written Arabic (Arabic-English)*, 4. baskı, ed. J. Milton Cowan. Ithaca: Spoken Language Services. ISBN: 0-87950-003-4. Modern Yazılı Arapça için standart referans sözlük.
 - Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, rev. W. Robertson Smith & M.J. de Goeje, 2 cilt. Cambridge: Cambridge University Press. Klasik Arapça grameri için Batı'daki temel referans eser.
-- Hawramani Arabic Lexicon. https://arabiclexicon.hawramani.com/ — Birden fazla klasik sözlüğü derleyen dijital kaynak.
+- Hawramani Arabic Lexicon. https://arabiclexicon.hawramani.com/ (Birden fazla klasik sözlüğü derleyen dijital kaynak)
 
 ### Jeoloji ve Bilimsel Referanslar
 
@@ -2269,13 +2315,13 @@ Bu alternatife karşı argümanlar:
 
 [^lisan_lujj]: İbn Manzur, *Lisân al-Arab*, kök: ل-ج-ج. لُجَّة: "مُعْظَمُ الماء" (suyun büyük kısmı), "الذي لا يُدرك قعره" (dibi bulunamayan). Ayrıca bkz. Lane's Lexicon: "Water whose extremities cannot be seen"; Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/لجج/
 
-[^raghib_mawj]: Ragıb el-İsfahani, *el-Müfredât fî Garîbi'l-Kur'ân*, kök: م-و-ج. مَوْج: "ما ارتفع من الماء فوق الماء" (suyun su üstüne yükselmesi). Ayrıca bkz. Lane's Lexicon: "The sea was in a state of commotion; was agitated with waves"; Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/موج/
+[^raghib_mawj]: Ragıb el-İsfahani, *el-Müfredât fî Garîbi'l-Kur'ân*, kök: م-و-ج. مَوْج: "ما يعلو من غَوارب الماء" (suyun tepelerinden/kabartılarından yükselen). Ayrıca bkz. Lane's Lexicon: "The sea was in a state of commotion; was agitated with waves." Erişim: Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/موج/ ; orijinal metin: https://archive.org/details/Al-isfahani-MufradatAlfadhAl-quran
 
-[^lisan_fawq]: İbn Manzur, *Lisân al-Arab*, kök: ف-و-ق. فَوْق: "نقيض تحت" (تَحْت'ın zıttı — üstünde). Mekânsal dikey konum bildirir. Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/فوق/
+[^lisan_fawq]: İbn Manzur, *Lisân al-Arab*, kök: ف-و-ق. فَوْق: "نقيض تحت" (تَحْت'ın zıttı: üstünde). Mekânsal dikey konum bildirir. Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/فوق/
 
 [^lisan_ghashiya]: İbn Manzur, *Lisân al-Arab*, kök: غ-ش-ي. يَغْشَى: "Örtmek, kaplamak, bürümek, kuşatmak." Lane's Lexicon: "To cover, conceal, veil, envelop."
 
-[^qurtubi_nur40]: Kurtubi, *el-Câmi' li-Ahkâmi'l-Kur'ân*, Nur 24:40 tefsiri. "الموج يتبع بعضه بعضا حتى كأن بعضه فوق بعض" — "Dalgalar birbiri ardınca gelir, sanki bazısı bazısının üstündeymiş gibi." Islamweb.net.
+[^qurtubi_nur40]: Kurtubi, *el-Câmi' li-Ahkâmi'l-Kur'ân*, Nur 24:40 tefsiri. "الموج يتبع بعضه بعضا حتى كأن بعضه فوق بعض" ("Dalgalar birbiri ardınca gelir, sanki bazısı bazısının üstündeymiş gibi"). Islamweb.net.
 
 [^ptolemy_translation]: "Astronomy in the medieval Islamic world," Wikipedia. Ptolemy's Almagest was translated at least five times into Arabic during the 8th and 9th centuries CE, well after the rise of Islam.
 
@@ -2325,7 +2371,7 @@ Bu alternatife karşı argümanlar:
 
 [^muallakat]: Muallakat (Asılı Kasideler) için: Arberry, A.J. (1957). *The Seven Odes: The First Chapter in Arabic Literature*. George Allen & Unwin.
 
-[^ayyam_arab]: Ayyam al-Arab için: Norris, H.T. (1990). *The Adventures of Antar*. Aris & Phillips.
+[^ayyam_arab]: Ayyam al-Arab için: Norris, H.T. (1980). *The Adventures of Antar*. Aris & Phillips.
 
 [^jahiliye_poetry]: Cahiliye dönemi şiiri için: Stetkevych, Suzanne (1993). *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press.
 
@@ -2353,7 +2399,7 @@ Bu alternatife karşı argümanlar:
 
 [^secchi_1865]: Secchi, A. (1865). "Relazione delle esperienze fatte a bordo della pontificia pirocorvetta Imacolata Concezione per determinare la trasparenza del mare." *Il Nuovo Cimento* 20: 205-238. Angelo Secchi'nin 20 Nisan 1865'te Akdeniz'de Papalık korvetinde ilk standart su şeffaflık ölçümünü gerçekleştirdiği makale. Secchi diski, okyanoğrafide ışık penetrasyonunu ölçen ilk standart araçtır. Bkz. ayrıca Wernand, M.R. (2010). "On the history of the Secchi disc." *Journal of the European Optical Society* 5: 10013s.
 
-[^beebe_1934]: Beebe, W. (1934). *Half Mile Down*. New York: Harcourt, Brace and Company. William Beebe ve Otis Barton, 1930-1934 yıllarında Bermuda açıklarında Bathysphere ile 35 dalış gerçekleştirdi. 15 Ağustos 1934'te 923m'ye ulaştı — o dönem dünya rekoru. Beebe, ~518m'de (1700 ft) yüzey ışığının tamamen kaybolduğunu rapor etti: "I could detect not the faintest glimmer of light." İnsanların okyanus karanlık katmanlarını doğrudan gözlemlemesi ilk kez bu dalışlarla gerçekleşmiştir.
+[^beebe_1934]: Beebe, W. (1934). *Half Mile Down*. New York: Harcourt, Brace and Company. William Beebe ve Otis Barton, 1930-1934 yıllarında Bermuda açıklarında Bathysphere ile 35 dalış gerçekleştirdi. 15 Ağustos 1934'te 923m'ye ulaştı (o dönem dünya rekoru). Beebe, ~518m'de (1700 ft) yüzey ışığının tamamen kaybolduğunu rapor etti: "I could detect not the faintest glimmer of light." İnsanların okyanus karanlık katmanlarını doğrudan gözlemlemesi ilk kez bu dalışlarla gerçekleşmiştir.
 
 [^ryther_1956]: Ryther, J.H. (1956). "Photosynthesis in the Ocean as a Function of Light Intensity." *Limnology and Oceanography* 1(1): 61-70. DOI: 10.4319/lo.1956.1.1.0061. Fotik bölgeyi (euphotic zone) "yüzey ışığının %1'ine düştüğü derinlik" olarak tanımlayan ve bu sınırı açık okyanuslarda ~200m olarak belirleyen temel makale.
 
@@ -2409,7 +2455,7 @@ Bu alternatife karşı argümanlar:
 
 [^hindu_kalpa]: Hindu kozmolojisinde kalpa kavramı: Bir kalpa = Brahma'nın bir günü = 4.32 milyar yıl; her kalpa sonunda pralaya (kozmik çözülme) yaşanır ve evren yeniden yaratılır. Kaynak: *Vishnu Purana*, çev. H.H. Wilson, ed. Fitzedward Hall (London: Trubner and Co., 1877). Budist kappa kavramı için bkz. Vasubandhu, *Abhidharmakośabhāṣyam*, çev. L.M. Pruden (Berkeley: Asian Humanities Press, 1990), Bölüm III. ISBN: 978-0-89581-913-0.
 
-[^greek_indestructible_matter]: Parmenides: "Yokluktan hiçbir şey oluşamaz." Empedocles (DK 31 B12): Yokluktan var oluşun imkansızlığı ilkesi; (DK 31 B17): Dört element (kök/rizomata) ezeli ve yok edilemezdir — "Eğer tamamen yok olsalardı, artık var olamazlardı." Bkz. Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
+[^greek_indestructible_matter]: Parmenides: "Yokluktan hiçbir şey oluşamaz." Empedocles (DK 31 B12): Yokluktan var oluşun imkansızlığı ilkesi; (DK 31 B17): Dört element (kök/rizomata) ezeli ve yok edilemezdir: "Eğer tamamen yok olsalardı, artık var olamazlardı." Bkz. Kirk, G.S., Raven, J.E. & Schofield, M. (1983). *The Presocratic Philosophers*, 2nd ed. Cambridge University Press. ISBN: 978-0-521-27455-5.
 
 [^ancient_moon_myths]: Antik Mezopotamya'da Ay tanrısı Sin/Nanna "geceye ışık getiren" olarak tapılırdı (bkz. ORACC, University of Pennsylvania Museum). Mısır'da Khonsu "gecenin ışığının tanrısı" idi. Yunan mitolojisinde Selene'nin adı "selas" (parlaklık) kökünden gelir ve "ölümsüz başından göğe ışık saçar" şeklinde tasvir edilir. Bkz. "Selene," *Theoi Greek Mythology* (theoi.com).
 
@@ -2419,16 +2465,16 @@ Bu alternatife karşı argümanlar:
 
 [^aryabhata_moon]: Aryabhata (476-550), *Aryabhatiya* (c. 510), Gola (Küre) bölümü: Ay'ın güneş ışığını yansıttığını ve ay tutulmasının Ay'ın Dünya'nın gölgesine girmesiyle oluştuğunu açıklar. Çeviri: Clark, W.E. (1930). *The Aryabhatiya of Aryabhata*. University of Chicago Press. Brahmagupta (598-668), *Brahmasphutasiddhanta* (628), Bölüm 7: "Güneş ışığında duran bir çömleğin aydınlık tarafı gibi, Ay'ın [aydınlatılması da] öyledir." Bkz. Plofker, K. (2009). *Mathematics in India: 500 BCE–1800 CE*. Princeton University Press. ISBN: 978-0-691-12067-6.
 
-[^lane_wsa]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*, 8 cilt. London: Williams and Norgate. Kök: و-س-ع (W-S-ʿ). "وَسِعَ" (wasi'a) = "geniş oldu, genişledi"; "مُوسِع" (mūsiʿ) = aktif ortaç (ism al-fāʿil), "genişleten, genişletmekte olan." Aktif ortaç formu, eylemin devam ettiğini (süreklilik) bildirir. Bkz. Lane, Cilt 8, s. 2943-2944.
+[^lane_wsa]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*, 8 cilt. London: Williams and Norgate. Kök: و-س-ع (W-S-ʿ). "وَسِعَ" (wasi'a) = "geniş oldu, genişledi"; "مُوسِع" (mūsiʿ) = aktif ortaç (ism al-fāʿil), "genişleten, genişletmekte olan." Aktif ortaç formu, eylemin devam ettiğini (süreklilik) bildirir. Bkz. Lane, Cilt 8, s. 2943-2944. Erişim: Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/وسع/ ; dijital tarama: lexicon.quranic-research.net.
 
-[^wright_grammar]: Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, rev. W. Robertson Smith & M.J. de Goeje, 2 cilt. Cambridge: Cambridge University Press. Cilt I, §§ 130-134: İsm-i fâil (active participle) formunun Arapça'da devam eden veya alışılmış eylemi bildirdiğini açıklar. "Mûsi'ûn" formu, fâil kalıbının çoğul halidir ve süreklilik ifade eder.
+[^wright_grammar]: Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, rev. W. Robertson Smith & M.J. de Goeje, 2 cilt. Cambridge: Cambridge University Press. Cilt I, s. 131-134 (Nomina Agentis et Patientis bölümü): İsm-i fâil (active participle) formunun Arapça'da devam eden veya alışılmış eylemi bildirdiğini açıklar. "Mûsi'ûn" formu, fâil kalıbının çoğul halidir ve süreklilik ifade eder. Dijital erişim: https://archive.org/details/AGrammarOfTheArabicLanguageV1
 
-[^wright_arabic_gender]: Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, 2 cilt. Cambridge: Cambridge University Press. Cilt I, §§ 27-33: Arapça'da fiillerin dişil (müennes) ve eril (müzekker) formlarının kullanımı. Emir kipinde "-î" eki dişil tekil hitabı bildirir (ittehizî = "sen [dişil] edin"). Cilt II, § 48: Eril çoğul form (müzekker cem') karışık cinsiyetli gruplar için varsayılan form olarak kullanılır. Ayrıca bkz. Wehr, H. (1994). *A Dictionary of Modern Written Arabic (Arabic-English)*, 4. baskı, ed. J.M. Cowan. Ithaca: Spoken Language Services. ISBN: 0-87950-003-4.
+[^wright_arabic_gender]: Wright, W. (1896-1898). *A Grammar of the Arabic Language*, 3. baskı, 2 cilt. Cambridge: Cambridge University Press. Cilt I, s. 55 vd. (The Numbers, Persons, and Genders of the Verb) ve s. 183 vd. (Formation of the Feminine): Arapça'da fiillerin dişil (müennes) ve eril (müzekker) formlarının kullanımı. Emir kipinde "-î" eki dişil tekil hitabı bildirir (ittehizî = "sen [dişil] edin"). Cilt II, s. 288-299 (Concord in Gender and Number): Eril çoğul form (müzekker cem') karışık cinsiyetli gruplar için varsayılan form olarak kullanılır. Ayrıca bkz. Wehr, H. (1994). *A Dictionary of Modern Written Arabic (Arabic-English)*, 4. baskı, ed. J.M. Cowan. Ithaca: Spoken Language Services. ISBN: 0-87950-003-4. Dijital erişim: https://archive.org/details/AGrammarOfTheArabicLanguageV1
 
-[^lane_wjd]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. Kök: و-ج-د (W-J-D). "وَجَدَ" (wajada): Lane, birincil anlamlar arasında "bulmak" yanı sıra "algılamak, deneyimlemek, hissetmek" anlamlarını verir. "وَجَدَهُ كَذَا" (wajadahu kadhā) = "onu öyle buldu/gördü/algıladı" — öznenin subjektif deneyimini ifade eder; nesnel gerçeklik hakkında zorunlu bir iddia taşımaz. Bkz. Lane, Cilt 8, s. 2924-2926.
+[^lane_wjd]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. Kök: و-ج-د (W-J-D). "وَجَدَ" (wajada): Lane, birincil anlamlar arasında "bulmak" yanı sıra "algılamak, deneyimlemek, hissetmek" anlamlarını verir. "وَجَدَهُ كَذَا" (wajadahu kadhā) = "onu öyle buldu/gördü/algıladı"; öznenin subjektif deneyimini ifade eder, nesnel gerçeklik hakkında zorunlu bir iddia taşımaz. Bkz. Lane, Cilt 8, s. 2924-2925. Erişim: lexicon.quranic-research.net (dijital tarama); Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/وجد/
 
-[^lisan_arab_seba]: İbn Manzur. *Lisânü'l-Arab*, 15 cilt. Beyrut: Dâr Sâdır, 1955-1956. Kök: س-ب-ع (S-B-ʿ). "سَبْع" (seb') ve "سَبْعَة" (seb'a): Literal olarak 7 sayısını ifade eder, ancak Arapça'da mecazi olarak "çokluk, tamamlık, büyük miktar" anlamında da kullanılır. Benzer kullanım: "سَبْعِينَ مَرَّةً" (yetmiş kere) = "çok kere" (Tevbe 9:80). Ayrıca bkz. Lane, Cilt 4, s. 1299-1300.
+[^lisan_arab_seba]: İbn Manzur. *Lisânü'l-Arab*, 15 cilt. Beyrut: Dâr Sâdır, 1955-1956. Kök: س-ب-ع (S-B-ʿ). "سَبْع" (seb') ve "سَبْعَة" (seb'a): Literal olarak 7 sayısını ifade eder, ancak Arapça'da mecazi olarak "çokluk, tamamlık, büyük miktar" anlamında da kullanılır. Benzer kullanım: "سَبْعِينَ مَرَّةً" (yetmiş kere) = "çok kere" (Tevbe 9:80). Ayrıca bkz. Lane, Cilt 4, s. 1296-1298. Erişim: lexicon.quranic-research.net (dijital tarama); Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/سبع/
 
-[^lane_rsw]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. Kök: ر-س-و (R-S-W). "رَسَا" (rasā) = "sabit oldu, durdu; (gemi) demir attı." "رَاسٍ" / "رَاسِيَة" (rāsī/rāsiya) = ism-i fāʿil: "sabit duran, demir atmış." "رَوَاسِي" (rawāsī) = çoğul: "sabitleyen/sabitlenmiş olanlar" — dağlar için kullanıldığında "yer kabuğunu sabitleyen" anlamına gelir. "مِرْسَاة" (mirsāt) = ism-i âlet: "çapa, demir" — aynı kökten türemiş olup dağların çapa işlevi görmesi metaforunu destekler. Bkz. Lane, Cilt 3, s. 1080-1081.
+[^lane_rsw]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. Kök: ر-س-و (R-S-W). "رَسَا" (rasā) = "sabit oldu, durdu; (gemi) demir attı." "رَاسٍ" / "رَاسِيَة" (rāsī/rāsiya) = ism-i fāʿil: "sabit duran, demir atmış." "رَوَاسِي" (rawāsī) = çoğul: "sabitleyen/sabitlenmiş olanlar"; dağlar için kullanıldığında "yer kabuğunu sabitleyen" anlamına gelir. "مِرْسَاة" (mirsāt) = ism-i âlet: "çapa, demir"; aynı kökten türemiş olup dağların çapa işlevi görmesi metaforunu destekler. Bkz. Lane, Cilt 3, s. 1086-1087. Erişim: lexicon.quranic-research.net (dijital tarama); Hawramani Arabic Lexicon, https://arabiclexicon.hawramani.com/رسو/
 
-[^lane_diya_nur]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. "ضَوْء" / "ضِيَاء" (ḍawʾ/ḍiyāʾ): Lane, bazı otoritelere atıfla "الضَّوْءُ signifies that [light] which subsists by itself... and النُّورُ, to that which subsists by some other thing" (ḍawʾ kendi başına var olan ışık, nūr başka bir şey aracılığıyla var olan ışık) ayrımını aktarır (Cilt 5, s. 1814). Ancak Lane aynı maddede bu ayrımın **tartışmalı** olduğunu ve birçok leksikologun iki terimi eş anlamlı (müteradif) saydığını belirtir. Bkz. ayrıca Wehr, H. (1994). *A Dictionary of Modern Written Arabic*, 4. baskı. "ضوء" (ḍawʾ) = light, brightness; "نور" (nūr) = light, luminosity.
+[^lane_diya_nur]: Lane, E.W. (1863-1893). *An Arabic-English Lexicon*. "ضَوْء" / "ضِيَاء" (ḍawʾ/ḍiyāʾ): Lane, bazı otoritelere atıfla "الضَّوْءُ signifies that [light] which subsists by itself... and النُّورُ, to that which subsists by some other thing" (ḍawʾ kendi başına var olan ışık, nūr başka bir şey aracılığıyla var olan ışık) ayrımını aktarır (Cilt 5, s. 1809). Ancak Lane aynı maddede bu ayrımın **tartışmalı** olduğunu ve birçok leksikologun iki terimi eş anlamlı (müteradif) saydığını belirtir. Bkz. ayrıca Wehr, H. (1994). *A Dictionary of Modern Written Arabic*, 4. baskı. "ضوء" (ḍawʾ) = light, brightness; "نور" (nūr) = light, luminosity.
