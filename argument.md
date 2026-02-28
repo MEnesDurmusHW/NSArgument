@@ -139,7 +139,7 @@
       - [4. "Sadece Metafor" Eleştirisinin Değerlendirilmesi](#4-sadece-metafor-eleştirisinin-değerlendirilmesi)
       - [5. Alternatif Yorum: "Ardışık Yüzey Dalgaları"](#5-alternatif-yorum-ardışık-yüzey-dalgaları)
   - [8. Sonuç](#8-sonuç)
-    - [8.5 Kur'an İman ve Akıl Hakkında Ne Diyor?](#85-kuran-iman-ve-akıl-hakkında-ne-diyor)
+  - [9. Kur'an Araştırmayı Teşvik Ediyor mu?](#9-kuran-araştırmayı-teşvik-ediyor-mu)
   - [Kaynakça](#kaynakça)
   - [Dipnotlar](#dipnotlar)
     - [Antik Kaynaklar](#antik-kaynaklar)
@@ -2237,11 +2237,13 @@ Bu argüman, Kur'an'ın ilahi kaynaktan geldiğini kesin olarak "kanıtlamak" id
 
 Ancak deliller bir bütün olarak değerlendirildiğinde (arkeolojik olarak doğrulanmış değişmezlik, dönemin bilgi düzeyini aşan sistematik doğruluk, alternatif açıklamaların yetersizliği ve metnin kendi iç tutarlılığı), Kur'an'ın ilahi kaynaktan geldiği hipotezi mevcut seçenekler arasında delillerle en uyumlu açıklama olarak öne çıkmaktadır.
 
-### 8.5 Kur'an İman ve Akıl Hakkında Ne Diyor?
+---
 
-Bu argüman boyunca Kur'an'ın bilimsel ve matematiksel içeriği incelendi. Ancak Kur'an'ın kendisi de iman, akıl ve inanç hakkında doğrudan ifadeler içermektedir. Argümanın bağlamını tamamlamak için bu ayetler aşağıda sunulmaktadır.
+## 9. Kur'an Araştırmayı Teşvik Ediyor mu?
 
-#### Akıl ve Düşünme
+Bu metin boyunca Kur'an'ın ilahi kaynağı rasyonel delillerle incelendi. Peki Kur'an'ın kendisi böyle bir yaklaşımı nasıl değerlendiriyor? Aşağıdaki ayetler bu soruya cevap vermektedir.
+
+### Akıl ve Düşünme
 
 Kur'an, akıl kullanmayı ve düşünmeyi defalarca teşvik eder:
 
@@ -2263,7 +2265,7 @@ Kur'an ayrıca ataları körü körüne taklit etmeyi sert biçimde eleştirir:
 > *"Onlara 'Allah'ın indirdiğine uyun' dendiğinde, 'Hayır, biz atalarımızı üzerinde bulduğumuz şeye uyarız' derler. Ya ataları bir şey akıl edememiş ve doğru yolu bulamamışlarsa?"*
 > — Bakara 2:170
 
-#### İman Nasıl Olmalı?
+### İman Nasıl Olmalı?
 
 Kur'an'da Hz. İbrahim'in tutumu, imanın akılla çelişmediğini gösteren önemli bir örnektir:
 
@@ -2285,7 +2287,7 @@ Kur'an ayrıca dinde zorlamayı reddeder:
 > *"Dinde zorlama yoktur. Doğruluk, sapkınlıktan açıkça ayrılmıştır."*
 > — Bakara 2:256
 
-#### Müslüman Kime Denir?
+### Müslüman Kime Denir?
 
 Kur'an, "İslam'a girmek" ile "gerçek iman" arasında açık bir ayrım yapar:
 
@@ -2299,7 +2301,7 @@ Kur'an, "İslam'a girmek" ile "gerçek iman" arasında açık bir ayrım yapar:
 > *"Peygamber, Rabbinden kendisine indirilene iman etti, müminler de. Hepsi Allah'a, meleklerine, kitaplarına ve peygamberlerine iman etti."*
 > — Bakara 2:285
 
-#### Cennet ve Cehennem
+### Cennet ve Cehennem
 
 Kur'an'ın en çok tekrarladığı formül, iman ve amelin birlikteliğidir:
 
@@ -2327,7 +2329,7 @@ Ve dikkat çekici bir kapsayıcılık ayeti:
 
 **Not:** Ayette geçen النَّصَارَى (Nasârâ), "Hristiyanlar" olarak çevrilse de literal anlamı "Nasıralı İsa'nın takipçileri"dir. Bu kelime الناصرة (Nazareth/Nasıra) ile bağlantılıdır ve İsa'nın orijinal takipçilerini ifade eder. Pavlus'un şekillendirdiği ve 325 İznik Konsili'nden geçmiş modern Hristiyanlık ile aynı şey değildir.
 
-#### Şüphe ve İman
+### Şüphe ve İman
 
 Kur'an, şüphe (ارتياب) konusunda net bir çerçeve çizer:
 
